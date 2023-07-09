@@ -881,6 +881,15 @@
 		"stations": [15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0],
 		"draw_map": [15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0],
 		"id": 97
+	}, {
+		"name": "觀塘綫 Kwun Tong Line",
+		"html": "觀塘綫 Kwun Tong Line",
+		"css": "subway-line-long",
+		"color_bg": "#00AB4E",
+		"color_text": "#FFFFFF",
+		"stations": [33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 6, 5, 4, 21, 20],
+		"draw_map": [33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 6, 5, 4, 21, 20],
+		"id": 98
 	}],
 	"stations": [{
 		"lat": 22.281428766477877,
@@ -924,7 +933,7 @@
 		"name": "油麻地 Yau Ma Tei   ",
 		"info": "油麻地",
 		"riders": 0,
-		"lines": [97],
+		"lines": [97, 98],
 		"id": 4,
 		"active": true
 	}, {
@@ -933,7 +942,7 @@
 		"name": "旺角 Mong Kok   ",
 		"info": "旺角",
 		"riders": 0,
-		"lines": [97],
+		"lines": [97, 98],
 		"id": 5,
 		"active": true
 	}, {
@@ -942,7 +951,7 @@
 		"name": "太子 Prince Edward",
 		"info": "旺角",
 		"riders": 0,
-		"lines": [97],
+		"lines": [97, 98],
 		"id": 6,
 		"active": true
 	}, {
@@ -1032,7 +1041,7 @@
 		"name": "葵涌 - 葵興路166號",
 		"info": "葵涌",
 		"riders": 0,
-		"lines": [0],
+		"lines": [],
 		"id": 16,
 		"active": false
 	}, {
@@ -1041,7 +1050,7 @@
 		"name": "葵涌 - 興盛路",
 		"info": "葵涌",
 		"riders": 0,
-		"lines": [0],
+		"lines": [],
 		"id": 17,
 		"active": false
 	}, {
@@ -1050,7 +1059,7 @@
 		"name": "葵涌 - 荔景山路",
 		"info": "葵涌",
 		"riders": 0,
-		"lines": [0],
+		"lines": [],
 		"id": 18,
 		"active": false
 	}, {
@@ -1059,9 +1068,135 @@
 		"name": "尖沙咀 - 樂道",
 		"info": "尖沙咀",
 		"riders": 0,
-		"lines": [0],
+		"lines": [],
 		"id": 19,
 		"active": false
+	}, {
+		"lat": 22.30448338762452,
+		"lng": 114.19042095076296,
+		"name": "黃埔 Whampoa   ",
+		"info": "紅磡",
+		"riders": 0,
+		"lines": [98],
+		"id": 20,
+		"active": true
+	}, {
+		"lat": 22.30933650939005,
+		"lng": 114.18258190155031,
+		"name": "何文田 Ho Man Tin   ",
+		"info": "何文田",
+		"riders": 0,
+		"lines": [98],
+		"id": 21,
+		"active": true
+	}, {
+		"lat": 22.33215892830942,
+		"lng": 114.16876316070558,
+		"name": "石硤尾 Shek Kip Mei   ",
+		"info": "石硤尾",
+		"riders": 0,
+		"lines": [98],
+		"id": 22,
+		"active": true
+	}, {
+		"lat": 22.337389780689325,
+		"lng": 114.1756356926635,
+		"name": "九龍塘 Kowloon Tong   ",
+		"info": "九龍塘",
+		"riders": 0,
+		"lines": [98],
+		"id": 23,
+		"active": true
+	}, {
+		"lat": 22.338178892180466,
+		"lng": 114.18732025427745,
+		"name": "樂富 Lok Fu   ",
+		"info": "橫頭磡",
+		"riders": 0,
+		"lines": [98],
+		"id": 24,
+		"active": true
+	}, {
+		"lat": 22.341675850751603,
+		"lng": 114.19366478919984,
+		"name": "黃大仙 Wong Tai Sin   ",
+		"info": "黃大仙",
+		"riders": 0,
+		"lines": [98],
+		"id": 25,
+		"active": true
+	}, {
+		"lat": 22.34008312640296,
+		"lng": 114.20161485671998,
+		"name": "鑽石山 Diamond Hil   ",
+		"info": "鑽石山",
+		"riders": 0,
+		"lines": [98],
+		"id": 26,
+		"active": true
+	}, {
+		"lat": 22.3350362005085,
+		"lng": 114.20869069173933,
+		"name": "彩虹 Choi Hung   ",
+		"info": "",
+		"riders": 0,
+		"lines": [98],
+		"id": 27,
+		"active": true
+	}, {
+		"lat": 22.323585838871157,
+		"lng": 114.21411914750936,
+		"name": "九龍灣 Kowloon Bay   ",
+		"info": "九龍灣",
+		"riders": 0,
+		"lines": [98],
+		"id": 28,
+		"active": true
+	}, {
+		"lat": 22.315768253634168,
+		"lng": 114.21873807907106,
+		"name": "牛頭角 Ngau Tau Kok   ",
+		"info": "牛頭角",
+		"riders": 0,
+		"lines": [98],
+		"id": 29,
+		"active": true
+	}, {
+		"lat": 22.312205024523454,
+		"lng": 114.22643065452577,
+		"name": "觀塘 Kwun Tong   ",
+		"info": "觀塘",
+		"riders": 0,
+		"lines": [98],
+		"id": 30,
+		"active": true
+	}, {
+		"lat": 22.306693014129717,
+		"lng": 114.23310826532544,
+		"name": "藍田 Lam Tin   ",
+		"info": "",
+		"riders": 0,
+		"lines": [98],
+		"id": 31,
+		"active": true
+	}, {
+		"lat": 22.297980358076213,
+		"lng": 114.23708648420873,
+		"name": "油塘 Yau Tong   ",
+		"info": "",
+		"riders": 0,
+		"lines": [98],
+		"id": 32,
+		"active": true
+	}, {
+		"lat": 22.303946717779215,
+		"lng": 114.25225496292116,
+		"name": "調景嶺 Tiu Keng Leng   ",
+		"info": "",
+		"riders": 0,
+		"lines": [98],
+		"id": 33,
+		"active": true
 	}],
 	"transfers": [],
 	"version": 0.11
