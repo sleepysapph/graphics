@@ -936,8 +936,8 @@
 		"draw_map": [55, 56, 57, 58, 11, 59, 63, 62],
 		"id": 103
 	}, {
-		"name": "迪士尼綫 Disneyland Reso",
-		"html": "迪士尼綫 Disneyland Reso",
+		"name": "迪士尼綫 Disneyland Resort Line",
+		"html": "迪士尼綫 Disneyland Resort Line",
 		"css": "subway-line-long",
 		"color_bg": "#F173AC",
 		"color_text": "#FFFFFF",
