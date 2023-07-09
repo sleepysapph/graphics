@@ -95,8 +95,8 @@
 		"css": "subway-line",
 		"color_bg": "#FCCC0A",
 		"color_text": "#000000",
-		"stations": [485, 486, 487, 488, 489, 490, 491, 492, 493, 381, 382, 180, 246, 109, 421, 68, 258, 387, 388, 389, 263, 390, 391, 392, 393, 394, 395, 271],
-		"draw_map": [485, 486, 487, 488, 489, 490, 491, 492, 493, 381, 382, 180, 246, 383, 384, 109, 385, 386, 421, 249, 68, 407, 289, 408, 409, 258, 410, 411, 387, 388, 389, 263, 390, 391, 392, 393, 394, 395, 271],
+		"stations": [581, 167, 583, 577, 575, 574, 573, 572, 485, 486, 487, 488, 489, 490, 491, 492, 493, 381, 382, 180, 246, 109, 421, 68, 258, 387, 388, 389, 263, 390, 391, 392, 393, 394, 395, 271],
+		"draw_map": [581, 167, 583, 577, 575, 574, 573, 572, 485, 486, 487, 488, 489, 490, 491, 492, 493, 381, 382, 180, 246, 383, 384, 109, 385, 386, 421, 249, 68, 407, 289, 408, 409, 258, 410, 411, 387, 388, 389, 263, 390, 391, 392, 393, 394, 395, 271],
 		"id": 10
 	}, {
 		"name": "Q",
@@ -131,8 +131,8 @@
 		"css": "subway-line",
 		"color_bg": "#808183",
 		"color_text": "#FFFFFF",
-		"stations": [250, 435, 416, 219],
-		"draw_map": [250, 435, 416, 219],
+		"stations": [250, 435, 416, 219, 595],
+		"draw_map": [250, 435, 416, 219, 595],
 		"id": 14
 	}, {
 		"name": "S-3",
@@ -158,8 +158,8 @@
 		"css": "subway-line",
 		"color_bg": "#EE352E",
 		"color_text": "#FFFFFF",
-		"stations": [426, 35, 34, 33, 32, 31, 30, 29, 423, 27, 26, 25, 24, 180, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0],
-		"draw_map": [426, 35, 34, 33, 32, 31, 30, 29, 423, 27, 26, 25, 24, 180, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0],
+		"stations": [426, 35, 34, 33, 32, 31, 30, 29, 423, 27, 26, 25, 24, 180, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0, 601, 602, 603, 605],
+		"draw_map": [426, 35, 34, 33, 32, 31, 30, 29, 423, 27, 26, 25, 24, 180, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0, 601, 602, 603, 605],
 		"id": 17
 	}, {
 		"name": "2",
@@ -212,8 +212,8 @@
 		"css": "subway-line",
 		"color_bg": "#B933AD",
 		"color_text": "#FFFFFF",
-		"stations": [150, 180, 429, 108, 152, 153, 433, 491, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169],
-		"draw_map": [150, 180, 429, 108, 152, 153, 433, 491, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169],
+		"stations": [150, 597, 180, 429, 108, 152, 153, 433, 491, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169],
+		"draw_map": [150, 597, 180, 429, 108, 152, 153, 433, 491, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169],
 		"id": 23
 	}, {
 		"name": "SIRR",
@@ -275,8 +275,8 @@
 		"css": "subway-line",
 		"color_bg": "#FCCC0A",
 		"color_text": "#000000",
-		"stations": [427, 406, 405, 404, 421, 386, 385, 109, 384, 383, 246, 180, 382, 381, 493, 492, 491, 490, 489, 488, 487, 486, 485],
-		"draw_map": [427, 406, 405, 404, 421, 386, 385, 109, 384, 383, 246, 180, 382, 381, 493, 492, 491, 490, 489, 488, 487, 486, 485],
+		"stations": [427, 406, 405, 404, 421, 386, 385, 109, 384, 383, 246, 180, 382, 381, 493, 492, 491, 490, 489, 488, 487, 486, 485, 572, 573, 574, 575, 577, 583, 167, 581],
+		"draw_map": [427, 406, 405, 404, 421, 386, 385, 109, 384, 383, 246, 180, 382, 381, 493, 492, 491, 490, 489, 488, 487, 486, 485, 572, 573, 574, 575, 577, 583, 167, 581],
 		"id": 30
 	}, {
 		"name": "8",
@@ -878,16 +878,16 @@
 		"css": "subway-line-long",
 		"color_bg": "#8a86b3",
 		"color_text": "#FFFFFF",
-		"stations": [554, 552, 388, 263, 559, 555, 557, 560, 561, 562, 563, 564, 370, 188, 366, 565, 326, 568, 569, 570, 162],
-		"draw_map": [554, 552, 388, 389, 263, 559, 555, 557, 560, 561, 562, 563, 564, 370, 369, 368, 188, 367, 366, 565, 326, 568, 569, 570, 162],
+		"stations": [554, 552, 388, 263, 559, 555, 557, 560, 561, 562, 563, 564, 370, 188, 366, 565, 326, 568, 569, 570, 584, 585, 586, 587, 573, 574, 575, 577, 589, 592, 591],
+		"draw_map": [554, 552, 388, 389, 263, 559, 555, 557, 560, 561, 562, 563, 564, 370, 369, 368, 188, 367, 366, 565, 326, 568, 569, 570, 584, 585, 586, 587, 573, 574, 575, 577, 589, 592, 591],
 		"id": 97
 	}],
 	"stations": [{
 		"lat": 40.889655210826895,
 		"lng": -73.89880657196046,
-		"name": "Van Cortlandt Park - 242 St",
+		"name": "Van Cortlandt Park - 242 St   ",
 		"info": "Bronx<br />Fieldston",
-		"riders": 1699.773329476529,
+		"riders": 1678.5828173186376,
 		"lines": [17],
 		"id": 0,
 		"active": true
@@ -959,7 +959,7 @@
 		"lng": -73.93381476402284,
 		"name": "181 St",
 		"info": "Manhattan<br />Washington Heights",
-		"riders": 29826.04942492351,
+		"riders": 29942.99693238796,
 		"lines": [17],
 		"id": 8,
 		"active": true
@@ -968,7 +968,7 @@
 		"lng": -73.93969416618349,
 		"name": "168 St",
 		"info": "Manhattan<br />Washington Heights",
-		"riders": 63593.726485506726,
+		"riders": 65025.41236054383,
 		"lines": [0, 2, 17],
 		"id": 9,
 		"active": true
@@ -2336,17 +2336,17 @@
 		"lng": -73.89636039733888,
 		"name": "69 St",
 		"info": "Queens<br />Woodside",
-		"riders": 10930.938763133632,
+		"riders": 8710.446916702014,
 		"lines": [23],
 		"id": 161,
 		"active": true
 	}, {
 		"lat": 40.74689932430741,
 		"lng": -73.89163970947267,
-		"name": "Jackson Hts - Roosevelt Av",
+		"name": "Jackson Hts - Roosevelt Av/74 St - Broadway  ",
 		"info": "Queens<br />Jackson Heights",
-		"riders": 37415.4533223041,
-		"lines": [4, 5, 9, 12, 23, 97],
+		"riders": 26730.294471272464,
+		"lines": [4, 5, 9, 12, 23],
 		"id": 162,
 		"active": true
 	}, {
@@ -2390,8 +2390,8 @@
 		"lng": -73.8559126853943,
 		"name": "111 St",
 		"info": "Queens<br />Jackson Heights",
-		"riders": 13802.59118826662,
-		"lines": [23],
+		"riders": 22260.681583885977,
+		"lines": [23, 10, 30],
 		"id": 167,
 		"active": true
 	}, {
@@ -2399,7 +2399,7 @@
 		"lng": -73.84574174880983,
 		"name": "Mets-Willets Point",
 		"info": "Queens<br />Flushing Meadows Corona Park",
-		"riders": 1.4519033638522625,
+		"riders": 1.2024072651017113,
 		"lines": [23],
 		"id": 168,
 		"active": true
@@ -2444,7 +2444,7 @@
 		"lng": -73.93833160400392,
 		"name": "181 St",
 		"info": "Manhattan<br />Washington Heights",
-		"riders": 22226.851378939617,
+		"riders": 22461.054604220073,
 		"lines": [0],
 		"id": 173,
 		"active": true
@@ -2453,7 +2453,7 @@
 		"lng": -73.93981218338014,
 		"name": "175 St",
 		"info": "Manhattan<br />Washington Heights",
-		"riders": 15203.882132138076,
+		"riders": 15101.40133686236,
 		"lines": [0],
 		"id": 174,
 		"active": true
@@ -2480,7 +2480,7 @@
 		"lng": -73.98985147476198,
 		"name": "42 St - Port Authority Bus Terminal",
 		"info": "Manhattan<br />Hell's Kitchen",
-		"riders": 22852.046792941153,
+		"riders": 20592.17232782375,
 		"lines": [0, 2, 4],
 		"id": 177,
 		"active": true
@@ -2561,7 +2561,7 @@
 		"lng": -73.94961833953859,
 		"name": "Nostrand Av",
 		"info": "Brooklyn<br />Bedford-Stuyvesant",
-		"riders": 27923.766936493306,
+		"riders": 28538.493757520377,
 		"lines": [0, 2],
 		"id": 186,
 		"active": true
@@ -3677,7 +3677,7 @@
 		"lng": -73.89763712882997,
 		"name": "65 St",
 		"info": "Queens<br />Woodside",
-		"riders": 18617.21133395205,
+		"riders": 15453.378484315823,
 		"lines": [9, 12],
 		"id": 310,
 		"active": true
@@ -3893,7 +3893,7 @@
 		"lng": -73.95157098770143,
 		"name": "Bedford-Nostrand Avs",
 		"info": "Brooklyn<br />Bedford-Stuyvesant",
-		"riders": 26804.564553542357,
+		"riders": 25201.239544213346,
 		"lines": [6],
 		"id": 334,
 		"active": true
@@ -3902,7 +3902,7 @@
 		"lng": -73.96002531051637,
 		"name": "Classon Av",
 		"info": "Brooklyn<br />Bedford-Stuyvesant",
-		"riders": 21457.994808799973,
+		"riders": 14214.2346185529,
 		"lines": [6],
 		"id": 335,
 		"active": true
@@ -3911,7 +3911,7 @@
 		"lng": -73.9658832550049,
 		"name": "Clinton-Washington Avs",
 		"info": "Brooklyn<br />Clinton Hill",
-		"riders": 16504.372313667845,
+		"riders": 15834.721807881686,
 		"lines": [6],
 		"id": 336,
 		"active": true
@@ -6030,6 +6030,321 @@
 		"lines": [97],
 		"id": 571,
 		"active": false
+	}, {
+		"lat": 40.77725298002704,
+		"lng": -73.8980014063418,
+		"name": "42 St - 19 Av",
+		"info": "Queens<br />Ditmars Steinway",
+		"riders": 4027.8534731613167,
+		"lines": [10, 30],
+		"id": 572,
+		"active": true
+	}, {
+		"lat": 40.768435485105684,
+		"lng": -73.88586759567262,
+		"name": "LaGuardia Terminal A (Marine Air Terminal)",
+		"info": "Queens<br />LaGuardia Airport",
+		"riders": 2413.6169777058526,
+		"lines": [10, 30, 97],
+		"id": 573,
+		"active": true
+	}, {
+		"lat": 40.772384378604244,
+		"lng": -73.87378692626955,
+		"name": "LaGuardia Airport Terminal B",
+		"info": "Queens<br />LaGuardia Airport",
+		"riders": 17341.37167595333,
+		"lines": [10, 30, 97],
+		"id": 574,
+		"active": true
+	}, {
+		"lat": 40.76904292967859,
+		"lng": -73.86498827487232,
+		"name": "LaGuardia Airport Terminals C & D",
+		"info": "Queens<br />LaGuardia Airport",
+		"riders": 9771.155386921773,
+		"lines": [10, 30, 97],
+		"id": 575,
+		"active": true
+	}, {
+		"lat": 40.75278982725331,
+		"lng": -73.85249638929965,
+		"name": "Jackson Heights - Corona - 114th St",
+		"info": "Queens<br />Jackson Heights",
+		"riders": null,
+		"lines": [10],
+		"id": 576,
+		"active": false
+	}, {
+		"lat": 40.76010412944261,
+		"lng": -73.8592770136893,
+		"name": "East Elmhurst - Astoria Blvd",
+		"info": "Queens<br />East Elmhurst",
+		"riders": 8764.778590977045,
+		"lines": [10, 30, 97],
+		"id": 577,
+		"active": true
+	}, {
+		"lat": 40.756603650537336,
+		"lng": -73.85801553726198,
+		"name": "34 Av",
+		"info": "Queens<br />Jackson Heights",
+		"riders": null,
+		"lines": [10],
+		"id": 578,
+		"active": false
+	}, {
+		"lat": 40.75665241241919,
+		"lng": -73.85795116424562,
+		"name": "34 Av",
+		"info": "Queens<br />Jackson Heights",
+		"riders": null,
+		"lines": [10],
+		"id": 579,
+		"active": false
+	}, {
+		"lat": 40.74434585528633,
+		"lng": -73.84868283290417,
+		"name": "Corona - Avenue of Transportation - Corona Park",
+		"info": "Queens<br />Flushing Meadows Corona Park",
+		"riders": null,
+		"lines": [10],
+		"id": 580,
+		"active": false
+	}, {
+		"lat": 40.74414264293598,
+		"lng": -73.85199804324658,
+		"name": "Flushing Meadows/Corona Park",
+		"info": "Queens<br />Corona",
+		"riders": 9868.660322411808,
+		"lines": [10, 30],
+		"id": 581,
+		"active": true
+	}, {
+		"lat": 40.74445914590213,
+		"lng": -73.85066071059556,
+		"name": "Flushing Meadows Corona Park - Corona - 111th St - Corona Park",
+		"info": "Queens<br />Flushing Meadows Corona Park",
+		"riders": null,
+		"lines": [10],
+		"id": 582,
+		"active": false
+	}, {
+		"lat": 40.75515703177198,
+		"lng": -73.85717868804933,
+		"name": "34-37 Avs",
+		"info": "Queens<br />Jackson Heights",
+		"riders": 17650.817515322942,
+		"lines": [30, 10],
+		"id": 583,
+		"active": true
+	}, {
+		"lat": 40.74653631799631,
+		"lng": -73.89442778192462,
+		"name": "Jackson Heights - Roosevelt Ave",
+		"info": "Queens<br />Woodside",
+		"riders": 6962.442221135435,
+		"lines": [97],
+		"id": 584,
+		"active": true
+	}, {
+		"lat": 40.75414925627699,
+		"lng": -73.89861345291139,
+		"name": "Northern Blvd",
+		"info": "Queens<br />East Elmhurst",
+		"riders": 8710.743500307768,
+		"lines": [97],
+		"id": 585,
+		"active": true
+	}, {
+		"lat": 40.75996813647878,
+		"lng": -73.8983988761902,
+		"name": "30 Av",
+		"info": "Queens<br />East Elmhurst",
+		"riders": 6535.253355675649,
+		"lines": [97],
+		"id": 586,
+		"active": true
+	}, {
+		"lat": 40.76614404424928,
+		"lng": -73.89393568038942,
+		"name": "Astoria Blvd - Grand Central Pkwy",
+		"info": "Queens<br />East Elmhurst",
+		"riders": 4595.175354076988,
+		"lines": [97],
+		"id": 587,
+		"active": true
+	}, {
+		"lat": 40.7590019562355,
+		"lng": -73.84973803069444,
+		"name": "Corona - Boat Basin Pl",
+		"info": "Queens<br />Flushing",
+		"riders": null,
+		"lines": [97],
+		"id": 588,
+		"active": false
+	}, {
+		"lat": 40.75872564819789,
+		"lng": -73.8496951153502,
+		"name": "Boat Basin Pl",
+		"info": "Queens<br />Flushing",
+		"riders": 0,
+		"lines": [97],
+		"id": 589,
+		"active": true
+	}, {
+		"lat": 40.755343956192355,
+		"lng": -73.84327411651613,
+		"name": "Mets-Willets Point",
+		"info": "Queens<br />Flushing Meadows Corona Park",
+		"riders": null,
+		"lines": [97],
+		"id": 590,
+		"active": false
+	}, {
+		"lat": 40.75412462044483,
+		"lng": -73.84259488899261,
+		"name": "Mets-Willets Point   ",
+		"info": "Queens<br />Flushing",
+		"riders": 480.61334609611947,
+		"lines": [97],
+		"id": 591,
+		"active": true
+	}, {
+		"lat": 40.7597160852919,
+		"lng": -73.84553624549882,
+		"name": "34 Av",
+		"info": "Queens<br />Flushing Meadows Corona Park",
+		"riders": 0,
+		"lines": [97],
+		"id": 592,
+		"active": true
+	}, {
+		"lat": 40.68635102596141,
+		"lng": -73.95258511416615,
+		"name": "Brooklyn - Gates Ave",
+		"info": "Brooklyn<br />Bedford-Stuyvesant",
+		"riders": null,
+		"lines": [15],
+		"id": 593,
+		"active": false
+	}, {
+		"lat": 40.68631848369177,
+		"lng": -73.95213450305165,
+		"name": "Brooklyn - Gates Ave",
+		"info": "Brooklyn<br />Bedford-Stuyvesant",
+		"riders": null,
+		"lines": [14],
+		"id": 594,
+		"active": false
+	}, {
+		"lat": 40.689133331253394,
+		"lng": -73.95719851367176,
+		"name": "Lafayette Av - BedStuy",
+		"info": "Brooklyn<br />Bedford-Stuyvesant",
+		"riders": 13778.940730492228,
+		"lines": [14],
+		"id": 595,
+		"active": true
+	}, {
+		"lat": 40.61590706783076,
+		"lng": -73.83790969848634,
+		"name": "Brooklyn - ",
+		"info": "Brooklyn",
+		"riders": null,
+		"lines": [14],
+		"id": 596,
+		"active": false
+	}, {
+		"lat": 40.75959564638984,
+		"lng": -73.99553163908423,
+		"name": "10 Av",
+		"info": "Manhattan<br />Hell's Kitchen",
+		"riders": 11922.704398663804,
+		"lines": [23],
+		"id": 597,
+		"active": true
+	}, {
+		"lat": 40.89333736440642,
+		"lng": -73.90103816986085,
+		"name": "Waldo Av",
+		"info": "Bronx<br />Fieldston",
+		"riders": null,
+		"lines": [17],
+		"id": 598,
+		"active": false
+	}, {
+		"lat": 40.892746074232385,
+		"lng": -73.90119809657337,
+		"name": "Bronx - Waldo Ave",
+		"info": "Bronx<br />Fieldston",
+		"riders": null,
+		"lines": [17],
+		"id": 599,
+		"active": false
+	}, {
+		"lat": 40.892746074232385,
+		"lng": -73.90119809657337,
+		"name": "Bronx - Waldo Ave",
+		"info": "Bronx<br />Fieldston",
+		"riders": 1893.4858874481095,
+		"lines": [17],
+		"id": 600,
+		"active": false
+	}, {
+		"lat": 40.89571489062455,
+		"lng": -73.89683464542033,
+		"name": "Van Cortlandt Park - 251 St",
+		"info": "Bronx<br />Fieldston",
+		"riders": 1054.8510158234735,
+		"lines": [17],
+		"id": 601,
+		"active": true
+	}, {
+		"lat": 40.901171396962205,
+		"lng": -73.90202522277833,
+		"name": "Fieldston Rd",
+		"info": "Bronx<br />Fieldston",
+		"riders": 4292.403984707515,
+		"lines": [17],
+		"id": 602,
+		"active": true
+	}, {
+		"lat": 40.90270359047815,
+		"lng": -73.90916861593723,
+		"name": "Arlington Av - Bingham Rd",
+		"info": "Bronx<br />Riverdale",
+		"riders": 1281.9749992503935,
+		"lines": [17],
+		"id": 603,
+		"active": true
+	}, {
+		"lat": 40.9038998931224,
+		"lng": -73.91404051333667,
+		"name": "North Riverdale - Bronx - 254th St",
+		"info": "Bronx<br />North Riverdale",
+		"riders": null,
+		"lines": [17],
+		"id": 604,
+		"active": false
+	}, {
+		"lat": 40.90381880357468,
+		"lng": -73.91394395381214,
+		"name": "Riverdale",
+		"info": "Bronx<br />Riverdale",
+		"riders": 1486.333165781684,
+		"lines": [17],
+		"id": 605,
+		"active": true
+	}, {
+		"lat": 40.847125283359645,
+		"lng": -73.93957614898683,
+		"name": "Fort Washington Ave",
+		"info": "Manhattan<br />Washington Heights",
+		"riders": 15560.990052721825,
+		"lines": [2],
+		"id": 606,
+		"active": false
 	}],
 	"transfers": [{
 		"s": 421,
@@ -6097,6 +6412,15 @@
 	}, {
 		"s": "370",
 		"e": 88
+	}, {
+		"s": "584",
+		"e": 162
+	}, {
+		"s": "591",
+		"e": 168
+	}, {
+		"s": "335",
+		"e": 595
 	}],
 	"version": 0.11
 }
