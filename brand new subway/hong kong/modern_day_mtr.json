@@ -962,6 +962,33 @@
 		"stations": [102, 101, 100, 99, 98, 97, 96, 95, 94, 93, 26, 92, 91, 90, 21, 89, 88, 87, 58, 10, 86, 85, 84, 83, 82, 81, 80],
 		"draw_map": [102, 101, 100, 99, 98, 97, 96, 95, 94, 93, 26, 92, 91, 90, 21, 89, 88, 87, 58, 10, 86, 85, 84, 83, 82, 81, 80],
 		"id": 106
+	}, {
+		"name": "東鐵綫 East Rail Line",
+		"html": "東鐵綫 East Rail Line",
+		"css": "subway-line-long",
+		"color_bg": "#53B7E8",
+		"color_text": "#FFFFFF",
+		"stations": [113, 112, 111, 110, 109, 107, 117, 105, 94, 23, 104, 89, 103, 1],
+		"draw_map": [113, 112, 111, 110, 109, 107, 117, 105, 94, 23, 104, 89, 103, 1],
+		"id": 107
+	}, {
+		"name": "東鐵綫 (落馬洲支綫) East Rail Line (Lok Ma Chau Branch)",
+		"html": "東鐵綫 (落馬洲支綫) East Rail Line (Lok Ma Chau Branch)",
+		"css": "subway-line-long",
+		"color_bg": "#53B7E8",
+		"color_text": "#FFFFFF",
+		"stations": [114, 112],
+		"draw_map": [114, 112],
+		"id": 108
+	}, {
+		"name": "東鐵綫 (馬場改道) East Rail Line (Racecourse Diversion)",
+		"html": "東鐵綫 (馬場改道) East Rail Line (Racecourse Diversion)",
+		"css": "subway-line-long",
+		"color_bg": "#53B7E8",
+		"color_text": "#FFFFFF",
+		"stations": [107, 115, 105],
+		"draw_map": [107, 115, 105],
+		"id": 109
 	}],
 	"stations": [{
 		"lat": 22.281428766477877,
@@ -978,7 +1005,7 @@
 		"name": "金鐘 Admiralty   ",
 		"info": "金鐘",
 		"riders": 0,
-		"lines": [97, 99, 105],
+		"lines": [97, 99, 105, 107],
 		"id": 1,
 		"active": true
 	}, {
@@ -1176,7 +1203,7 @@
 		"name": "九龍塘 Kowloon Tong   ",
 		"info": "九龍塘",
 		"riders": 0,
-		"lines": [98],
+		"lines": [98, 107],
 		"id": 23,
 		"active": true
 	}, {
@@ -1680,7 +1707,7 @@
 		"name": " - 迎樂路",
 		"info": "",
 		"riders": 0,
-		"lines": [0],
+		"lines": [],
 		"id": 79,
 		"active": false
 	}, {
@@ -1770,7 +1797,7 @@
 		"name": "紅磡 Hung Hom",
 		"info": "尖沙咀",
 		"riders": 0,
-		"lines": [106],
+		"lines": [106, 107],
 		"id": 89,
 		"active": true
 	}, {
@@ -1815,7 +1842,7 @@
 		"name": "大圍 Tai Wai",
 		"info": "大圍",
 		"riders": 0,
-		"lines": [106],
+		"lines": [106, 107],
 		"id": 94,
 		"active": true
 	}, {
@@ -1889,6 +1916,141 @@
 		"riders": 0,
 		"lines": [106],
 		"id": 102,
+		"active": true
+	}, {
+		"lat": 22.281577217172718,
+		"lng": 114.17586112394929,
+		"name": "會展 Exhibition Centre",
+		"info": "灣仔",
+		"riders": 0,
+		"lines": [107],
+		"id": 103,
+		"active": true
+	}, {
+		"lat": 22.322258979224046,
+		"lng": 114.17265471071006,
+		"name": "旺角東 Mong Kok East",
+		"info": "",
+		"riders": 0,
+		"lines": [107],
+		"id": 104,
+		"active": true
+	}, {
+		"lat": 22.383085254310057,
+		"lng": 114.18781757354738,
+		"name": "沙田 Sha Tin",
+		"info": "沙田",
+		"riders": 0,
+		"lines": [107, 109],
+		"id": 105,
+		"active": true
+	}, {
+		"lat": 22.395586394441686,
+		"lng": 114.19834926724435,
+		"name": "火炭 Fo Tan",
+		"info": "火炭",
+		"riders": 0,
+		"lines": [107],
+		"id": 106,
+		"active": false
+	}, {
+		"lat": 22.413624591293967,
+		"lng": 114.21007605269553,
+		"name": "大學 University",
+		"info": "",
+		"riders": 0,
+		"lines": [107, 109],
+		"id": 107,
+		"active": true
+	}, {
+		"lat": 22.416503434329595,
+		"lng": 114.2123007774353,
+		"name": "沙田 - 車站路",
+		"info": "沙田",
+		"riders": 0,
+		"lines": [],
+		"id": 108,
+		"active": false
+	}, {
+		"lat": 22.444652945078786,
+		"lng": 114.17041053995493,
+		"name": "大埔墟 Tai Po Market",
+		"info": "",
+		"riders": 0,
+		"lines": [107],
+		"id": 109,
+		"active": true
+	}, {
+		"lat": 22.45091235048552,
+		"lng": 114.16115256026389,
+		"name": "太和 Tai Wo",
+		"info": "大埔",
+		"riders": 0,
+		"lines": [107],
+		"id": 110,
+		"active": true
+	}, {
+		"lat": 22.492029227641176,
+		"lng": 114.13872241973878,
+		"name": "粉嶺 Fanling",
+		"info": "",
+		"riders": 0,
+		"lines": [107],
+		"id": 111,
+		"active": true
+	}, {
+		"lat": 22.501485642330632,
+		"lng": 114.12760734558107,
+		"name": "上水 Sheung Shui",
+		"info": "上水",
+		"riders": 0,
+		"lines": [107, 108],
+		"id": 112,
+		"active": true
+	}, {
+		"lat": 22.52833941192039,
+		"lng": 114.11312500946225,
+		"name": "羅湖 Lo Wu",
+		"info": "",
+		"riders": 0,
+		"lines": [107],
+		"id": 113,
+		"active": true
+	}, {
+		"lat": 22.514519368015613,
+		"lng": 114.06548738479616,
+		"name": "落馬洲 Lok Ma Chau",
+		"info": "",
+		"riders": 0,
+		"lines": [108],
+		"id": 114,
+		"active": true
+	}, {
+		"lat": 22.401590888378625,
+		"lng": 114.2035513278097,
+		"name": "馬場 Racecourse",
+		"info": "火炭",
+		"riders": 0,
+		"lines": [109],
+		"id": 115,
+		"active": true
+	}, {
+		"lat": 22.396124038620876,
+		"lng": 114.198728579795,
+		"name": "火炭 - 樂景街",
+		"info": "火炭",
+		"riders": 0,
+		"lines": [107],
+		"id": 116,
+		"active": false
+	}, {
+		"lat": 22.396590258069935,
+		"lng": 114.19901289395058,
+		"name": "火炭 Fo Tan",
+		"info": "火炭",
+		"riders": 0,
+		"lines": [107],
+		"id": 117,
 		"active": true
 	}],
 	"transfers": [{
