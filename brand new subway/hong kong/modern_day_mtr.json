@@ -917,6 +917,33 @@
 		"stations": [50, 54],
 		"draw_map": [50, 54],
 		"id": 101
+	}, {
+		"name": "東涌綫 Tung Chung Line",
+		"html": "東涌綫 Tung Chung Line",
+		"css": "subway-line-long",
+		"color_bg": "#F7943E",
+		"color_text": "#FFFFFF",
+		"stations": [61, 60, 59, 11, 58, 57, 56, 55],
+		"draw_map": [61, 60, 59, 11, 58, 57, 56, 55],
+		"id": 102
+	}, {
+		"name": "機場快綫 Airport Express",
+		"html": "機場快綫 Airport Express",
+		"css": "subway-line-long",
+		"color_bg": "#00888A",
+		"color_text": "#FFFFFF",
+		"stations": [55, 56, 59, 63, 62],
+		"draw_map": [55, 56, 57, 58, 11, 59, 63, 62],
+		"id": 103
+	}, {
+		"name": "迪士尼綫 Disneyland Resort Line",
+		"html": "迪士尼綫 Disneyland Resort Line",
+		"css": "subway-line-long",
+		"color_bg": "#F173AC",
+		"color_text": "#FFFFFF",
+		"stations": [60, 68],
+		"draw_map": [60, 68],
+		"id": 104
 	}],
 	"stations": [{
 		"lat": 22.281428766477877,
@@ -1023,7 +1050,7 @@
 		"name": "荔景 Lai King",
 		"info": "",
 		"riders": 0,
-		"lines": [97],
+		"lines": [97, 102],
 		"id": 11,
 		"active": true
 	}, {
@@ -1413,7 +1440,136 @@
 		"lines": [101],
 		"id": 54,
 		"active": true
+	}, {
+		"lat": 22.28459645603814,
+		"lng": 114.15817581117155,
+		"name": "香港 Hong Kong",
+		"info": "",
+		"riders": 0,
+		"lines": [102, 103],
+		"id": 55,
+		"active": true
+	}, {
+		"lat": 22.304879772098417,
+		"lng": 114.16159629821779,
+		"name": "九龍 Kowloon",
+		"info": "油麻地",
+		"riders": 0,
+		"lines": [102, 103],
+		"id": 56,
+		"active": true
+	}, {
+		"lat": 22.31758143180746,
+		"lng": 114.16026504244657,
+		"name": "奧運 Olympic",
+		"info": "大角咀",
+		"riders": 0,
+		"lines": [102],
+		"id": 57,
+		"active": true
+	}, {
+		"lat": 22.327189948568083,
+		"lng": 114.15372896008195,
+		"name": "南昌 Nam Cheong",
+		"info": "深水埗",
+		"riders": 0,
+		"lines": [102],
+		"id": 58,
+		"active": true
+	}, {
+		"lat": 22.358450449539053,
+		"lng": 114.10705014131963,
+		"name": "青衣 Tsing Yi",
+		"info": "青衣",
+		"riders": 0,
+		"lines": [102, 103],
+		"id": 59,
+		"active": true
+	}, {
+		"lat": 22.331829357416478,
+		"lng": 114.02876033680515,
+		"name": "欣澳 Sunny Bay",
+		"info": "",
+		"riders": 0,
+		"lines": [102, 104],
+		"id": 60,
+		"active": true
+	}, {
+		"lat": 22.289141789112602,
+		"lng": 113.94128317013384,
+		"name": "東涌 Tung Chung",
+		"info": "東涌",
+		"riders": 0,
+		"lines": [102],
+		"id": 61,
+		"active": true
+	}, {
+		"lat": 22.322090528207063,
+		"lng": 113.94217014312746,
+		"name": "博覽館 AsiaWorld–Expo",
+		"info": "赤鱲角",
+		"riders": 0,
+		"lines": [103],
+		"id": 62,
+		"active": true
+	}, {
+		"lat": 22.315778178936426,
+		"lng": 113.93654823303224,
+		"name": "機場 Airport",
+		"info": "赤鱲角",
+		"riders": 0,
+		"lines": [103],
+		"id": 63,
+		"active": true
+	}, {
+		"lat": 22.265904561141955,
+		"lng": 113.9989471435547,
+		"name": "大嶼山 - 銀礦灣路9號14座",
+		"info": "大嶼山",
+		"riders": 0,
+		"lines": [103],
+		"id": 64,
+		"active": false
+	}, {
+		"lat": 22.27098803706489,
+		"lng": 113.93646240234376,
+		"name": " - 彌勒山郊遊徑",
+		"info": "",
+		"riders": 0,
+		"lines": [103],
+		"id": 65,
+		"active": false
+	}, {
+		"lat": 22.262409564319125,
+		"lng": 114.00512695312501,
+		"name": " - ",
+		"info": "",
+		"riders": 0,
+		"lines": [103],
+		"id": 66,
+		"active": false
+	}, {
+		"lat": 22.31609578823598,
+		"lng": 114.07688140869142,
+		"name": " - ",
+		"info": "",
+		"riders": 0,
+		"lines": [103],
+		"id": 67,
+		"active": false
+	}, {
+		"lat": 22.315440718263844,
+		"lng": 114.04524207115175,
+		"name": "迪士尼 Disneyland Resort",
+		"info": "",
+		"riders": 0,
+		"lines": [104],
+		"id": 68,
+		"active": true
 	}],
-	"transfers": [],
+	"transfers": [{
+		"s": "55",
+		"e": 0
+	}],
 	"version": 0.11
 }
