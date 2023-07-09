@@ -311,8 +311,8 @@
 		"css": "subway-line",
 		"color_bg": "#B933AD",
 		"color_text": "#FFFFFF",
-		"stations": [],
-		"draw_map": [],
+		"stations": [728, 727, 726, 725, 724, 723, 722, 720, 719, 718, 717, 715, 714, 713, 711, 709, 708, 704, 703, 702, 701, 700, 699, 697, 698, 152, 108, 429, 180, 597, 150, 623, 619, 646, 626, 629],
+		"draw_map": [728, 727, 726, 725, 724, 723, 722, 720, 719, 718, 717, 715, 714, 713, 711, 709, 708, 704, 703, 702, 701, 700, 699, 697, 698, 152, 108, 429, 180, 597, 150, 623, 619, 646, 621, 624, 625, 626, 628, 629],
 		"id": 34
 	}, {
 		"name": "12",
@@ -1859,8 +1859,8 @@
 		"lng": -73.97772789001466,
 		"name": "Grand Central - 42 St",
 		"info": "Manhattan<br />Midtown",
-		"riders": 29136.98946459168,
-		"lines": [13, 20, 21, 22, 23],
+		"riders": 30662.878257625063,
+		"lines": [13, 20, 21, 22, 23, 34],
 		"id": 108,
 		"active": true
 	}, {
@@ -2237,8 +2237,8 @@
 		"lng": -74.00205552577974,
 		"name": "34 St - Hudson Yards",
 		"info": "Manhattan<br />Chelsea",
-		"riders": 3724.0805382239114,
-		"lines": [23],
+		"riders": 6332.180337627219,
+		"lines": [23, 34],
 		"id": 150,
 		"active": true
 	}, {
@@ -2255,8 +2255,8 @@
 		"lng": -73.95425319671632,
 		"name": "Vernon Blvd - Jackson Av",
 		"info": "Queens<br />Long Island City",
-		"riders": 2796.1502129025107,
-		"lines": [23],
+		"riders": 4802.566209699274,
+		"lines": [23, 34],
 		"id": 152,
 		"active": true
 	}, {
@@ -2264,7 +2264,7 @@
 		"lng": -73.9479446411133,
 		"name": "Hunters Point Av",
 		"info": "Queens<br />Long Island City",
-		"riders": 1572.3118803630903,
+		"riders": 1414.968106187264,
 		"lines": [23],
 		"id": 153,
 		"active": true
@@ -2507,8 +2507,8 @@
 		"lng": -73.98704051971437,
 		"name": "Times Sq - 42 St",
 		"info": "Manhattan<br />Theater District",
-		"riders": 17827.35257311042,
-		"lines": [10, 11, 12, 13, 17, 18, 19, 23, 30],
+		"riders": 18396.29068204962,
+		"lines": [10, 11, 12, 13, 17, 18, 19, 23, 30, 34],
 		"id": 180,
 		"active": true
 	}, {
@@ -3641,7 +3641,7 @@
 		"lng": -73.8614058494568,
 		"name": "63 Dr - Rego Park",
 		"info": "Queens<br />Rego Park",
-		"riders": 22727.321091093676,
+		"riders": 21066.860359961134,
 		"lines": [9, 12],
 		"id": 306,
 		"active": true
@@ -3650,7 +3650,7 @@
 		"lng": -73.8703751564026,
 		"name": "Woodhaven Blvd",
 		"info": "Queens<br />Elmhurst",
-		"riders": 18529.870106728067,
+		"riders": 12805.662040698468,
 		"lines": [9, 12],
 		"id": 307,
 		"active": true
@@ -4739,7 +4739,7 @@
 		"lng": -73.98415446281435,
 		"name": "42 St - Bryant Pk",
 		"info": "Manhattan<br />Theater District",
-		"riders": 10709.845558837224,
+		"riders": 10731.297440129041,
 		"lines": [1, 3, 5, 9],
 		"id": 428,
 		"active": true
@@ -4748,8 +4748,8 @@
 		"lng": -73.98087680339815,
 		"name": "5 Av",
 		"info": "Manhattan<br />Midtown",
-		"riders": 7058.747618259554,
-		"lines": [23],
+		"riders": 11900.376830353342,
+		"lines": [23, 34],
 		"id": 429,
 		"active": true
 	}, {
@@ -5999,7 +5999,7 @@
 		"lng": -73.88490200042726,
 		"name": "Eliot Av",
 		"info": "Queens<br />Elmhurst",
-		"riders": 5324.783602683568,
+		"riders": 4876.135362269376,
 		"lines": [97],
 		"id": 568,
 		"active": true
@@ -6008,7 +6008,7 @@
 		"lng": -73.88603925704957,
 		"name": "57-Grand Avs",
 		"info": "Queens<br />Elmhurst",
-		"riders": 6180.83825364702,
+		"riders": 3573.502332439746,
 		"lines": [97],
 		"id": 569,
 		"active": true
@@ -6114,9 +6114,9 @@
 	}, {
 		"lat": 40.74414264293598,
 		"lng": -73.85199804324658,
-		"name": "Flushing Meadows/Corona Park",
+		"name": "West Corona Park",
 		"info": "Queens<br />Corona",
-		"riders": 9868.660322411808,
+		"riders": 9040.522234304211,
 		"lines": [10, 30],
 		"id": 581,
 		"active": true
@@ -6260,8 +6260,8 @@
 		"lng": -73.99553163908423,
 		"name": "10 Av",
 		"info": "Manhattan<br />Hell's Kitchen",
-		"riders": 11922.704398663804,
-		"lines": [23],
+		"riders": 19695.629777726073,
+		"lines": [23, 34],
 		"id": 597,
 		"active": true
 	}, {
@@ -6330,7 +6330,7 @@
 	}, {
 		"lat": 40.90381880357468,
 		"lng": -73.91394395381214,
-		"name": "Riverdale",
+		"name": "Riverdale   ",
 		"info": "Bronx<br />Riverdale",
 		"riders": 1486.333165781684,
 		"lines": [17],
@@ -6393,7 +6393,7 @@
 	}, {
 		"lat": 40.85014141549517,
 		"lng": -73.94489882513882,
-		"name": "GW Bridge (Metro-North)",
+		"name": "Washington Bridge Park",
 		"info": "Manhattan<br />Washington Heights",
 		"riders": 8808.637376729586,
 		"lines": [2],
@@ -6458,8 +6458,8 @@
 		"lng": -74.00880714878441,
 		"name": "11 Av/14 St - Meatpacking District",
 		"info": "Manhattan<br />West Village",
-		"riders": 9629.034459303337,
-		"lines": [23, 8],
+		"riders": 12173.045903065675,
+		"lines": [23, 8, 34],
 		"id": 619,
 		"active": true
 	}, {
@@ -6494,8 +6494,8 @@
 		"lng": -74.00678157806398,
 		"name": "23 St - Chelsea Piers",
 		"info": "Manhattan<br />Chelsea",
-		"riders": 6905.9303052598725,
-		"lines": [23],
+		"riders": 11544.795160520247,
+		"lines": [23, 34],
 		"id": 623,
 		"active": true
 	}, {
@@ -6512,17 +6512,17 @@
 		"lng": -74.04594182968141,
 		"name": "Webster Av",
 		"info": "Jersey City",
-		"riders": 5050.905772991651,
+		"riders": 5080.862116707283,
 		"lines": [23],
 		"id": 625,
 		"active": true
 	}, {
 		"lat": 40.745830334422564,
 		"lng": -74.04944248963149,
-		"name": "Central av",
+		"name": "Central Av",
 		"info": "Jersey City",
-		"riders": 3311.6211451314593,
-		"lines": [23],
+		"riders": 5587.317012607063,
+		"lines": [23, 34],
 		"id": 626,
 		"active": true
 	}, {
@@ -6548,8 +6548,8 @@
 		"lng": -74.07570362091066,
 		"name": "Secaucus Junction",
 		"info": "Secaucus",
-		"riders": 325.0272219397644,
-		"lines": [23],
+		"riders": 560.0104447364142,
+		"lines": [23, 34],
 		"id": 629,
 		"active": true
 	}, {
@@ -6701,8 +6701,8 @@
 		"lng": -74.0286684036255,
 		"name": "Hudson St",
 		"info": "Hoboken",
-		"riders": 5441.324396297844,
-		"lines": [8, 23],
+		"riders": 6719.040611251433,
+		"lines": [8, 23, 34],
 		"id": 646,
 		"active": true
 	}, {
@@ -7155,6 +7155,294 @@
 		"lines": [7],
 		"id": 696,
 		"active": false
+	}, {
+		"lat": 40.737640694829466,
+		"lng": -73.93497347831727,
+		"name": "Van Dam St",
+		"info": "Queens<br />Long Island City",
+		"riders": 914.6721943335924,
+		"lines": [34],
+		"id": 697,
+		"active": true
+	}, {
+		"lat": 40.73982744086438,
+		"lng": -73.94280552864076,
+		"name": "27 St",
+		"info": "Queens<br />Long Island City",
+		"riders": 1593.5432009471026,
+		"lines": [34],
+		"id": 698,
+		"active": true
+	}, {
+		"lat": 40.736835889159316,
+		"lng": -73.92946958541872,
+		"name": "Greenpoint-Hunters Point Avs",
+		"info": "Queens<br />Long Island City",
+		"riders": 4863.110862864825,
+		"lines": [34],
+		"id": 699,
+		"active": true
+	}, {
+		"lat": 40.731908846121996,
+		"lng": -73.91915724612772,
+		"name": "48 St",
+		"info": "Queens<br />Sunnyside",
+		"riders": 2709.489830716402,
+		"lines": [34],
+		"id": 700,
+		"active": true
+	}, {
+		"lat": 40.72993151147331,
+		"lng": -73.91176432371141,
+		"name": "58 St",
+		"info": "Queens<br />Maspeth",
+		"riders": 248.14582872128636,
+		"lines": [34],
+		"id": 701,
+		"active": true
+	}, {
+		"lat": 40.72738885642512,
+		"lng": -73.90708923339845,
+		"name": "Maurice Av",
+		"info": "Queens<br />Maspeth",
+		"riders": 2030.5139619686881,
+		"lines": [34],
+		"id": 702,
+		"active": true
+	}, {
+		"lat": 40.72571394128921,
+		"lng": -73.89964342117311,
+		"name": "65 Pl",
+		"info": "Queens<br />Maspeth",
+		"riders": 4150.680297844919,
+		"lines": [34],
+		"id": 703,
+		"active": true
+	}, {
+		"lat": 40.725299588933055,
+		"lng": -73.8946338929236,
+		"name": "69 St",
+		"info": "Queens<br />Maspeth",
+		"riders": 5398.719462460382,
+		"lines": [34],
+		"id": 704,
+		"active": true
+	}, {
+		"lat": 40.72867347150815,
+		"lng": -73.88200521469118,
+		"name": "Elmhurst - I W   ",
+		"info": "Queens<br />Elmhurst",
+		"riders": null,
+		"lines": [34],
+		"id": 705,
+		"active": false
+	}, {
+		"lat": 40.72826695042976,
+		"lng": -73.88561010360719,
+		"name": "Elmhurst - I E   ",
+		"info": "Queens<br />Elmhurst",
+		"riders": 6065.591534578623,
+		"lines": [34],
+		"id": 706,
+		"active": false
+	}, {
+		"lat": 40.72782790487574,
+		"lng": -73.88721942901613,
+		"name": "Maspeth - Elmhurst - 74th St   ",
+		"info": "Queens<br />Maspeth",
+		"riders": null,
+		"lines": [34],
+		"id": 707,
+		"active": false
+	}, {
+		"lat": 40.728071819430035,
+		"lng": -73.886296749115,
+		"name": "74 St",
+		"info": "Queens<br />Elmhurst",
+		"riders": 3197.0085940308363,
+		"lines": [34],
+		"id": 708,
+		"active": true
+	}, {
+		"lat": 40.72860271161143,
+		"lng": -73.88210722245277,
+		"name": "80 St",
+		"info": "Queens<br />Elmhurst",
+		"riders": 3992.890490501959,
+		"lines": [34],
+		"id": 709,
+		"active": true
+	}, {
+		"lat": 40.730608477796636,
+		"lng": -73.87528896331789,
+		"name": "Elmhurst - I E",
+		"info": "Queens<br />Elmhurst",
+		"riders": null,
+		"lines": [34],
+		"id": 710,
+		"active": false
+	}, {
+		"lat": 40.730640998429955,
+		"lng": -73.87516021728517,
+		"name": "Elmhurst LIRR",
+		"info": "Queens<br />Elmhurst",
+		"riders": 7996.88234184672,
+		"lines": [34],
+		"id": 711,
+		"active": true
+	}, {
+		"lat": 40.73400222504198,
+		"lng": -73.86444898322226,
+		"name": "Junction Blvd",
+		"info": "Queens<br />Corona",
+		"riders": null,
+		"lines": [34],
+		"id": 712,
+		"active": false
+	}, {
+		"lat": 40.73276223673651,
+		"lng": -73.86853038333358,
+		"name": "Queens Blvd",
+		"info": "Queens<br />Rego Park",
+		"riders": 6487.444914559728,
+		"lines": [34],
+		"id": 713,
+		"active": true
+	}, {
+		"lat": 40.73737242735457,
+		"lng": -73.85177135467531,
+		"name": "108 St",
+		"info": "Queens<br />Corona",
+		"riders": 12099.64304983302,
+		"lines": [34],
+		"id": 714,
+		"active": true
+	}, {
+		"lat": 40.7440138885395,
+		"lng": -73.83765103295447,
+		"name": "Flushing Meadows/Corona Park",
+		"info": "Queens<br />Flushing Meadows Corona Park",
+		"riders": 1608.5460830060867,
+		"lines": [34],
+		"id": 715,
+		"active": true
+	}, {
+		"lat": 40.74223359134973,
+		"lng": -73.82535696029665,
+		"name": "Main St",
+		"info": "Queens<br />Flushing",
+		"riders": null,
+		"lines": [34],
+		"id": 716,
+		"active": false
+	}, {
+		"lat": 40.74175399397554,
+		"lng": -73.8235116004944,
+		"name": "146 St",
+		"info": "Queens<br />Flushing",
+		"riders": 4592.0781365222965,
+		"lines": [34],
+		"id": 717,
+		"active": true
+	}, {
+		"lat": 40.738608074618206,
+		"lng": -73.81520748138429,
+		"name": "Kissena Blvd",
+		"info": "Queens<br />Flushing",
+		"riders": 4701.051452997273,
+		"lines": [34],
+		"id": 718,
+		"active": true
+	}, {
+		"lat": 40.73818535576876,
+		"lng": -73.80447864532472,
+		"name": "164 St",
+		"info": "Queens<br />Flushing",
+		"riders": 4244.303485660745,
+		"lines": [34],
+		"id": 719,
+		"active": true
+	}, {
+		"lat": 40.73916288903155,
+		"lng": -73.79297473467888,
+		"name": "Utopia Pkwy",
+		"info": "Queens<br />Fresh Meadows",
+		"riders": 3220.0064084181836,
+		"lines": [34],
+		"id": 720,
+		"active": true
+	}, {
+		"lat": 40.743048492517396,
+		"lng": -73.78194549120964,
+		"name": "Fresh Meadows - Underhill Ave",
+		"info": "Queens<br />Fresh Meadows",
+		"riders": null,
+		"lines": [34],
+		"id": 721,
+		"active": false
+	}, {
+		"lat": 40.74253638621609,
+		"lng": -73.7806043867022,
+		"name": "Fresh Meadows",
+		"info": "Queens<br />Fresh Meadows",
+		"riders": 3325.4246345733754,
+		"lines": [34],
+		"id": 722,
+		"active": true
+	}, {
+		"lat": 40.743387862378086,
+		"lng": -73.77578973770143,
+		"name": "Oakland Gardens",
+		"info": "Queens<br />Fresh Meadows",
+		"riders": 1782.402495659446,
+		"lines": [34],
+		"id": 723,
+		"active": true
+	}, {
+		"lat": 40.74596102212027,
+		"lng": -73.7668026611209,
+		"name": "210 St",
+		"info": "Queens<br />Bayside",
+		"riders": 3434.3572197526223,
+		"lines": [34],
+		"id": 724,
+		"active": true
+	}, {
+		"lat": 40.7492889632081,
+		"lng": -73.75686407089235,
+		"name": "Springfield Blvd",
+		"info": "Queens<br />Bayside",
+		"riders": 3424.4763861918714,
+		"lines": [34],
+		"id": 725,
+		"active": true
+	}, {
+		"lat": 40.75696123684052,
+		"lng": -73.73929023742677,
+		"name": "Douglaston/Alley Pond",
+		"info": "Queens<br />Alley Pond Park",
+		"riders": 1875.14273318656,
+		"lines": [34],
+		"id": 726,
+		"active": true
+	}, {
+		"lat": 40.76216227469877,
+		"lng": -73.72918367385866,
+		"name": "251 St/Brownvale Lane   ",
+		"info": "Queens<br />Little Neck",
+		"riders": 2376.645148903898,
+		"lines": [34],
+		"id": 727,
+		"active": true
+	}, {
+		"lat": 40.764535271741096,
+		"lng": -73.72107468545438,
+		"name": "Little Neck/Nassau Point",
+		"info": "Queens<br />Little Neck",
+		"riders": 1264.8028945925,
+		"lines": [34],
+		"id": 728,
+		"active": true
 	}],
 	"transfers": [{
 		"s": 421,
@@ -7240,6 +7528,12 @@
 	}, {
 		"s": "693",
 		"e": 185
+	}, {
+		"s": "569",
+		"e": 708
+	}, {
+		"s": "713",
+		"e": 307
 	}],
 	"version": 0.11
 }
