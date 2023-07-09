@@ -936,14 +936,23 @@
 		"draw_map": [55, 56, 57, 58, 11, 59, 63, 62],
 		"id": 103
 	}, {
-		"name": "迪士尼綫 Disneyland Resort Line",
-		"html": "迪士尼綫 Disneyland Resort Line",
+		"name": "迪士尼綫 Disneyland Reso",
+		"html": "迪士尼綫 Disneyland Reso",
 		"css": "subway-line-long",
 		"color_bg": "#F173AC",
 		"color_text": "#FFFFFF",
 		"stations": [60, 68],
 		"draw_map": [60, 68],
 		"id": 104
+	}, {
+		"name": "南港島綫 South Island Line",
+		"html": "南港島綫 South Island Line",
+		"css": "subway-line-long",
+		"color_bg": "#BAC429",
+		"color_text": "#FFFFFF",
+		"stations": [78, 77, 75, 69, 1],
+		"draw_map": [78, 77, 75, 69, 1],
+		"id": 105
 	}],
 	"stations": [{
 		"lat": 22.281428766477877,
@@ -960,7 +969,7 @@
 		"name": "金鐘 Admiralty   ",
 		"info": "金鐘",
 		"riders": 0,
-		"lines": [97, 99],
+		"lines": [97, 99, 105],
 		"id": 1,
 		"active": true
 	}, {
@@ -1565,6 +1574,96 @@
 		"riders": 0,
 		"lines": [104],
 		"id": 68,
+		"active": true
+	}, {
+		"lat": 22.24870674645238,
+		"lng": 114.1743689775467,
+		"name": "海洋公園 Ocean Park",
+		"info": "黃竹坑",
+		"riders": 0,
+		"lines": [105],
+		"id": 69,
+		"active": true
+	}, {
+		"lat": 22.247981849902487,
+		"lng": 114.16806578636171,
+		"name": "黃竹坑 - 香葉道  ",
+		"info": "黃竹坑",
+		"riders": 0,
+		"lines": [105],
+		"id": 70,
+		"active": false
+	}, {
+		"lat": 22.246839881973777,
+		"lng": 114.174964427948,
+		"name": "黃竹坑 - 海洋公園道",
+		"info": "黃竹坑",
+		"riders": 0,
+		"lines": [105],
+		"id": 71,
+		"active": false
+	}, {
+		"lat": 22.245251041541813,
+		"lng": 114.17367696762086,
+		"name": "黃竹坑 - 海洋公園道",
+		"info": "黃竹坑",
+		"riders": 0,
+		"lines": [105],
+		"id": 72,
+		"active": false
+	}, {
+		"lat": 22.245568811069926,
+		"lng": 114.17067289352418,
+		"name": "黃竹坑 - 警校道",
+		"info": "黃竹坑",
+		"riders": 0,
+		"lines": [105],
+		"id": 73,
+		"active": false
+	}, {
+		"lat": 22.247038485760605,
+		"lng": 114.16741132736207,
+		"name": "黃竹坑 - 南朗山道",
+		"info": "黃竹坑",
+		"riders": 0,
+		"lines": [105],
+		"id": 74,
+		"active": false
+	}, {
+		"lat": 22.247932199316576,
+		"lng": 114.16801214218141,
+		"name": "黃竹坑 Wong Chuk Hang",
+		"info": "黃竹坑",
+		"riders": 0,
+		"lines": [105],
+		"id": 75,
+		"active": true
+	}, {
+		"lat": 22.241656223555577,
+		"lng": 114.15605485439302,
+		"name": "鴨脷洲 - 利東邨道5號東茂樓",
+		"info": "鴨脷洲",
+		"riders": 0,
+		"lines": [105],
+		"id": 76,
+		"active": false
+	}, {
+		"lat": 22.241591674875814,
+		"lng": 114.15580272674562,
+		"name": "利東 Lei Tung",
+		"info": "鴨脷洲",
+		"riders": 0,
+		"lines": [105],
+		"id": 77,
+		"active": true
+	}, {
+		"lat": 22.242559901949743,
+		"lng": 114.14901137351991,
+		"name": "海怡半島 South Horizons",
+		"info": "鴨脷洲",
+		"riders": 0,
+		"lines": [105],
+		"id": 78,
 		"active": true
 	}],
 	"transfers": [{
