@@ -899,6 +899,24 @@
 		"stations": [49, 48, 47, 46, 45, 44, 43, 42, 40, 39, 38, 1, 0, 37, 36, 35, 34],
 		"draw_map": [49, 48, 47, 46, 45, 44, 43, 42, 40, 39, 38, 1, 0, 37, 36, 35, 34],
 		"id": 99
+	}, {
+		"name": "將軍澳綫 Tseung Kwan O Line",
+		"html": "將軍澳綫 Tseung Kwan O Line",
+		"css": "subway-line-long",
+		"color_bg": "#7D499D",
+		"color_text": "#FFFFFF",
+		"stations": [53, 51, 50, 33, 32, 44, 43],
+		"draw_map": [53, 51, 50, 33, 32, 44, 43],
+		"id": 100
+	}, {
+		"name": "將軍澳綫 (康城支綫) Tsueng Kwan O Line (LOHAS Park Branch)",
+		"html": "將軍澳綫 (康城支綫) Tsueng Kwan O Line (LOHAS Park Branch)",
+		"css": "subway-line-long",
+		"color_bg": "#7D499D",
+		"color_text": "#FFFFFF",
+		"stations": [50, 54],
+		"draw_map": [50, 54],
+		"id": 101
 	}],
 	"stations": [{
 		"lat": 22.281428766477877,
@@ -1194,7 +1212,7 @@
 		"name": "油塘 Yau Tong   ",
 		"info": "",
 		"riders": 0,
-		"lines": [98],
+		"lines": [98, 100],
 		"id": 32,
 		"active": true
 	}, {
@@ -1203,7 +1221,7 @@
 		"name": "調景嶺 Tiu Keng Leng   ",
 		"info": "",
 		"riders": 0,
-		"lines": [98],
+		"lines": [98, 100],
 		"id": 33,
 		"active": true
 	}, {
@@ -1275,7 +1293,7 @@
 		"name": "北角 - 炮台山道4號",
 		"info": "北角",
 		"riders": 0,
-		"lines": [99],
+		"lines": [],
 		"id": 41,
 		"active": false
 	}, {
@@ -1293,7 +1311,7 @@
 		"name": "北角 North Point   ",
 		"info": "北角",
 		"riders": 0,
-		"lines": [99],
+		"lines": [99, 100],
 		"id": 43,
 		"active": true
 	}, {
@@ -1302,7 +1320,7 @@
 		"name": "鰂魚涌 Quarry Bay   ",
 		"info": "",
 		"riders": 0,
-		"lines": [99],
+		"lines": [99, 100],
 		"id": 44,
 		"active": true
 	}, {
@@ -1349,6 +1367,51 @@
 		"riders": 0,
 		"lines": [99],
 		"id": 49,
+		"active": true
+	}, {
+		"lat": 22.307425865091506,
+		"lng": 114.25998353864998,
+		"name": "將軍澳 Tsueng Kwan O",
+		"info": "",
+		"riders": 0,
+		"lines": [100, 101],
+		"id": 50,
+		"active": true
+	}, {
+		"lat": 22.315554937006535,
+		"lng": 114.26460766699168,
+		"name": "坑口 Hang Hau   ",
+		"info": "將軍澳",
+		"riders": 0,
+		"lines": [100],
+		"id": 51,
+		"active": true
+	}, {
+		"lat": 22.315167849076612,
+		"lng": 114.26482224371284,
+		"name": "",
+		"info": "將軍澳",
+		"riders": 0,
+		"lines": [],
+		"id": 52,
+		"active": false
+	}, {
+		"lat": 22.322834890198294,
+		"lng": 114.25766229629517,
+		"name": "寶琳 Po Lam   ",
+		"info": "將軍澳",
+		"riders": 0,
+		"lines": [100],
+		"id": 53,
+		"active": true
+	}, {
+		"lat": 22.29473925762073,
+		"lng": 114.26832261029632,
+		"name": "康城 LOHAS Park",
+		"info": "將軍澳",
+		"riders": 0,
+		"lines": [101],
+		"id": 54,
 		"active": true
 	}],
 	"transfers": [],
