@@ -953,6 +953,15 @@
 		"stations": [78, 77, 75, 69, 1],
 		"draw_map": [78, 77, 75, 69, 1],
 		"id": 105
+	}, {
+		"name": "屯馬綫 Tuen Ma Line",
+		"html": "屯馬綫 Tuen Ma Line",
+		"css": "subway-line-long",
+		"color_bg": "#923011",
+		"color_text": "#FFFFFF",
+		"stations": [102, 101, 100, 99, 98, 97, 96, 95, 94, 93, 26, 92, 91, 90, 21, 89, 88, 87, 58, 10, 86, 85, 84, 83, 82, 81, 80],
+		"draw_map": [102, 101, 100, 99, 98, 97, 96, 95, 94, 93, 26, 92, 91, 90, 21, 89, 88, 87, 58, 10, 86, 85, 84, 83, 82, 81, 80],
+		"id": 106
 	}],
 	"stations": [{
 		"lat": 22.281428766477877,
@@ -1050,7 +1059,7 @@
 		"name": "美孚 Mei Foo   ",
 		"info": "荔枝角",
 		"riders": 0,
-		"lines": [97],
+		"lines": [97, 106],
 		"id": 10,
 		"active": true
 	}, {
@@ -1149,7 +1158,7 @@
 		"name": "何文田 Ho Man Tin   ",
 		"info": "何文田",
 		"riders": 0,
-		"lines": [98],
+		"lines": [98, 106],
 		"id": 21,
 		"active": true
 	}, {
@@ -1194,7 +1203,7 @@
 		"name": "鑽石山 Diamond Hil   ",
 		"info": "鑽石山",
 		"riders": 0,
-		"lines": [98],
+		"lines": [98, 106],
 		"id": 26,
 		"active": true
 	}, {
@@ -1482,7 +1491,7 @@
 		"name": "南昌 Nam Cheong",
 		"info": "深水埗",
 		"riders": 0,
-		"lines": [102],
+		"lines": [102, 106],
 		"id": 58,
 		"active": true
 	}, {
@@ -1536,7 +1545,7 @@
 		"name": "大嶼山 - 銀礦灣路9號14座",
 		"info": "大嶼山",
 		"riders": 0,
-		"lines": [103],
+		"lines": [],
 		"id": 64,
 		"active": false
 	}, {
@@ -1545,7 +1554,7 @@
 		"name": " - 彌勒山郊遊徑",
 		"info": "",
 		"riders": 0,
-		"lines": [103],
+		"lines": [],
 		"id": 65,
 		"active": false
 	}, {
@@ -1554,7 +1563,7 @@
 		"name": " - ",
 		"info": "",
 		"riders": 0,
-		"lines": [103],
+		"lines": [],
 		"id": 66,
 		"active": false
 	}, {
@@ -1563,7 +1572,7 @@
 		"name": " - ",
 		"info": "",
 		"riders": 0,
-		"lines": [103],
+		"lines": [],
 		"id": 67,
 		"active": false
 	}, {
@@ -1590,7 +1599,7 @@
 		"name": "黃竹坑 - 香葉道  ",
 		"info": "黃竹坑",
 		"riders": 0,
-		"lines": [105],
+		"lines": [],
 		"id": 70,
 		"active": false
 	}, {
@@ -1599,7 +1608,7 @@
 		"name": "黃竹坑 - 海洋公園道",
 		"info": "黃竹坑",
 		"riders": 0,
-		"lines": [105],
+		"lines": [],
 		"id": 71,
 		"active": false
 	}, {
@@ -1608,7 +1617,7 @@
 		"name": "黃竹坑 - 海洋公園道",
 		"info": "黃竹坑",
 		"riders": 0,
-		"lines": [105],
+		"lines": [],
 		"id": 72,
 		"active": false
 	}, {
@@ -1617,7 +1626,7 @@
 		"name": "黃竹坑 - 警校道",
 		"info": "黃竹坑",
 		"riders": 0,
-		"lines": [105],
+		"lines": [],
 		"id": 73,
 		"active": false
 	}, {
@@ -1626,7 +1635,7 @@
 		"name": "黃竹坑 - 南朗山道",
 		"info": "黃竹坑",
 		"riders": 0,
-		"lines": [105],
+		"lines": [],
 		"id": 74,
 		"active": false
 	}, {
@@ -1644,7 +1653,7 @@
 		"name": "鴨脷洲 - 利東邨道5號東茂樓",
 		"info": "鴨脷洲",
 		"riders": 0,
-		"lines": [105],
+		"lines": [],
 		"id": 76,
 		"active": false
 	}, {
@@ -1665,10 +1674,229 @@
 		"lines": [105],
 		"id": 78,
 		"active": true
+	}, {
+		"lat": 22.31387250796381,
+		"lng": 114.04632568359376,
+		"name": " - 迎樂路",
+		"info": "",
+		"riders": 0,
+		"lines": [0],
+		"id": 79,
+		"active": false
+	}, {
+		"lat": 22.395524474314062,
+		"lng": 113.97321570664647,
+		"name": "屯門 Tuen Mun",
+		"info": "",
+		"riders": 0,
+		"lines": [106],
+		"id": 80,
+		"active": true
+	}, {
+		"lat": 22.411982478022235,
+		"lng": 113.9789394568652,
+		"name": "兆康 Siu Hong",
+		"info": "屯門",
+		"riders": 0,
+		"lines": [106],
+		"id": 81,
+		"active": true
+	}, {
+		"lat": 22.44794501696282,
+		"lng": 114.00441558100285,
+		"name": "天水圍 Tin Shui Wai",
+		"info": "屏山",
+		"riders": 0,
+		"lines": [106],
+		"id": 82,
+		"active": true
+	}, {
+		"lat": 22.447747900010604,
+		"lng": 114.02536040637642,
+		"name": "朗屏 Long Ping",
+		"info": "元朗",
+		"riders": 0,
+		"lines": [106],
+		"id": 83,
+		"active": true
+	}, {
+		"lat": 22.44608604848795,
+		"lng": 114.03562903404237,
+		"name": "元朗 Yuen Long",
+		"info": "元朗",
+		"riders": 0,
+		"lines": [106],
+		"id": 84,
+		"active": true
+	}, {
+		"lat": 22.434742985052264,
+		"lng": 114.06347287818792,
+		"name": "錦上路 Kam Sheung Road",
+		"info": "",
+		"riders": 0,
+		"lines": [106],
+		"id": 85,
+		"active": true
+	}, {
+		"lat": 22.368397630133853,
+		"lng": 114.1100963763893,
+		"name": "荃灣西 Tsuen Wan West",
+		"info": "",
+		"riders": 0,
+		"lines": [106],
+		"id": 86,
+		"active": true
+	}, {
+		"lat": 22.304636078949965,
+		"lng": 114.16643609292807,
+		"name": "柯士甸 Austin",
+		"info": "佐敦",
+		"riders": 0,
+		"lines": [106],
+		"id": 87,
+		"active": true
+	}, {
+		"lat": 22.29480444098836,
+		"lng": 114.17347311973573,
+		"name": "尖東 East Tsim Sha Tsui",
+		"info": "尖沙咀",
+		"riders": 0,
+		"lines": [106],
+		"id": 88,
+		"active": true
+	}, {
+		"lat": 22.302950222531614,
+		"lng": 114.18232969008388,
+		"name": "紅磡 Hung Hom",
+		"info": "尖沙咀",
+		"riders": 0,
+		"lines": [106],
+		"id": 89,
+		"active": true
+	}, {
+		"lat": 22.31710816305536,
+		"lng": 114.18763518333436,
+		"name": "土瓜灣 To Kwa Wan",
+		"info": "土瓜灣",
+		"riders": 0,
+		"lines": [106],
+		"id": 90,
+		"active": true
+	}, {
+		"lat": 22.32610011121996,
+		"lng": 114.19184088706972,
+		"name": "宋皇臺 Sung Wong Toi   ",
+		"info": "",
+		"riders": 0,
+		"lines": [106],
+		"id": 91,
+		"active": true
+	}, {
+		"lat": 22.33034155892035,
+		"lng": 114.19942525215447,
+		"name": "啟德 Kai Tak",
+		"info": "",
+		"riders": 0,
+		"lines": [106],
+		"id": 92,
+		"active": true
+	}, {
+		"lat": 22.363894178377425,
+		"lng": 114.17078567203137,
+		"name": "顯徑 Hing Keng",
+		"info": "大圍",
+		"riders": 0,
+		"lines": [106],
+		"id": 93,
+		"active": true
+	}, {
+		"lat": 22.373085021527817,
+		"lng": 114.1788697242737,
+		"name": "大圍 Tai Wai",
+		"info": "大圍",
+		"riders": 0,
+		"lines": [106],
+		"id": 94,
+		"active": true
+	}, {
+		"lat": 22.374731934685723,
+		"lng": 114.18607950210573,
+		"name": "車公廟 Che Kung Temple",
+		"info": "大圍",
+		"riders": 0,
+		"lines": [106],
+		"id": 95,
+		"active": true
+	}, {
+		"lat": 22.37684511398846,
+		"lng": 114.19485569000244,
+		"name": "沙田圍 Sha Tin Wai",
+		"info": "沙田",
+		"riders": 0,
+		"lines": [106],
+		"id": 96,
+		"active": true
+	}, {
+		"lat": 22.38306541328989,
+		"lng": 114.20377135276796,
+		"name": "第一城 City One",
+		"info": "沙田",
+		"riders": 0,
+		"lines": [106],
+		"id": 97,
+		"active": true
+	}, {
+		"lat": 22.387820434356062,
+		"lng": 114.20849510002883,
+		"name": "石門 Shek Mun",
+		"info": "沙田",
+		"riders": 0,
+		"lines": [106],
+		"id": 98,
+		"active": true
+	}, {
+		"lat": 22.40865011088094,
+		"lng": 114.22282102983448,
+		"name": "大水坑 Tai Shui Hang",
+		"info": "",
+		"riders": 0,
+		"lines": [106],
+		"id": 99,
+		"active": true
+	}, {
+		"lat": 22.417703522243496,
+		"lng": 114.2257869243622,
+		"name": "恆安 Heng On",
+		"info": "馬鞍山",
+		"riders": 0,
+		"lines": [106],
+		"id": 100,
+		"active": true
+	}, {
+		"lat": 22.424830806408615,
+		"lng": 114.23172231763603,
+		"name": "馬鞍山 Ma On Shan",
+		"info": "馬鞍山",
+		"riders": 0,
+		"lines": [106],
+		"id": 101,
+		"active": true
+	}, {
+		"lat": 22.429208242180934,
+		"lng": 114.24398843664679,
+		"name": "烏溪沙 Wu Kai Sha",
+		"info": "馬鞍山",
+		"riders": 0,
+		"lines": [106],
+		"id": 102,
+		"active": true
 	}],
 	"transfers": [{
 		"s": "55",
 		"e": 0
+	}, {
+		"s": "88",
+		"e": 2
 	}],
 	"version": 0.11
 }
