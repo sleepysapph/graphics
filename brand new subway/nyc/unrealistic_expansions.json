@@ -6060,7 +6060,7 @@
 	}, {
 		"lat": 40.76904292967859,
 		"lng": -73.86498827487232,
-		"name": "LaGuardia Airport Terminals C & D",
+		"name": "LaGuardia Airport Terminal C",
 		"info": "Queens<br />LaGuardia Airport",
 		"riders": 9771.155386921773,
 		"lines": [10, 30, 97],
