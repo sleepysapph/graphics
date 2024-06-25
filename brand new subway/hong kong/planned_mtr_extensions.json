@@ -274,7 +274,7 @@
             "name": "T",
             "html": "T",
             "css": "subway-line",
-            "color_bg": "#1E9DBF",
+            "color_bg": "#00ADD0",
             "color_text": "#FFFFFF",
             "stations": [],
             "draw_map": [],
@@ -404,7 +404,7 @@
             "name": "JFK Express",
             "html": "&#9992;",
             "css": "subway-line",
-            "color_bg": "#1E9DBF",
+            "color_bg": "#00ADD0",
             "color_text": "#FFFFFF",
             "stations": [],
             "draw_map": [],
@@ -1400,6 +1400,32 @@
                 105
             ],
             "id": 109
+        },
+        {
+            "name": "西港島綫 West Island Line",
+            "html": "西港島綫 West Island Line",
+            "css": "subway-line-long",
+            "color_bg": "#9182C2",
+            "color_text": "#FFFFFF",
+            "stations": [
+                75,
+                139,
+                138,
+                137,
+                136,
+                135,
+                35
+            ],
+            "draw_map": [
+                75,
+                139,
+                138,
+                137,
+                136,
+                135,
+                35
+            ],
+            "id": 110
         }
     ],
     "stations": [
@@ -1836,7 +1862,8 @@
             "info": "",
             "riders": 0,
             "lines": [
-                99
+                99,
+                110
             ],
             "id": 35,
             "active": true
@@ -2302,7 +2329,8 @@
             "info": "黃竹坑",
             "riders": 0,
             "lines": [
-                105
+                105,
+                110
             ],
             "id": 75,
             "active": true
@@ -2636,8 +2664,8 @@
             "info": "灣仔",
             "riders": 0,
             "lines": [
-                107,
-                100
+                100,
+                107
             ],
             "id": 103,
             "active": true
@@ -2813,9 +2841,7 @@
             "name": "灣仔 - 馬師道",
             "info": "灣仔",
             "riders": 0,
-            "lines": [
-                102
-            ],
+            "lines": [],
             "id": 118,
             "active": false
         },
@@ -2825,9 +2851,7 @@
             "name": "金鐘 - 行政長官辦公室",
             "info": "金鐘",
             "riders": 0,
-            "lines": [
-                102
-            ],
+            "lines": [],
             "id": 119,
             "active": false
         },
@@ -2837,9 +2861,7 @@
             "name": "金鐘 - 添美道2號政府總部",
             "info": "金鐘",
             "riders": 0,
-            "lines": [
-                102
-            ],
+            "lines": [],
             "id": 120,
             "active": false
         },
@@ -2850,8 +2872,8 @@
             "info": "",
             "riders": 0,
             "lines": [
-                102,
-                100
+                100,
+                102
             ],
             "id": 121,
             "active": true
@@ -2886,9 +2908,7 @@
             "name": "第16區 A16",
             "info": "屯門",
             "riders": 0,
-            "lines": [
-                106
-            ],
+            "lines": [],
             "id": 124,
             "active": false
         },
@@ -2934,9 +2954,7 @@
             "name": "東涌 - 8",
             "info": "東涌",
             "riders": 0,
-            "lines": [
-                102
-            ],
+            "lines": [],
             "id": 128,
             "active": false
         },
@@ -2974,6 +2992,102 @@
                 108
             ],
             "id": 131,
+            "active": true
+        },
+        {
+            "lat": 22.405632744261258,
+            "lng": 114.04598236083986,
+            "name": " - ",
+            "info": "",
+            "riders": 0,
+            "lines": [
+                0
+            ],
+            "id": 132,
+            "active": false
+        },
+        {
+            "lat": 22.35261603551215,
+            "lng": 114.21695709228517,
+            "name": " - 扎山道",
+            "info": "",
+            "riders": 0,
+            "lines": [
+                0
+            ],
+            "id": 133,
+            "active": false
+        },
+        {
+            "lat": 22.404363119154066,
+            "lng": 114.13249969482423,
+            "name": " - ",
+            "info": "",
+            "riders": 0,
+            "lines": [
+                0
+            ],
+            "id": 134,
+            "active": false
+        },
+        {
+            "lat": 22.269995185187256,
+            "lng": 114.1303324699402,
+            "name": "瑪麗醫院 Queen Mary Hospital",
+            "info": "薄扶林",
+            "riders": 0,
+            "lines": [
+                110
+            ],
+            "id": 135,
+            "active": true
+        },
+        {
+            "lat": 22.26061238708907,
+            "lng": 114.13166284561159,
+            "name": "數碼港 Cyberport",
+            "info": "貝沙灣",
+            "riders": 0,
+            "lines": [
+                110
+            ],
+            "id": 136,
+            "active": true
+        },
+        {
+            "lat": 22.25173930086894,
+            "lng": 114.1383059648797,
+            "name": "華富 Wah Fu",
+            "info": "華富",
+            "riders": 0,
+            "lines": [
+                110
+            ],
+            "id": 137,
+            "active": true
+        },
+        {
+            "lat": 22.2491505924586,
+            "lng": 114.14879778167234,
+            "name": "田灣 Tin Wan",
+            "info": "田灣",
+            "riders": 0,
+            "lines": [
+                110
+            ],
+            "id": 138,
+            "active": true
+        },
+        {
+            "lat": 22.247921764933402,
+            "lng": 114.15591860655695,
+            "name": "香港仔 Aberdeen",
+            "info": "香港仔",
+            "riders": 0,
+            "lines": [
+                110
+            ],
+            "id": 139,
             "active": true
         }
     ],
