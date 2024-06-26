@@ -1,1 +1,3206 @@
-﻿{"lines":[{"name":"A","html":"A","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":0},{"name":"B","html":"B","css":"subway-line","color_bg":"#FF6319","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":1},{"name":"C","html":"C","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":2},{"name":"D","html":"D","css":"subway-line","color_bg":"#FF6319","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":3},{"name":"E","html":"E","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":4},{"name":"F","html":"F","css":"subway-line","color_bg":"#FF6319","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":5},{"name":"G","html":"G","css":"subway-line","color_bg":"#6CBE45","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":6},{"name":"J","html":"J","css":"subway-line","color_bg":"#996633","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":7},{"name":"L","html":"L","css":"subway-line","color_bg":"#A7A9AC","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":8},{"name":"M","html":"M","css":"subway-line","color_bg":"#FF6319","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":9},{"name":"N","html":"N","css":"subway-line","color_bg":"#FCCC0A","color_text":"#000000","stations":[],"draw_map":[],"id":10},{"name":"Q","html":"Q","css":"subway-line","color_bg":"#FCCC0A","color_text":"#000000","stations":[],"draw_map":[],"id":11},{"name":"R","html":"R","css":"subway-line","color_bg":"#FCCC0A","color_text":"#000000","stations":[],"draw_map":[],"id":12},{"name":"S-1","html":"S","css":"subway-line","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":13},{"name":"S-2","html":"S","css":"subway-line","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":14},{"name":"S-3","html":"S","css":"subway-line","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":15},{"name":"Z","html":"Z","css":"subway-line","color_bg":"#996633","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":16},{"name":"1","html":"1","css":"subway-line","color_bg":"#EE352E","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":17},{"name":"2","html":"2","css":"subway-line","color_bg":"#EE352E","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":18},{"name":"3","html":"3","css":"subway-line","color_bg":"#EE352E","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":19},{"name":"4","html":"4","css":"subway-line","color_bg":"#00933C","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":20},{"name":"5","html":"5","css":"subway-line","color_bg":"#00933C","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":21},{"name":"6","html":"6","css":"subway-line","color_bg":"#00933C","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":22},{"name":"7","html":"7","css":"subway-line","color_bg":"#B933AD","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":23},{"name":"SIRR","html":"SI","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":24},{"name":"AirTrain JFK","html":"&#9992;","css":"subway-line","color_bg":"#FFF200","color_text":"#000000","stations":[],"draw_map":[],"id":25},{"name":"AirTrain LGA","html":"&#9992;","css":"subway-line","color_bg":"#FFF200","color_text":"#000000","stations":[],"draw_map":[],"id":26},{"name":"T","html":"T","css":"subway-line","color_bg":"#1E9DBF","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":27},{"name":"BQX","html":"BQX","css":"subway-line-long","color_bg":"#212121","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":28},{"name":"S-4","html":"S","css":"subway-line","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":29},{"name":"W","html":"W","css":"subway-line","color_bg":"#FCCC0A","color_text":"#000000","stations":[],"draw_map":[],"id":30},{"name":"8","html":"8","css":"subway-line","color_bg":"#00933C","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":31},{"name":"9","html":"9","css":"subway-line","color_bg":"#EE352E","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":32},{"name":"10","html":"10","css":"subway-line","color_bg":"#00933C","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":33},{"name":"11","html":"11","css":"subway-line","color_bg":"#B933AD","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":34},{"name":"12","html":"12","css":"subway-line","color_bg":"#00933C","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":35},{"name":"13","html":"13","css":"subway-line","color_bg":"#EE352E","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":36},{"name":"H","html":"H","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":37},{"name":"K","html":"K","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":38},{"name":"V","html":"V","css":"subway-line","color_bg":"#FF6319","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":39},{"name":"JFK Express","html":"&#9992;","css":"subway-line","color_bg":"#1E9DBF","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":40},{"name":"MJ","html":"MJ","css":"subway-line","color_bg":"#AB3F57","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":41},{"name":"A-Euclid","html":"A","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":42},{"name":"AirTrain JFK-Howard","html":"&#9992;","css":"subway-line","color_bg":"#FFF200","color_text":"#000000","stations":[],"draw_map":[],"id":43},{"name":"AirTrain JFK-Archer","html":"&#9992;","css":"subway-line","color_bg":"#FFF200","color_text":"#000000","stations":[],"draw_map":[],"id":44},{"name":"AirTrain JFK-Connectors","html":"&#9992;","css":"subway-line","color_bg":"#FFF200","color_text":"#000000","stations":[],"draw_map":[],"id":45},{"name":"TriboroRX","html":"TriboroRX","css":"subway-line-long","color_bg":"#FCCC0A","color_text":"#000000","stations":[],"draw_map":[],"id":46},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":47},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":48},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":49},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":50},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":51},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":52},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":53},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":54},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":55},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":56},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":57},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":58},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":59},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":60},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":61},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":62},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":63},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":64},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":65},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":66},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":67},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":68},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":69},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":70},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":71},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":72},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":73},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":74},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":75},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":76},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":77},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":78},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":79},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":80},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":81},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":82},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":83},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":84},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":85},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":86},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":87},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":88},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":89},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":90},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":91},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":92},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":93},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":94},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":95},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":96},{"name":"LIRR City (Main)","html":"LIRR City (Main)","css":"subway-line-long","color_bg":"#4E5859","color_text":"#FFFFFF","stations":[3,2,1,0,7,8],"draw_map":[3,2,1,0,7,8],"id":97},{"name":"LIRR City (Atlantic)","html":"LIRR City (Atlantic)","css":"subway-line-long","color_bg":"#4E5859","color_text":"#FFFFFF","stations":[6,5,4,3],"draw_map":[6,5,4,3],"id":98},{"name":"LIRR City (Penn)","html":"LIRR City (Penn)","css":"subway-line-long","color_bg":"#4E5859","color_text":"#FFFFFF","stations":[9,0],"draw_map":[9,0],"id":99},{"name":"LIRR City (Grand Central)","html":"LIRR City (Grand Central)","css":"subway-line-long","color_bg":"#4E5859","color_text":"#FFFFFF","stations":[12,0],"draw_map":[12,0],"id":100},{"name":"LIRR Port Washington","html":"LIRR Port Washington","css":"subway-line-long","color_bg":"#E61B44","color_text":"#FFFFFF","stations":[24,23,22,21,20,19,18,17,16,15,14,13,0],"draw_map":[24,23,22,21,20,19,18,17,16,15,14,13,0],"id":101},{"name":"LIRR Far Rockaway","html":"LIRR Far Rockaway","css":"subway-line-long","color_bg":"#8B624B","color_text":"#FFFFFF","stations":[33,35,34,32,31,29,30,28,27,26,25,3],"draw_map":[33,35,34,32,31,29,30,28,27,26,25,3],"id":102},{"name":"LIRR Long Beach","html":"LIRR Long Beach","css":"subway-line-long","color_bg":"#F3734E","color_text":"#FFFFFF","stations":[42,41,39,38,37,36,28,27,26,25,3],"draw_map":[42,41,39,38,37,36,28,27,26,25,3],"id":103},{"name":"LIRR West Hempstead","html":"LIRR West Hempstead","css":"subway-line-long","color_bg":"#0C93D1","color_text":"#FFFFFF","stations":[3,43,28,44,45,46,47,48],"draw_map":[3,43,28,44,45,46,47,48],"id":104},{"name":"LIRR Babylon","html":"LIRR Babylon","css":"subway-line-long","color_bg":"#2E9041","color_text":"#FFFFFF","stations":[3,43,36,49,50,51,52,53,54,55,56,57,58,59,60,61],"draw_map":[3,43,36,49,50,51,52,53,54,55,56,57,58,59,60,61],"id":105},{"name":"LIRR Hempstead","html":"LIRR Hempstead","css":"subway-line-long","color_bg":"#C68C34","color_text":"#FFFFFF","stations":[3,62,63,64,65,66,67,68,69,70,71,72],"draw_map":[3,62,63,64,65,66,67,68,69,70,71,72],"id":106},{"name":"LIRR Port Jefferson","html":"LIRR Port Jefferson","css":"subway-line-long","color_bg":"#0063A6","color_text":"#FFFFFF","stations":[103,102,101,98,97,96,95,94,93,91,79,78,77,76,74,73,67,3],"draw_map":[103,102,101,98,97,96,95,94,93,91,79,78,77,76,74,73,67,66,65,64,63,62,3],"id":107},{"name":"LIRR Oyster Bay","html":"LIRR Oyster Bay","css":"subway-line-long","color_bg":"#0DB14B","color_text":"#FFFFFF","stations":[90,89,88,87,86,85,84,83,82,81,76,3],"draw_map":[90,89,88,87,86,85,84,83,82,81,76,74,73,67,3],"id":108},{"name":"LIRR Ronkonkoma","html":"LIRR Ronkonkoma","css":"subway-line-long","color_bg":"#B458A2","color_text":"#FFFFFF","stations":[113,112,111,110,109,108,107,106,79,76,3],"draw_map":[113,112,111,110,109,108,107,106,79,78,77,76,74,73,67,3],"id":109},{"name":"LIRR Greenport","html":"LIRR Greenport","css":"subway-line-long","color_bg":"#B458A2","color_text":"#FFFFFF","stations":[120,119,118,117,116,115,113],"draw_map":[120,119,118,117,116,115,113],"id":110},{"name":"LIRR Belmont Park","html":"LIRR Belmont Park","css":"subway-line-long","color_bg":"#805EA8","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":111},{"name":"LIRR Montauk","html":"LIRR Montauk","css":"subway-line-long","color_bg":"#1CBCC0","color_text":"#FFFFFF","stations":[3,79,61,124,125,126,127,128,129,130,131,132,133,134,135,136,137,139,140],"draw_map":[3,67,73,74,76,77,78,79,61,124,125,126,127,128,129,130,131,132,133,134,135,136,137,139,140],"id":112}],"stations":[{"lat":40.74566789522559,"lng":-73.90274941921236,"name":"Woodside   ","info":"Queens<br />Woodside","riders":40925.41541253651,"lines":[97,99,100,101],"id":0,"active":true},{"lat":40.719585100033306,"lng":-73.84487807750703,"name":"Forest Hills","info":"Queens<br />Forest Hills","riders":7773.397494396573,"lines":[97],"id":1,"active":true},{"lat":40.70953989815836,"lng":-73.83073210716249,"name":"Kew Gardens","info":"Queens<br />Kew Gardens","riders":6566.0994467868795,"lines":[97],"id":2,"active":true},{"lat":40.699560285865815,"lng":-73.80842685699464,"name":"Jamaica ","info":"Queens<br />Jamaica","riders":23018.957483442784,"lines":[97,98,102,103,104,105,106,107,108,109,112],"id":3,"active":true},{"lat":40.675756088784546,"lng":-73.90266895294191,"name":"East New York","info":"Brooklyn<br />East New York","riders":5607.235419145417,"lines":[98],"id":4,"active":true},{"lat":40.67835983270465,"lng":-73.9476764202118,"name":"Nostrand Avenue","info":"Brooklyn<br />Bedford-Stuyvesant","riders":15266.139876046964,"lines":[98],"id":5,"active":true},{"lat":40.68450263800207,"lng":-73.97814631462099,"name":"Atlantic Terminal","info":"Brooklyn<br />Park Slope","riders":8073.593742456623,"lines":[98],"id":6,"active":true},{"lat":40.74238803722561,"lng":-73.94675374031068,"name":"Hunterspoint Avenue","info":"Queens<br />Long Island City","riders":1827.0637753789647,"lines":[97],"id":7,"active":true},{"lat":40.741527085803064,"lng":-73.95719713065775,"name":"Long Island City","info":"Queens<br />Long Island City","riders":2936.914846213304,"lines":[97],"id":8,"active":true},{"lat":40.75057315544191,"lng":-73.99386405944826,"name":"Penn Station","info":"Manhattan<br />Chelsea","riders":14608.361804705497,"lines":[99],"id":9,"active":true},{"lat":40.75310895587201,"lng":-73.97699832916261,"name":"Gran","info":"Manhattan<br />Midtown","riders":null,"lines":[],"id":10,"active":false},{"lat":40.75624606231068,"lng":-73.97468090057374,"name":"Park Ave","info":"Manhattan<br />Midtown","riders":null,"lines":[],"id":11,"active":false},{"lat":40.75549837162147,"lng":-73.9751958847046,"name":"Grand Central Madison","info":"Manhattan<br />Midtown","riders":7065.375634847001,"lines":[100],"id":12,"active":true},{"lat":40.752475014831,"lng":-73.8439178466797,"name":"Mets-Willets Point","info":"Queens<br />Flushing Meadows Corona Park","riders":4.141363555134902,"lines":[101],"id":13,"active":true},{"lat":40.75809899864518,"lng":-73.83106470108034,"name":"Flushing–Main Street","info":"Queens<br />Flushing","riders":7712.280632653128,"lines":[101],"id":14,"active":true},{"lat":40.76270673481835,"lng":-73.81440281867982,"name":"Murray Hill","info":"Queens<br />Flushing","riders":7197.534457633168,"lines":[101],"id":15,"active":true},{"lat":40.761690947411594,"lng":-73.80203783512117,"name":"Broadway","info":"Queens<br />Flushing","riders":4909.709432819315,"lines":[101],"id":16,"active":true},{"lat":40.76141465055142,"lng":-73.79006981849672,"name":"Auburndale","info":"Queens<br />Flushing","riders":5052.67800869828,"lines":[101],"id":17,"active":true},{"lat":40.76306835138817,"lng":-73.7719649076462,"name":"Bayside","info":"Queens<br />Bayside","riders":4119.3235354847775,"lines":[101],"id":18,"active":true},{"lat":40.768411108491094,"lng":-73.74903202056886,"name":"Douglaston","info":"Queens<br />Douglaston","riders":1712.1968223368542,"lines":[101],"id":19,"active":true},{"lat":40.774139367051774,"lng":-73.74169886112215,"name":"Little Neck","info":"Queens<br />Little Neck","riders":1626.4357114875713,"lines":[101],"id":20,"active":true},{"lat":40.7872152626276,"lng":-73.72623194474728,"name":"Great Neck","info":"Town of North Hempstead","riders":456.0239568432339,"lines":[101],"id":21,"active":true},{"lat":40.79673882459413,"lng":-73.69991540908815,"name":"Manhasset","info":"Manhasset","riders":82.67557608743807,"lines":[101],"id":22,"active":true},{"lat":40.810031299534565,"lng":-73.6953502893448,"name":"Plandome","info":"Town of North Hempstead","riders":110.2960188454771,"lines":[101],"id":23,"active":true},{"lat":40.83015274876982,"lng":-73.68773818016054,"name":"Port Washintgon","info":"Town of North Hempstead","riders":205.19289693745927,"lines":[101],"id":24,"active":true},{"lat":40.67470642575645,"lng":-73.76435279846193,"name":"Locust Manor","info":"Queens<br />Jamaica","riders":6867.094118418108,"lines":[102,103],"id":25,"active":true},{"lat":40.66829824076061,"lng":-73.75131189823152,"name":"Laurelton","info":"Queens<br />Springfield Gardens","riders":5639.497259447886,"lines":[102,103],"id":26,"active":true},{"lat":40.66586093447048,"lng":-73.73557806015016,"name":"Rosedale","info":"Queens<br />Rosedale","riders":4841.909607348798,"lines":[102,103],"id":27,"active":true},{"lat":40.661433679519966,"lng":-73.70445370674135,"name":"Valley Stream","info":"Valley Stream","riders":450.29228496430704,"lines":[102,103,104],"id":28,"active":true},{"lat":40.63761586654413,"lng":-73.70373487472536,"name":"Hewlett","info":"Town of Hempstead","riders":161.5165587276092,"lines":[102],"id":29,"active":true},{"lat":40.64890311823799,"lng":-73.70184123516084,"name":"Gibson","info":"Valley Stream","riders":283.8134385960656,"lines":[102],"id":30,"active":true},{"lat":40.631579553176955,"lng":-73.71333898510785,"name":"Woodmere","info":"Town of Hempstead","riders":177.47124511149605,"lines":[102],"id":31,"active":true},{"lat":40.61966253286586,"lng":-73.72967443428935,"name":"Ceaderhurst","info":"Cedarhurst","riders":174.23416156697232,"lines":[102],"id":32,"active":true},{"lat":40.608544342777016,"lng":-73.75122070312501,"name":"Far Rockaway","info":"Queens<br />Far Rockaway","riders":5554.643445580208,"lines":[102],"id":33,"active":true},{"lat":40.615164545491545,"lng":-73.73690784908833,"name":"Lawrence","info":"Town of Hempstead","riders":183.99902325556707,"lines":[102],"id":34,"active":true},{"lat":40.61210223763589,"lng":-73.74473989941181,"name":"Inwood","info":"Inwood","riders":307.112171124832,"lines":[102],"id":35,"active":true},{"lat":40.65594803325412,"lng":-73.67557168006898,"name":"Lynbrook","info":"Lynbrook","riders":541.6268204221908,"lines":[103,105],"id":36,"active":true},{"lat":40.64842691863605,"lng":-73.6640650033951,"name":"Centre Avenue","info":"East Rockaway","riders":224.11811670114702,"lines":[103],"id":37,"active":true},{"lat":40.641841177427516,"lng":-73.65783691406251,"name":"East Rockaway","info":"Oceanside","riders":276.9993795667719,"lines":[103],"id":38,"active":true},{"lat":40.634906882557566,"lng":-73.65469336509706,"name":"Oceanside","info":"Town of Hempstead","riders":219.93257893909876,"lines":[103],"id":39,"active":true},{"lat":40.600696820508986,"lng":-73.65539375692607,"name":"Island Park - Long Beach Rd","info":"Island Park","riders":null,"lines":[],"id":40,"active":false},{"lat":40.60118080645066,"lng":-73.65487575531007,"name":"Island Park","info":"Island Park","riders":87.32020251003128,"lines":[103],"id":41,"active":true},{"lat":40.589184750112445,"lng":-73.66485692560673,"name":"Long Beach","info":"City of Long Beach","riders":355.5083585439681,"lines":[103],"id":42,"active":true},{"lat":40.69135262201853,"lng":-73.76561880111696,"name":"St. Albans","info":"Queens<br />St. Albans","riders":5334.553911852556,"lines":[104,105],"id":43,"active":true},{"lat":40.668395893914564,"lng":-73.68120431900026,"name":"Westwood","info":"Lynbrook","riders":201.61247467074583,"lines":[104],"id":44,"active":true},{"lat":40.675845594169544,"lng":-73.66820096969606,"name":"Malverne","info":"Malverne","riders":237.08916960439302,"lines":[104],"id":45,"active":true},{"lat":40.68585297495491,"lng":-73.65218135062607,"name":"Lakeview","info":"West Hempstead","riders":202.39379536591983,"lines":[104],"id":46,"active":true},{"lat":40.694767007046515,"lng":-73.64629352465273,"name":"Hempstead Gardens","info":"West Hempstead","riders":296.04404333463924,"lines":[104],"id":47,"active":true},{"lat":40.70262671545004,"lng":-73.6412286758423,"name":"West Hempstead","info":"Town of Hempstead","riders":345.3804852534001,"lines":[104],"id":48,"active":true},{"lat":40.658296172965024,"lng":-73.64630341529848,"name":"Rockville Centre","info":"Rockville Centre","riders":245.12039462475278,"lines":[105],"id":49,"active":true},{"lat":40.65677823420846,"lng":-73.60689640045167,"name":"Baldwin","info":"Baldwin","riders":248.93440498810807,"lines":[105],"id":50,"active":true},{"lat":40.65748792828896,"lng":-73.58203661860898,"name":"Freeport","info":"Freeport","riders":222.52040330946508,"lines":[105],"id":51,"active":true},{"lat":40.66374500369322,"lng":-73.55082750320436,"name":"Merrick","info":"Merrick","riders":241.436555170223,"lines":[105],"id":52,"active":true},{"lat":40.66874174768479,"lng":-73.52936983108522,"name":"Bellmore","info":"Bellmore","riders":156.16941053887575,"lines":[105],"id":53,"active":true},{"lat":40.67292440184326,"lng":-73.50945711135866,"name":"Wantagh","info":"Wantagh","riders":null,"lines":[105],"id":54,"active":true},{"lat":40.67574381992623,"lng":-73.48648038692774,"name":"Seaford","info":"Seaford","riders":0,"lines":[105],"id":55,"active":true},{"lat":40.676919649416924,"lng":-73.46884314436467,"name":"Massapequa","info":"Massapequa","riders":0,"lines":[105],"id":56,"active":true},{"lat":40.6778099464784,"lng":-73.45491405576468,"name":"Massapequa Park","info":"Massapequa Park","riders":0,"lines":[105],"id":57,"active":true},{"lat":40.68025808290726,"lng":-73.42055401531981,"name":"Amityville","info":"Town of Babylon","riders":0,"lines":[105],"id":58,"active":true},{"lat":40.68102856468426,"lng":-73.3984136581421,"name":"Copaigue","info":"Copiague","riders":0,"lines":[105],"id":59,"active":true},{"lat":40.6881490570019,"lng":-73.36952639278026,"name":"Lindenhurst","info":"Lindenhurst","riders":0,"lines":[105],"id":60,"active":true},{"lat":40.70057702219341,"lng":-73.32436323165895,"name":"Babylon","info":"Babylon","riders":0,"lines":[105,112],"id":61,"active":true},{"lat":40.70774301622955,"lng":-73.77681153360754,"name":"Hillside (Employees)","info":"Queens<br />Jamaica","riders":4897.438241826085,"lines":[106],"id":62,"active":true},{"lat":40.71020677900668,"lng":-73.76673460006715,"name":"Hollis","info":"Queens<br />Hollis","riders":5914.442382980845,"lines":[106],"id":63,"active":true},{"lat":40.717401119293996,"lng":-73.73660165816547,"name":"Queens Village","info":"Queens<br />Queens Village","riders":3872.5234430354594,"lines":[106],"id":64,"active":true},{"lat":40.72037995010059,"lng":-73.7241840362549,"name":"Elmont - UBS Arena","info":"Floral Park","riders":573.4530549536406,"lines":[106],"id":65,"active":true},{"lat":40.72216635877667,"lng":-73.71680025011302,"name":"Bellerose","info":"Floral Park","riders":560.3015549199797,"lines":[106],"id":66,"active":true},{"lat":40.72469758873941,"lng":-73.70612740516664,"name":"Floral Park","info":"Town of Hempstead","riders":637.121505117226,"lines":[106,107],"id":67,"active":true},{"lat":40.72302667141481,"lng":-73.680305716116,"name":"Stewart Manor","info":"Town of Hempstead","riders":276.1699609488449,"lines":[106],"id":68,"active":true},{"lat":40.722945360499004,"lng":-73.66133987903596,"name":"Nassau Boulevard","info":"Town of Hempstead","riders":80.33128608847328,"lines":[106],"id":69,"active":true},{"lat":40.72317709634715,"lng":-73.63991975784303,"name":"Garden City","info":"Garden City","riders":84.76806752804673,"lines":[106],"id":70,"active":true},{"lat":40.72224532022436,"lng":-73.63041132688524,"name":"Country Life Press","info":"Garden City","riders":77.15187536215345,"lines":[106],"id":71,"active":true},{"lat":40.71224804350795,"lng":-73.6248564720154,"name":"Hempstead","info":"Hempstead","riders":700.526705649564,"lines":[106],"id":72,"active":true},{"lat":40.73080360135806,"lng":-73.68076443672182,"name":"New Hyde Park","info":"New Hyde Park","riders":270.8022545319029,"lines":[107],"id":73,"active":true},{"lat":40.73545498837495,"lng":-73.66135354153813,"name":"Merillon Avenue","info":"Town of Hempstead","riders":219.31947258309683,"lines":[107],"id":74,"active":true},{"lat":40.73595901968904,"lng":-73.66364951245487,"name":"New Hyde Park - Hilton Ave","info":"New Hyde Park","riders":null,"lines":[107],"id":75,"active":false},{"lat":40.740412665215615,"lng":-73.64063029177487,"name":"Mineola","info":"Town of North Hempstead","riders":444.9949916179269,"lines":[107,108,109],"id":76,"active":true},{"lat":40.74916704493487,"lng":-73.60384941101076,"name":"Carle Place","info":"Carle Place","riders":275.62256096824535,"lines":[107],"id":77,"active":true},{"lat":40.75336157181917,"lng":-73.58626086730511,"name":"Westbury","info":"Westbury","riders":223.10931565018237,"lines":[107],"id":78,"active":true},{"lat":40.76707038091834,"lng":-73.52897286415102,"name":"Hicksville","info":"Hicksville","riders":204.5090206162346,"lines":[107,109,112],"id":79,"active":true},{"lat":40.821655717970614,"lng":-73.7126223742962,"name":"Port Washington - ","info":"Port Washington","riders":null,"lines":[108],"id":80,"active":false},{"lat":40.757015633345496,"lng":-73.63955738721417,"name":"East Williston","info":"Williston Park","riders":316.11219439676427,"lines":[108],"id":81,"active":true},{"lat":40.77207714929621,"lng":-73.64172530360521,"name":"Albertson","info":"Albertson","riders":190.77586503135555,"lines":[108],"id":82,"active":true},{"lat":40.79083373424697,"lng":-73.64324492169546,"name":"Roslyn","info":"Roslyn Heights","riders":166.37627756000109,"lines":[108],"id":83,"active":true},{"lat":40.81570116032698,"lng":-73.62689495086671,"name":"Greenvale","info":"Town of Oyster Bay","riders":64.54791588666684,"lines":[108],"id":84,"active":true},{"lat":40.83255648506383,"lng":-73.62617544829847,"name":"Glen Head","info":"Glen Head","riders":87.52625017597154,"lines":[108],"id":85,"active":true},{"lat":40.852254338121625,"lng":-73.62546801567079,"name":"Sea Cliff","info":"Glen Cove","riders":147.24037254655977,"lines":[108],"id":86,"active":true},{"lat":40.85814982590701,"lng":-73.62093508243562,"name":"Glen Street","info":"Glen Cove","riders":156.56008041554665,"lines":[108],"id":87,"active":true},{"lat":40.865570172373204,"lng":-73.61650943756105,"name":"Glen Cove","info":"Glen Cove","riders":157.7806141555232,"lines":[108],"id":88,"active":true},{"lat":40.874501650193075,"lng":-73.59835176263006,"name":"Locust Valley","info":"Locust Valley","riders":96.62381019178903,"lines":[108],"id":89,"active":true},{"lat":40.874433739213885,"lng":-73.5286831855774,"name":"Oyster Bay","info":"Oyster Bay","riders":84.04507324888445,"lines":[108],"id":90,"active":true},{"lat":40.82479742102467,"lng":-73.50055498536678,"name":"Syosset","info":"Syosset","riders":0,"lines":[107],"id":91,"active":true},{"lat":40.74677435358377,"lng":-73.86144949821757,"name":"Corona","info":"Queens<br />Corona","riders":null,"lines":[101],"id":92,"active":false},{"lat":40.83602217292549,"lng":-73.45078877639027,"name":"Cold Spring Harbour","info":"Cold Spring Harbor","riders":0,"lines":[107],"id":93,"active":true},{"lat":40.853293085675155,"lng":-73.40858459472658,"name":"Huntington","info":"Huntington Station","riders":0,"lines":[107],"id":94,"active":true},{"lat":40.86856404068858,"lng":-73.36329817771913,"name":"Greenlawn","info":"Greenlawn","riders":0,"lines":[107],"id":95,"active":true},{"lat":40.88072473183124,"lng":-73.32674503326417,"name":"Northport","info":"East Northport","riders":0,"lines":[107],"id":96,"active":true},{"lat":40.883667567034706,"lng":-73.25599410105498,"name":"Kings Park","info":"Kings Park","riders":0,"lines":[107],"id":97,"active":true},{"lat":40.8563856629159,"lng":-73.1985784205608,"name":"Smithtown","info":"Smithtown","riders":0,"lines":[107],"id":98,"active":true},{"lat":40.85675082668695,"lng":-73.19833702174948,"name":"Smithtown - Redwood Ln","info":"Smithtown","riders":0,"lines":[107],"id":99,"active":false},{"lat":40.85652283730292,"lng":-73.19981753826143,"name":"Smithtown - Fairview Ave","info":"Smithtown","riders":0,"lines":[107],"id":100,"active":false},{"lat":40.88268897596961,"lng":-73.15877865068616,"name":"St. James","info":"Saint James","riders":0,"lines":[107],"id":101,"active":true},{"lat":40.92060606765139,"lng":-73.12832560390235,"name":"Stony Brook","info":"Stony Brook","riders":0,"lines":[107],"id":102,"active":true},{"lat":40.93363300116506,"lng":-73.04092884063722,"name":"Port Jefferson","info":"Port Jefferson Station","riders":0,"lines":[107],"id":103,"active":true},{"lat":41.17451935556445,"lng":-72.73773193359376,"name":" - ","info":"","riders":0,"lines":[107],"id":104,"active":false},{"lat":41.36238012945531,"lng":-72.45483398437501,"name":"Deep River - ","info":"Deep River","riders":0,"lines":[107],"id":105,"active":false},{"lat":40.74283511537103,"lng":-73.48311245441438,"name":"Bethpage","info":"Bethpage","riders":0,"lines":[109],"id":106,"active":true},{"lat":40.73586035408156,"lng":-73.44142019748689,"name":"Farmingdale","info":"Town of Oyster Bay","riders":0,"lines":[109],"id":107,"active":true},{"lat":40.74520121371464,"lng":-73.39994369074704,"name":"Pinelawn","info":"West Babylon","riders":0,"lines":[109],"id":108,"active":true},{"lat":40.754811626568916,"lng":-73.3579444885254,"name":"Wyandanch","info":"Wyandanch","riders":0,"lines":[109],"id":109,"active":true},{"lat":40.76965395529574,"lng":-73.29291915055364,"name":"Deer Park","info":"Town of Islip","riders":0,"lines":[109],"id":110,"active":true},{"lat":40.780768905045555,"lng":-73.24400424957277,"name":"Brentwood","info":"Brentwood","riders":0,"lines":[109],"id":111,"active":true},{"lat":40.79179946753497,"lng":-73.19520874880254,"name":"Central Islip","info":"Central Islip","riders":0,"lines":[109],"id":112,"active":true},{"lat":40.808073100652386,"lng":-73.10644657351078,"name":"Ronkonkoma","info":"Ronkonkoma","riders":0,"lines":[109,110],"id":113,"active":true},{"lat":40.8137559431402,"lng":-73.01996599417181,"name":"Medford - Ocean Ave","info":"Medford","riders":0,"lines":[110],"id":114,"active":false},{"lat":40.81737395137823,"lng":-72.99910695757718,"name":"Medford","info":"Medford","riders":0,"lines":[110],"id":115,"active":true},{"lat":40.825729535943246,"lng":-72.91564386337997,"name":"Yaphank","info":"Town of Brookhaven","riders":0,"lines":[110],"id":116,"active":true},{"lat":40.91980390708972,"lng":-72.66762971878053,"name":"Riverhead","info":"Town of Riverhead","riders":0,"lines":[110],"id":117,"active":true},{"lat":40.99182296060578,"lng":-72.53600772935899,"name":"Mattituck","info":"Mattituck","riders":0,"lines":[110],"id":118,"active":true},{"lat":41.066256345757964,"lng":-72.42796897888185,"name":"Southold","info":"Southold","riders":0,"lines":[110],"id":119,"active":true},{"lat":41.09975249073483,"lng":-72.36299514770509,"name":"Greenport","info":"Greenport","riders":0,"lines":[110],"id":120,"active":true},{"lat":40.74101426921151,"lng":-72.64434814453126,"name":" - ","info":"","riders":0,"lines":[0],"id":121,"active":false},{"lat":40.80653332421558,"lng":-73.91464233398439,"name":"Mott Haven - Bronx - 139th St","info":"Bronx<br />Mott Haven","riders":null,"lines":[0],"id":122,"active":false},{"lat":40.71319139560073,"lng":-73.7282180786133,"name":"","info":"Queens<br />Queens Village","riders":null,"lines":[111],"id":123,"active":false},{"lat":40.725006561556555,"lng":-73.25296282768251,"name":"Bay Shore","info":"Town of Islip","riders":0,"lines":[112],"id":124,"active":true},{"lat":40.73586848359966,"lng":-73.20921063423158,"name":"Islip","info":"Islip","riders":0,"lines":[112],"id":125,"active":true},{"lat":40.74049401829621,"lng":-73.17002892494203,"name":"Great River","info":"East Islip","riders":0,"lines":[112],"id":126,"active":true},{"lat":40.74341224816964,"lng":-73.13237071037294,"name":"Oakdale","info":"Oakdale","riders":0,"lines":[112],"id":127,"active":true},{"lat":40.740339568022435,"lng":-73.08615088462831,"name":"Sayville","info":"Sayville","riders":0,"lines":[112],"id":128,"active":true},{"lat":40.76188597979787,"lng":-73.01571607589723,"name":"Patchogue","info":"Patchogue","riders":0,"lines":[112],"id":129,"active":true},{"lat":40.77385905950777,"lng":-72.94337689876558,"name":"Bellport","info":"Bellport","riders":0,"lines":[112],"id":130,"active":true},{"lat":40.79893206584314,"lng":-72.86501192953438,"name":"Mastic Shirley","info":"Shirley","riders":0,"lines":[112],"id":131,"active":true},{"lat":40.821250780333834,"lng":-72.70484805107118,"name":"Speonk","info":"Speonk","riders":0,"lines":[112],"id":132,"active":true},{"lat":40.83026640046767,"lng":-72.65115022659303,"name":"Westhampton","info":"Westhampton Beach","riders":0,"lines":[112],"id":133,"active":true},{"lat":40.876433455455015,"lng":-72.52448558807374,"name":"Hampton Bays","info":"Hampton Bays","riders":0,"lines":[112],"id":134,"active":true},{"lat":40.89485396279276,"lng":-72.38983869552614,"name":"Southampton","info":"Southampton","riders":0,"lines":[112],"id":135,"active":true},{"lat":40.93934100922805,"lng":-72.30951177421957,"name":"Bridgehampton","info":"Bridgehampton","riders":0,"lines":[112],"id":136,"active":true},{"lat":40.96503431223249,"lng":-72.19360363204034,"name":"East Hampton","info":"East Hampton","riders":0,"lines":[112],"id":137,"active":true},{"lat":40.959454361332945,"lng":-72.20582054927945,"name":"East Hampton - Buell Ln Extension","info":"East Hampton","riders":0,"lines":[112],"id":138,"active":false},{"lat":40.98008436071757,"lng":-72.13243246078493,"name":"Amagansett","info":"Amagansett","riders":0,"lines":[112],"id":139,"active":true},{"lat":41.047996914946886,"lng":-71.95332527160646,"name":"Montauk","info":"Montauk","riders":0,"lines":[112],"id":140,"active":true}],"transfers":[],"version":0.11}
+{
+    "lines": [
+        {
+            "name": "A",
+            "html": "A",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 0
+        },
+        {
+            "name": "B",
+            "html": "B",
+            "css": "subway-line",
+            "color_bg": "#FF6319",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 1
+        },
+        {
+            "name": "C",
+            "html": "C",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 2
+        },
+        {
+            "name": "D",
+            "html": "D",
+            "css": "subway-line",
+            "color_bg": "#FF6319",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 3
+        },
+        {
+            "name": "E",
+            "html": "E",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 4
+        },
+        {
+            "name": "F",
+            "html": "F",
+            "css": "subway-line",
+            "color_bg": "#FF6319",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 5
+        },
+        {
+            "name": "G",
+            "html": "G",
+            "css": "subway-line",
+            "color_bg": "#6CBE45",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 6
+        },
+        {
+            "name": "J",
+            "html": "J",
+            "css": "subway-line",
+            "color_bg": "#996633",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 7
+        },
+        {
+            "name": "L",
+            "html": "L",
+            "css": "subway-line",
+            "color_bg": "#A7A9AC",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 8
+        },
+        {
+            "name": "M",
+            "html": "M",
+            "css": "subway-line",
+            "color_bg": "#FF6319",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 9
+        },
+        {
+            "name": "N",
+            "html": "N",
+            "css": "subway-line",
+            "color_bg": "#FCCC0A",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 10
+        },
+        {
+            "name": "Q",
+            "html": "Q",
+            "css": "subway-line",
+            "color_bg": "#FCCC0A",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 11
+        },
+        {
+            "name": "R",
+            "html": "R",
+            "css": "subway-line",
+            "color_bg": "#FCCC0A",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 12
+        },
+        {
+            "name": "S-1",
+            "html": "S",
+            "css": "subway-line",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 13
+        },
+        {
+            "name": "S-2",
+            "html": "S",
+            "css": "subway-line",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 14
+        },
+        {
+            "name": "S-3",
+            "html": "S",
+            "css": "subway-line",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 15
+        },
+        {
+            "name": "Z",
+            "html": "Z",
+            "css": "subway-line",
+            "color_bg": "#996633",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 16
+        },
+        {
+            "name": "1",
+            "html": "1",
+            "css": "subway-line",
+            "color_bg": "#EE352E",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 17
+        },
+        {
+            "name": "2",
+            "html": "2",
+            "css": "subway-line",
+            "color_bg": "#EE352E",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 18
+        },
+        {
+            "name": "3",
+            "html": "3",
+            "css": "subway-line",
+            "color_bg": "#EE352E",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 19
+        },
+        {
+            "name": "4",
+            "html": "4",
+            "css": "subway-line",
+            "color_bg": "#00933C",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 20
+        },
+        {
+            "name": "5",
+            "html": "5",
+            "css": "subway-line",
+            "color_bg": "#00933C",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 21
+        },
+        {
+            "name": "6",
+            "html": "6",
+            "css": "subway-line",
+            "color_bg": "#00933C",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 22
+        },
+        {
+            "name": "7",
+            "html": "7",
+            "css": "subway-line",
+            "color_bg": "#B933AD",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 23
+        },
+        {
+            "name": "SIRR",
+            "html": "SI",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 24
+        },
+        {
+            "name": "AirTrain JFK",
+            "html": "&#9992;",
+            "css": "subway-line",
+            "color_bg": "#FFF200",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 25
+        },
+        {
+            "name": "AirTrain LGA",
+            "html": "&#9992;",
+            "css": "subway-line",
+            "color_bg": "#FFF200",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 26
+        },
+        {
+            "name": "T",
+            "html": "T",
+            "css": "subway-line",
+            "color_bg": "#1E9DBF",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 27
+        },
+        {
+            "name": "BQX",
+            "html": "BQX",
+            "css": "subway-line-long",
+            "color_bg": "#212121",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 28
+        },
+        {
+            "name": "S-4",
+            "html": "S",
+            "css": "subway-line",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 29
+        },
+        {
+            "name": "W",
+            "html": "W",
+            "css": "subway-line",
+            "color_bg": "#FCCC0A",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 30
+        },
+        {
+            "name": "8",
+            "html": "8",
+            "css": "subway-line",
+            "color_bg": "#00933C",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 31
+        },
+        {
+            "name": "9",
+            "html": "9",
+            "css": "subway-line",
+            "color_bg": "#EE352E",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 32
+        },
+        {
+            "name": "10",
+            "html": "10",
+            "css": "subway-line",
+            "color_bg": "#00933C",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 33
+        },
+        {
+            "name": "11",
+            "html": "11",
+            "css": "subway-line",
+            "color_bg": "#B933AD",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 34
+        },
+        {
+            "name": "12",
+            "html": "12",
+            "css": "subway-line",
+            "color_bg": "#00933C",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 35
+        },
+        {
+            "name": "13",
+            "html": "13",
+            "css": "subway-line",
+            "color_bg": "#EE352E",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 36
+        },
+        {
+            "name": "H",
+            "html": "H",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 37
+        },
+        {
+            "name": "K",
+            "html": "K",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 38
+        },
+        {
+            "name": "V",
+            "html": "V",
+            "css": "subway-line",
+            "color_bg": "#FF6319",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 39
+        },
+        {
+            "name": "JFK Express",
+            "html": "&#9992;",
+            "css": "subway-line",
+            "color_bg": "#1E9DBF",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 40
+        },
+        {
+            "name": "MJ",
+            "html": "MJ",
+            "css": "subway-line",
+            "color_bg": "#AB3F57",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 41
+        },
+        {
+            "name": "A-Euclid",
+            "html": "A",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 42
+        },
+        {
+            "name": "AirTrain JFK-Howard",
+            "html": "&#9992;",
+            "css": "subway-line",
+            "color_bg": "#FFF200",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 43
+        },
+        {
+            "name": "AirTrain JFK-Archer",
+            "html": "&#9992;",
+            "css": "subway-line",
+            "color_bg": "#FFF200",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 44
+        },
+        {
+            "name": "AirTrain JFK-Connectors",
+            "html": "&#9992;",
+            "css": "subway-line",
+            "color_bg": "#FFF200",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 45
+        },
+        {
+            "name": "TriboroRX",
+            "html": "TriboroRX",
+            "css": "subway-line-long",
+            "color_bg": "#FCCC0A",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 46
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 47
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 48
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 49
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 50
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 51
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 52
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 53
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 54
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 55
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 56
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 57
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 58
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 59
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 60
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 61
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 62
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 63
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 64
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 65
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 66
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 67
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 68
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 69
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 70
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 71
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 72
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 73
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 74
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 75
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 76
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 77
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 78
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 79
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 80
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 81
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 82
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 83
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 84
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 85
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 86
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 87
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 88
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 89
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 90
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 91
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 92
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 93
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 94
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 95
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 96
+        },
+        {
+            "name": "LIRR City (Main)",
+            "html": "LIRR City (Main)",
+            "css": "subway-line-long",
+            "color_bg": "#4E5859",
+            "color_text": "#FFFFFF",
+            "stations": [
+                3,
+                2,
+                1,
+                0,
+                7,
+                8
+            ],
+            "draw_map": [
+                3,
+                2,
+                1,
+                0,
+                7,
+                8
+            ],
+            "id": 97
+        },
+        {
+            "name": "LIRR City (Atlantic)",
+            "html": "LIRR City (Atlantic)",
+            "css": "subway-line-long",
+            "color_bg": "#4E5859",
+            "color_text": "#FFFFFF",
+            "stations": [
+                6,
+                5,
+                4,
+                3
+            ],
+            "draw_map": [
+                6,
+                5,
+                4,
+                3
+            ],
+            "id": 98
+        },
+        {
+            "name": "LIRR City (Penn)",
+            "html": "LIRR City (Penn)",
+            "css": "subway-line-long",
+            "color_bg": "#4E5859",
+            "color_text": "#FFFFFF",
+            "stations": [
+                9,
+                0
+            ],
+            "draw_map": [
+                9,
+                0
+            ],
+            "id": 99
+        },
+        {
+            "name": "LIRR City (Grand Central)",
+            "html": "LIRR City (Grand Central)",
+            "css": "subway-line-long",
+            "color_bg": "#4E5859",
+            "color_text": "#FFFFFF",
+            "stations": [
+                12,
+                0
+            ],
+            "draw_map": [
+                12,
+                0
+            ],
+            "id": 100
+        },
+        {
+            "name": "LIRR Port Washington",
+            "html": "LIRR Port Washington",
+            "css": "subway-line-long",
+            "color_bg": "#E61B44",
+            "color_text": "#FFFFFF",
+            "stations": [
+                24,
+                23,
+                22,
+                21,
+                20,
+                19,
+                18,
+                17,
+                16,
+                15,
+                14,
+                13,
+                0
+            ],
+            "draw_map": [
+                24,
+                23,
+                22,
+                21,
+                20,
+                19,
+                18,
+                17,
+                16,
+                15,
+                14,
+                13,
+                0
+            ],
+            "id": 101
+        },
+        {
+            "name": "LIRR Far Rockaway",
+            "html": "LIRR Far Rockaway",
+            "css": "subway-line-long",
+            "color_bg": "#8B624B",
+            "color_text": "#FFFFFF",
+            "stations": [
+                33,
+                35,
+                34,
+                32,
+                31,
+                29,
+                30,
+                28,
+                27,
+                26,
+                25,
+                3
+            ],
+            "draw_map": [
+                33,
+                35,
+                34,
+                32,
+                31,
+                29,
+                30,
+                28,
+                27,
+                26,
+                25,
+                3
+            ],
+            "id": 102
+        },
+        {
+            "name": "LIRR Long Beach",
+            "html": "LIRR Long Beach",
+            "css": "subway-line-long",
+            "color_bg": "#F3734E",
+            "color_text": "#FFFFFF",
+            "stations": [
+                42,
+                41,
+                39,
+                38,
+                37,
+                36,
+                28,
+                27,
+                26,
+                25,
+                3
+            ],
+            "draw_map": [
+                42,
+                41,
+                39,
+                38,
+                37,
+                36,
+                28,
+                27,
+                26,
+                25,
+                3
+            ],
+            "id": 103
+        },
+        {
+            "name": "LIRR West Hempstead",
+            "html": "LIRR West Hempstead",
+            "css": "subway-line-long",
+            "color_bg": "#0C93D1",
+            "color_text": "#FFFFFF",
+            "stations": [
+                3,
+                43,
+                28,
+                44,
+                45,
+                46,
+                47,
+                48
+            ],
+            "draw_map": [
+                3,
+                43,
+                28,
+                44,
+                45,
+                46,
+                47,
+                48
+            ],
+            "id": 104
+        },
+        {
+            "name": "LIRR Babylon",
+            "html": "LIRR Babylon",
+            "css": "subway-line-long",
+            "color_bg": "#2E9041",
+            "color_text": "#FFFFFF",
+            "stations": [
+                3,
+                43,
+                36,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "draw_map": [
+                3,
+                43,
+                36,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "id": 105
+        },
+        {
+            "name": "LIRR Hempstead",
+            "html": "LIRR Hempstead",
+            "css": "subway-line-long",
+            "color_bg": "#C68C34",
+            "color_text": "#FFFFFF",
+            "stations": [
+                3,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72
+            ],
+            "draw_map": [
+                3,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72
+            ],
+            "id": 106
+        },
+        {
+            "name": "LIRR Port Jefferson",
+            "html": "LIRR Port Jefferson",
+            "css": "subway-line-long",
+            "color_bg": "#0063A6",
+            "color_text": "#FFFFFF",
+            "stations": [
+                103,
+                102,
+                101,
+                98,
+                97,
+                96,
+                95,
+                94,
+                93,
+                91,
+                79,
+                78,
+                77,
+                76,
+                74,
+                73,
+                67,
+                3
+            ],
+            "draw_map": [
+                103,
+                102,
+                101,
+                98,
+                97,
+                96,
+                95,
+                94,
+                93,
+                91,
+                79,
+                78,
+                77,
+                76,
+                74,
+                73,
+                67,
+                66,
+                65,
+                64,
+                63,
+                62,
+                3
+            ],
+            "id": 107
+        },
+        {
+            "name": "LIRR Oyster Bay",
+            "html": "LIRR Oyster Bay",
+            "css": "subway-line-long",
+            "color_bg": "#0DB14B",
+            "color_text": "#FFFFFF",
+            "stations": [
+                90,
+                89,
+                88,
+                87,
+                86,
+                85,
+                84,
+                83,
+                82,
+                81,
+                76,
+                3
+            ],
+            "draw_map": [
+                90,
+                89,
+                88,
+                87,
+                86,
+                85,
+                84,
+                83,
+                82,
+                81,
+                76,
+                74,
+                73,
+                67,
+                3
+            ],
+            "id": 108
+        },
+        {
+            "name": "LIRR Ronkonkoma",
+            "html": "LIRR Ronkonkoma",
+            "css": "subway-line-long",
+            "color_bg": "#B458A2",
+            "color_text": "#FFFFFF",
+            "stations": [
+                113,
+                112,
+                111,
+                110,
+                109,
+                108,
+                107,
+                106,
+                79,
+                76,
+                3
+            ],
+            "draw_map": [
+                113,
+                112,
+                111,
+                110,
+                109,
+                108,
+                107,
+                106,
+                79,
+                78,
+                77,
+                76,
+                74,
+                73,
+                67,
+                3
+            ],
+            "id": 109
+        },
+        {
+            "name": "LIRR Greenport",
+            "html": "LIRR Greenport",
+            "css": "subway-line-long",
+            "color_bg": "#B458A2",
+            "color_text": "#FFFFFF",
+            "stations": [
+                120,
+                119,
+                118,
+                117,
+                116,
+                115,
+                113
+            ],
+            "draw_map": [
+                120,
+                119,
+                118,
+                117,
+                116,
+                115,
+                113
+            ],
+            "id": 110
+        },
+        {
+            "name": "LIRR Belmont Park",
+            "html": "LIRR Belmont Park",
+            "css": "subway-line-long",
+            "color_bg": "#805EA8",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 111
+        },
+        {
+            "name": "LIRR Montauk",
+            "html": "LIRR Montauk",
+            "css": "subway-line-long",
+            "color_bg": "#1CBCC0",
+            "color_text": "#FFFFFF",
+            "stations": [
+                3,
+                79,
+                61,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                139,
+                140
+            ],
+            "draw_map": [
+                3,
+                67,
+                73,
+                74,
+                76,
+                77,
+                78,
+                79,
+                61,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                139,
+                140
+            ],
+            "id": 112
+        }
+    ],
+    "stations": [
+        {
+            "lat": 40.74566789522559,
+            "lng": -73.90274941921236,
+            "name": "Woodside   ",
+            "info": "Queens<br />Woodside",
+            "riders": 40925.41541253651,
+            "lines": [
+                97,
+                99,
+                100,
+                101
+            ],
+            "id": 0,
+            "active": true
+        },
+        {
+            "lat": 40.719585100033306,
+            "lng": -73.84487807750703,
+            "name": "Forest Hills",
+            "info": "Queens<br />Forest Hills",
+            "riders": 7773.397494396573,
+            "lines": [
+                97
+            ],
+            "id": 1,
+            "active": true
+        },
+        {
+            "lat": 40.70953989815836,
+            "lng": -73.83073210716249,
+            "name": "Kew Gardens",
+            "info": "Queens<br />Kew Gardens",
+            "riders": 6566.0994467868795,
+            "lines": [
+                97
+            ],
+            "id": 2,
+            "active": true
+        },
+        {
+            "lat": 40.699560285865815,
+            "lng": -73.80842685699464,
+            "name": "Jamaica ",
+            "info": "Queens<br />Jamaica",
+            "riders": 23018.957483442784,
+            "lines": [
+                97,
+                98,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                112
+            ],
+            "id": 3,
+            "active": true
+        },
+        {
+            "lat": 40.675756088784546,
+            "lng": -73.90266895294191,
+            "name": "East New York",
+            "info": "Brooklyn<br />East New York",
+            "riders": 5607.235419145417,
+            "lines": [
+                98
+            ],
+            "id": 4,
+            "active": true
+        },
+        {
+            "lat": 40.67835983270465,
+            "lng": -73.9476764202118,
+            "name": "Nostrand Avenue",
+            "info": "Brooklyn<br />Bedford-Stuyvesant",
+            "riders": 15266.139876046964,
+            "lines": [
+                98
+            ],
+            "id": 5,
+            "active": true
+        },
+        {
+            "lat": 40.68450263800207,
+            "lng": -73.97814631462099,
+            "name": "Atlantic Terminal",
+            "info": "Brooklyn<br />Park Slope",
+            "riders": 8073.593742456623,
+            "lines": [
+                98
+            ],
+            "id": 6,
+            "active": true
+        },
+        {
+            "lat": 40.74238803722561,
+            "lng": -73.94675374031068,
+            "name": "Hunterspoint Avenue",
+            "info": "Queens<br />Long Island City",
+            "riders": 1827.0637753789647,
+            "lines": [
+                97
+            ],
+            "id": 7,
+            "active": true
+        },
+        {
+            "lat": 40.741527085803064,
+            "lng": -73.95719713065775,
+            "name": "Long Island City",
+            "info": "Queens<br />Long Island City",
+            "riders": 2936.914846213304,
+            "lines": [
+                97
+            ],
+            "id": 8,
+            "active": true
+        },
+        {
+            "lat": 40.75057315544191,
+            "lng": -73.99386405944826,
+            "name": "Penn Station",
+            "info": "Manhattan<br />Chelsea",
+            "riders": 14608.361804705497,
+            "lines": [
+                99
+            ],
+            "id": 9,
+            "active": true
+        },
+        {
+            "lat": 40.75310895587201,
+            "lng": -73.97699832916261,
+            "name": "Gran",
+            "info": "Manhattan<br />Midtown",
+            "riders": null,
+            "lines": [],
+            "id": 10,
+            "active": false
+        },
+        {
+            "lat": 40.75624606231068,
+            "lng": -73.97468090057374,
+            "name": "Park Ave",
+            "info": "Manhattan<br />Midtown",
+            "riders": null,
+            "lines": [],
+            "id": 11,
+            "active": false
+        },
+        {
+            "lat": 40.75549837162147,
+            "lng": -73.9751958847046,
+            "name": "Grand Central Madison",
+            "info": "Manhattan<br />Midtown",
+            "riders": 7065.375634847001,
+            "lines": [
+                100
+            ],
+            "id": 12,
+            "active": true
+        },
+        {
+            "lat": 40.752475014831,
+            "lng": -73.8439178466797,
+            "name": "Mets-Willets Point",
+            "info": "Queens<br />Flushing Meadows Corona Park",
+            "riders": 4.141363555134902,
+            "lines": [
+                101
+            ],
+            "id": 13,
+            "active": true
+        },
+        {
+            "lat": 40.75809899864518,
+            "lng": -73.83106470108034,
+            "name": "Flushing–Main Street",
+            "info": "Queens<br />Flushing",
+            "riders": 7712.280632653128,
+            "lines": [
+                101
+            ],
+            "id": 14,
+            "active": true
+        },
+        {
+            "lat": 40.76270673481835,
+            "lng": -73.81440281867982,
+            "name": "Murray Hill",
+            "info": "Queens<br />Flushing",
+            "riders": 7197.534457633168,
+            "lines": [
+                101
+            ],
+            "id": 15,
+            "active": true
+        },
+        {
+            "lat": 40.761690947411594,
+            "lng": -73.80203783512117,
+            "name": "Broadway",
+            "info": "Queens<br />Flushing",
+            "riders": 4909.709432819315,
+            "lines": [
+                101
+            ],
+            "id": 16,
+            "active": true
+        },
+        {
+            "lat": 40.76141465055142,
+            "lng": -73.79006981849672,
+            "name": "Auburndale",
+            "info": "Queens<br />Flushing",
+            "riders": 5052.67800869828,
+            "lines": [
+                101
+            ],
+            "id": 17,
+            "active": true
+        },
+        {
+            "lat": 40.76306835138817,
+            "lng": -73.7719649076462,
+            "name": "Bayside",
+            "info": "Queens<br />Bayside",
+            "riders": 4119.3235354847775,
+            "lines": [
+                101
+            ],
+            "id": 18,
+            "active": true
+        },
+        {
+            "lat": 40.768411108491094,
+            "lng": -73.74903202056886,
+            "name": "Douglaston",
+            "info": "Queens<br />Douglaston",
+            "riders": 1712.1968223368542,
+            "lines": [
+                101
+            ],
+            "id": 19,
+            "active": true
+        },
+        {
+            "lat": 40.774139367051774,
+            "lng": -73.74169886112215,
+            "name": "Little Neck",
+            "info": "Queens<br />Little Neck",
+            "riders": 1626.4357114875713,
+            "lines": [
+                101
+            ],
+            "id": 20,
+            "active": true
+        },
+        {
+            "lat": 40.7872152626276,
+            "lng": -73.72623194474728,
+            "name": "Great Neck",
+            "info": "Town of North Hempstead",
+            "riders": 456.0239568432339,
+            "lines": [
+                101
+            ],
+            "id": 21,
+            "active": true
+        },
+        {
+            "lat": 40.79673882459413,
+            "lng": -73.69991540908815,
+            "name": "Manhasset",
+            "info": "Manhasset",
+            "riders": 82.67557608743807,
+            "lines": [
+                101
+            ],
+            "id": 22,
+            "active": true
+        },
+        {
+            "lat": 40.810031299534565,
+            "lng": -73.6953502893448,
+            "name": "Plandome",
+            "info": "Town of North Hempstead",
+            "riders": 110.2960188454771,
+            "lines": [
+                101
+            ],
+            "id": 23,
+            "active": true
+        },
+        {
+            "lat": 40.83015274876982,
+            "lng": -73.68773818016054,
+            "name": "Port Washintgon",
+            "info": "Town of North Hempstead",
+            "riders": 205.19289693745927,
+            "lines": [
+                101
+            ],
+            "id": 24,
+            "active": true
+        },
+        {
+            "lat": 40.67470642575645,
+            "lng": -73.76435279846193,
+            "name": "Locust Manor",
+            "info": "Queens<br />Jamaica",
+            "riders": 6867.094118418108,
+            "lines": [
+                102,
+                103
+            ],
+            "id": 25,
+            "active": true
+        },
+        {
+            "lat": 40.66829824076061,
+            "lng": -73.75131189823152,
+            "name": "Laurelton",
+            "info": "Queens<br />Springfield Gardens",
+            "riders": 5639.497259447886,
+            "lines": [
+                102,
+                103
+            ],
+            "id": 26,
+            "active": true
+        },
+        {
+            "lat": 40.66586093447048,
+            "lng": -73.73557806015016,
+            "name": "Rosedale",
+            "info": "Queens<br />Rosedale",
+            "riders": 4841.909607348798,
+            "lines": [
+                102,
+                103
+            ],
+            "id": 27,
+            "active": true
+        },
+        {
+            "lat": 40.661433679519966,
+            "lng": -73.70445370674135,
+            "name": "Valley Stream",
+            "info": "Valley Stream",
+            "riders": 450.29228496430704,
+            "lines": [
+                102,
+                103,
+                104
+            ],
+            "id": 28,
+            "active": true
+        },
+        {
+            "lat": 40.63761586654413,
+            "lng": -73.70373487472536,
+            "name": "Hewlett",
+            "info": "Town of Hempstead",
+            "riders": 161.5165587276092,
+            "lines": [
+                102
+            ],
+            "id": 29,
+            "active": true
+        },
+        {
+            "lat": 40.64890311823799,
+            "lng": -73.70184123516084,
+            "name": "Gibson",
+            "info": "Valley Stream",
+            "riders": 283.8134385960656,
+            "lines": [
+                102
+            ],
+            "id": 30,
+            "active": true
+        },
+        {
+            "lat": 40.631579553176955,
+            "lng": -73.71333898510785,
+            "name": "Woodmere",
+            "info": "Town of Hempstead",
+            "riders": 177.47124511149605,
+            "lines": [
+                102
+            ],
+            "id": 31,
+            "active": true
+        },
+        {
+            "lat": 40.61966253286586,
+            "lng": -73.72967443428935,
+            "name": "Ceaderhurst",
+            "info": "Cedarhurst",
+            "riders": 174.23416156697232,
+            "lines": [
+                102
+            ],
+            "id": 32,
+            "active": true
+        },
+        {
+            "lat": 40.608544342777016,
+            "lng": -73.75122070312501,
+            "name": "Far Rockaway",
+            "info": "Queens<br />Far Rockaway",
+            "riders": 5554.643445580208,
+            "lines": [
+                102
+            ],
+            "id": 33,
+            "active": true
+        },
+        {
+            "lat": 40.615164545491545,
+            "lng": -73.73690784908833,
+            "name": "Lawrence",
+            "info": "Town of Hempstead",
+            "riders": 183.99902325556707,
+            "lines": [
+                102
+            ],
+            "id": 34,
+            "active": true
+        },
+        {
+            "lat": 40.61210223763589,
+            "lng": -73.74473989941181,
+            "name": "Inwood",
+            "info": "Inwood",
+            "riders": 307.112171124832,
+            "lines": [
+                102
+            ],
+            "id": 35,
+            "active": true
+        },
+        {
+            "lat": 40.65594803325412,
+            "lng": -73.67557168006898,
+            "name": "Lynbrook",
+            "info": "Lynbrook",
+            "riders": 541.6268204221908,
+            "lines": [
+                103,
+                105
+            ],
+            "id": 36,
+            "active": true
+        },
+        {
+            "lat": 40.64842691863605,
+            "lng": -73.6640650033951,
+            "name": "Centre Avenue",
+            "info": "East Rockaway",
+            "riders": 224.11811670114702,
+            "lines": [
+                103
+            ],
+            "id": 37,
+            "active": true
+        },
+        {
+            "lat": 40.641841177427516,
+            "lng": -73.65783691406251,
+            "name": "East Rockaway",
+            "info": "Oceanside",
+            "riders": 276.9993795667719,
+            "lines": [
+                103
+            ],
+            "id": 38,
+            "active": true
+        },
+        {
+            "lat": 40.634906882557566,
+            "lng": -73.65469336509706,
+            "name": "Oceanside",
+            "info": "Town of Hempstead",
+            "riders": 219.93257893909876,
+            "lines": [
+                103
+            ],
+            "id": 39,
+            "active": true
+        },
+        {
+            "lat": 40.600696820508986,
+            "lng": -73.65539375692607,
+            "name": "Island Park - Long Beach Rd",
+            "info": "Island Park",
+            "riders": null,
+            "lines": [],
+            "id": 40,
+            "active": false
+        },
+        {
+            "lat": 40.60118080645066,
+            "lng": -73.65487575531007,
+            "name": "Island Park",
+            "info": "Island Park",
+            "riders": 87.32020251003128,
+            "lines": [
+                103
+            ],
+            "id": 41,
+            "active": true
+        },
+        {
+            "lat": 40.589184750112445,
+            "lng": -73.66485692560673,
+            "name": "Long Beach",
+            "info": "City of Long Beach",
+            "riders": 355.5083585439681,
+            "lines": [
+                103
+            ],
+            "id": 42,
+            "active": true
+        },
+        {
+            "lat": 40.69135262201853,
+            "lng": -73.76561880111696,
+            "name": "St. Albans",
+            "info": "Queens<br />St. Albans",
+            "riders": 5334.553911852556,
+            "lines": [
+                104,
+                105
+            ],
+            "id": 43,
+            "active": true
+        },
+        {
+            "lat": 40.668395893914564,
+            "lng": -73.68120431900026,
+            "name": "Westwood",
+            "info": "Lynbrook",
+            "riders": 201.61247467074583,
+            "lines": [
+                104
+            ],
+            "id": 44,
+            "active": true
+        },
+        {
+            "lat": 40.675845594169544,
+            "lng": -73.66820096969606,
+            "name": "Malverne",
+            "info": "Malverne",
+            "riders": 237.08916960439302,
+            "lines": [
+                104
+            ],
+            "id": 45,
+            "active": true
+        },
+        {
+            "lat": 40.68585297495491,
+            "lng": -73.65218135062607,
+            "name": "Lakeview",
+            "info": "West Hempstead",
+            "riders": 202.39379536591983,
+            "lines": [
+                104
+            ],
+            "id": 46,
+            "active": true
+        },
+        {
+            "lat": 40.694767007046515,
+            "lng": -73.64629352465273,
+            "name": "Hempstead Gardens",
+            "info": "West Hempstead",
+            "riders": 296.04404333463924,
+            "lines": [
+                104
+            ],
+            "id": 47,
+            "active": true
+        },
+        {
+            "lat": 40.70262671545004,
+            "lng": -73.6412286758423,
+            "name": "West Hempstead",
+            "info": "Town of Hempstead",
+            "riders": 345.3804852534001,
+            "lines": [
+                104
+            ],
+            "id": 48,
+            "active": true
+        },
+        {
+            "lat": 40.658296172965024,
+            "lng": -73.64630341529848,
+            "name": "Rockville Centre",
+            "info": "Rockville Centre",
+            "riders": 245.12039462475278,
+            "lines": [
+                105
+            ],
+            "id": 49,
+            "active": true
+        },
+        {
+            "lat": 40.65677823420846,
+            "lng": -73.60689640045167,
+            "name": "Baldwin",
+            "info": "Baldwin",
+            "riders": 248.93440498810807,
+            "lines": [
+                105
+            ],
+            "id": 50,
+            "active": true
+        },
+        {
+            "lat": 40.65748792828896,
+            "lng": -73.58203661860898,
+            "name": "Freeport",
+            "info": "Freeport",
+            "riders": 222.52040330946508,
+            "lines": [
+                105
+            ],
+            "id": 51,
+            "active": true
+        },
+        {
+            "lat": 40.66374500369322,
+            "lng": -73.55082750320436,
+            "name": "Merrick",
+            "info": "Merrick",
+            "riders": 241.436555170223,
+            "lines": [
+                105
+            ],
+            "id": 52,
+            "active": true
+        },
+        {
+            "lat": 40.66874174768479,
+            "lng": -73.52936983108522,
+            "name": "Bellmore",
+            "info": "Bellmore",
+            "riders": 156.16941053887575,
+            "lines": [
+                105
+            ],
+            "id": 53,
+            "active": true
+        },
+        {
+            "lat": 40.67292440184326,
+            "lng": -73.50945711135866,
+            "name": "Wantagh",
+            "info": "Wantagh",
+            "riders": null,
+            "lines": [
+                105
+            ],
+            "id": 54,
+            "active": true
+        },
+        {
+            "lat": 40.67574381992623,
+            "lng": -73.48648038692774,
+            "name": "Seaford",
+            "info": "Seaford",
+            "riders": 0,
+            "lines": [
+                105
+            ],
+            "id": 55,
+            "active": true
+        },
+        {
+            "lat": 40.676919649416924,
+            "lng": -73.46884314436467,
+            "name": "Massapequa",
+            "info": "Massapequa",
+            "riders": 0,
+            "lines": [
+                105
+            ],
+            "id": 56,
+            "active": true
+        },
+        {
+            "lat": 40.6778099464784,
+            "lng": -73.45491405576468,
+            "name": "Massapequa Park",
+            "info": "Massapequa Park",
+            "riders": 0,
+            "lines": [
+                105
+            ],
+            "id": 57,
+            "active": true
+        },
+        {
+            "lat": 40.68025808290726,
+            "lng": -73.42055401531981,
+            "name": "Amityville",
+            "info": "Town of Babylon",
+            "riders": 0,
+            "lines": [
+                105
+            ],
+            "id": 58,
+            "active": true
+        },
+        {
+            "lat": 40.68102856468426,
+            "lng": -73.3984136581421,
+            "name": "Copaigue",
+            "info": "Copiague",
+            "riders": 0,
+            "lines": [
+                105
+            ],
+            "id": 59,
+            "active": true
+        },
+        {
+            "lat": 40.6881490570019,
+            "lng": -73.36952639278026,
+            "name": "Lindenhurst",
+            "info": "Lindenhurst",
+            "riders": 0,
+            "lines": [
+                105
+            ],
+            "id": 60,
+            "active": true
+        },
+        {
+            "lat": 40.70057702219341,
+            "lng": -73.32436323165895,
+            "name": "Babylon",
+            "info": "Babylon",
+            "riders": 0,
+            "lines": [
+                105,
+                112
+            ],
+            "id": 61,
+            "active": true
+        },
+        {
+            "lat": 40.70774301622955,
+            "lng": -73.77681153360754,
+            "name": "Hillside (Employees)",
+            "info": "Queens<br />Jamaica",
+            "riders": 4897.438241826085,
+            "lines": [
+                106
+            ],
+            "id": 62,
+            "active": true
+        },
+        {
+            "lat": 40.71020677900668,
+            "lng": -73.76673460006715,
+            "name": "Hollis",
+            "info": "Queens<br />Hollis",
+            "riders": 5914.442382980845,
+            "lines": [
+                106
+            ],
+            "id": 63,
+            "active": true
+        },
+        {
+            "lat": 40.717401119293996,
+            "lng": -73.73660165816547,
+            "name": "Queens Village",
+            "info": "Queens<br />Queens Village",
+            "riders": 3872.5234430354594,
+            "lines": [
+                106
+            ],
+            "id": 64,
+            "active": true
+        },
+        {
+            "lat": 40.72037995010059,
+            "lng": -73.7241840362549,
+            "name": "Elmont - UBS Arena",
+            "info": "Floral Park",
+            "riders": 573.4530549536406,
+            "lines": [
+                106
+            ],
+            "id": 65,
+            "active": true
+        },
+        {
+            "lat": 40.72216635877667,
+            "lng": -73.71680025011302,
+            "name": "Bellerose",
+            "info": "Floral Park",
+            "riders": 560.3015549199797,
+            "lines": [
+                106
+            ],
+            "id": 66,
+            "active": true
+        },
+        {
+            "lat": 40.72469758873941,
+            "lng": -73.70612740516664,
+            "name": "Floral Park",
+            "info": "Town of Hempstead",
+            "riders": 637.121505117226,
+            "lines": [
+                106,
+                107
+            ],
+            "id": 67,
+            "active": true
+        },
+        {
+            "lat": 40.72302667141481,
+            "lng": -73.680305716116,
+            "name": "Stewart Manor",
+            "info": "Town of Hempstead",
+            "riders": 276.1699609488449,
+            "lines": [
+                106
+            ],
+            "id": 68,
+            "active": true
+        },
+        {
+            "lat": 40.722945360499004,
+            "lng": -73.66133987903596,
+            "name": "Nassau Boulevard",
+            "info": "Town of Hempstead",
+            "riders": 80.33128608847328,
+            "lines": [
+                106
+            ],
+            "id": 69,
+            "active": true
+        },
+        {
+            "lat": 40.72317709634715,
+            "lng": -73.63991975784303,
+            "name": "Garden City",
+            "info": "Garden City",
+            "riders": 84.76806752804673,
+            "lines": [
+                106
+            ],
+            "id": 70,
+            "active": true
+        },
+        {
+            "lat": 40.72224532022436,
+            "lng": -73.63041132688524,
+            "name": "Country Life Press",
+            "info": "Garden City",
+            "riders": 77.15187536215345,
+            "lines": [
+                106
+            ],
+            "id": 71,
+            "active": true
+        },
+        {
+            "lat": 40.71224804350795,
+            "lng": -73.6248564720154,
+            "name": "Hempstead",
+            "info": "Hempstead",
+            "riders": 700.526705649564,
+            "lines": [
+                106
+            ],
+            "id": 72,
+            "active": true
+        },
+        {
+            "lat": 40.73080360135806,
+            "lng": -73.68076443672182,
+            "name": "New Hyde Park",
+            "info": "New Hyde Park",
+            "riders": 270.8022545319029,
+            "lines": [
+                107
+            ],
+            "id": 73,
+            "active": true
+        },
+        {
+            "lat": 40.73545498837495,
+            "lng": -73.66135354153813,
+            "name": "Merillon Avenue",
+            "info": "Town of Hempstead",
+            "riders": 219.31947258309683,
+            "lines": [
+                107
+            ],
+            "id": 74,
+            "active": true
+        },
+        {
+            "lat": 40.73595901968904,
+            "lng": -73.66364951245487,
+            "name": "New Hyde Park - Hilton Ave",
+            "info": "New Hyde Park",
+            "riders": null,
+            "lines": [
+                107
+            ],
+            "id": 75,
+            "active": false
+        },
+        {
+            "lat": 40.740412665215615,
+            "lng": -73.64063029177487,
+            "name": "Mineola",
+            "info": "Town of North Hempstead",
+            "riders": 444.9949916179269,
+            "lines": [
+                107,
+                108,
+                109
+            ],
+            "id": 76,
+            "active": true
+        },
+        {
+            "lat": 40.74916704493487,
+            "lng": -73.60384941101076,
+            "name": "Carle Place",
+            "info": "Carle Place",
+            "riders": 275.62256096824535,
+            "lines": [
+                107
+            ],
+            "id": 77,
+            "active": true
+        },
+        {
+            "lat": 40.75336157181917,
+            "lng": -73.58626086730511,
+            "name": "Westbury",
+            "info": "Westbury",
+            "riders": 223.10931565018237,
+            "lines": [
+                107
+            ],
+            "id": 78,
+            "active": true
+        },
+        {
+            "lat": 40.76707038091834,
+            "lng": -73.52897286415102,
+            "name": "Hicksville",
+            "info": "Hicksville",
+            "riders": 204.5090206162346,
+            "lines": [
+                107,
+                109,
+                112
+            ],
+            "id": 79,
+            "active": true
+        },
+        {
+            "lat": 40.821655717970614,
+            "lng": -73.7126223742962,
+            "name": "Port Washington - ",
+            "info": "Port Washington",
+            "riders": null,
+            "lines": [
+                108
+            ],
+            "id": 80,
+            "active": false
+        },
+        {
+            "lat": 40.757015633345496,
+            "lng": -73.63955738721417,
+            "name": "East Williston",
+            "info": "Williston Park",
+            "riders": 316.11219439676427,
+            "lines": [
+                108
+            ],
+            "id": 81,
+            "active": true
+        },
+        {
+            "lat": 40.77207714929621,
+            "lng": -73.64172530360521,
+            "name": "Albertson",
+            "info": "Albertson",
+            "riders": 190.77586503135555,
+            "lines": [
+                108
+            ],
+            "id": 82,
+            "active": true
+        },
+        {
+            "lat": 40.79083373424697,
+            "lng": -73.64324492169546,
+            "name": "Roslyn",
+            "info": "Roslyn Heights",
+            "riders": 166.37627756000109,
+            "lines": [
+                108
+            ],
+            "id": 83,
+            "active": true
+        },
+        {
+            "lat": 40.81570116032698,
+            "lng": -73.62689495086671,
+            "name": "Greenvale",
+            "info": "Town of Oyster Bay",
+            "riders": 64.54791588666684,
+            "lines": [
+                108
+            ],
+            "id": 84,
+            "active": true
+        },
+        {
+            "lat": 40.83255648506383,
+            "lng": -73.62617544829847,
+            "name": "Glen Head",
+            "info": "Glen Head",
+            "riders": 87.52625017597154,
+            "lines": [
+                108
+            ],
+            "id": 85,
+            "active": true
+        },
+        {
+            "lat": 40.852254338121625,
+            "lng": -73.62546801567079,
+            "name": "Sea Cliff",
+            "info": "Glen Cove",
+            "riders": 147.24037254655977,
+            "lines": [
+                108
+            ],
+            "id": 86,
+            "active": true
+        },
+        {
+            "lat": 40.85814982590701,
+            "lng": -73.62093508243562,
+            "name": "Glen Street",
+            "info": "Glen Cove",
+            "riders": 156.56008041554665,
+            "lines": [
+                108
+            ],
+            "id": 87,
+            "active": true
+        },
+        {
+            "lat": 40.865570172373204,
+            "lng": -73.61650943756105,
+            "name": "Glen Cove",
+            "info": "Glen Cove",
+            "riders": 157.7806141555232,
+            "lines": [
+                108
+            ],
+            "id": 88,
+            "active": true
+        },
+        {
+            "lat": 40.874501650193075,
+            "lng": -73.59835176263006,
+            "name": "Locust Valley",
+            "info": "Locust Valley",
+            "riders": 96.62381019178903,
+            "lines": [
+                108
+            ],
+            "id": 89,
+            "active": true
+        },
+        {
+            "lat": 40.874433739213885,
+            "lng": -73.5286831855774,
+            "name": "Oyster Bay",
+            "info": "Oyster Bay",
+            "riders": 84.04507324888445,
+            "lines": [
+                108
+            ],
+            "id": 90,
+            "active": true
+        },
+        {
+            "lat": 40.82479742102467,
+            "lng": -73.50055498536678,
+            "name": "Syosset",
+            "info": "Syosset",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 91,
+            "active": true
+        },
+        {
+            "lat": 40.74677435358377,
+            "lng": -73.86144949821757,
+            "name": "Corona",
+            "info": "Queens<br />Corona",
+            "riders": null,
+            "lines": [
+                101
+            ],
+            "id": 92,
+            "active": false
+        },
+        {
+            "lat": 40.83602217292549,
+            "lng": -73.45078877639027,
+            "name": "Cold Spring Harbour",
+            "info": "Cold Spring Harbor",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 93,
+            "active": true
+        },
+        {
+            "lat": 40.853293085675155,
+            "lng": -73.40858459472658,
+            "name": "Huntington",
+            "info": "Huntington Station",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 94,
+            "active": true
+        },
+        {
+            "lat": 40.86856404068858,
+            "lng": -73.36329817771913,
+            "name": "Greenlawn",
+            "info": "Greenlawn",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 95,
+            "active": true
+        },
+        {
+            "lat": 40.88072473183124,
+            "lng": -73.32674503326417,
+            "name": "Northport",
+            "info": "East Northport",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 96,
+            "active": true
+        },
+        {
+            "lat": 40.883667567034706,
+            "lng": -73.25599410105498,
+            "name": "Kings Park",
+            "info": "Kings Park",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 97,
+            "active": true
+        },
+        {
+            "lat": 40.8563856629159,
+            "lng": -73.1985784205608,
+            "name": "Smithtown",
+            "info": "Smithtown",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 98,
+            "active": true
+        },
+        {
+            "lat": 40.85675082668695,
+            "lng": -73.19833702174948,
+            "name": "Smithtown - Redwood Ln",
+            "info": "Smithtown",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 99,
+            "active": false
+        },
+        {
+            "lat": 40.85652283730292,
+            "lng": -73.19981753826143,
+            "name": "Smithtown - Fairview Ave",
+            "info": "Smithtown",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 100,
+            "active": false
+        },
+        {
+            "lat": 40.88268897596961,
+            "lng": -73.15877865068616,
+            "name": "St. James",
+            "info": "Saint James",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 101,
+            "active": true
+        },
+        {
+            "lat": 40.92060606765139,
+            "lng": -73.12832560390235,
+            "name": "Stony Brook",
+            "info": "Stony Brook",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 102,
+            "active": true
+        },
+        {
+            "lat": 40.93363300116506,
+            "lng": -73.04092884063722,
+            "name": "Port Jefferson",
+            "info": "Port Jefferson Station",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 103,
+            "active": true
+        },
+        {
+            "lat": 41.17451935556445,
+            "lng": -72.73773193359376,
+            "name": " - ",
+            "info": "",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 104,
+            "active": false
+        },
+        {
+            "lat": 41.36238012945531,
+            "lng": -72.45483398437501,
+            "name": "Deep River - ",
+            "info": "Deep River",
+            "riders": 0,
+            "lines": [
+                107
+            ],
+            "id": 105,
+            "active": false
+        },
+        {
+            "lat": 40.74283511537103,
+            "lng": -73.48311245441438,
+            "name": "Bethpage",
+            "info": "Bethpage",
+            "riders": 0,
+            "lines": [
+                109
+            ],
+            "id": 106,
+            "active": true
+        },
+        {
+            "lat": 40.73586035408156,
+            "lng": -73.44142019748689,
+            "name": "Farmingdale",
+            "info": "Town of Oyster Bay",
+            "riders": 0,
+            "lines": [
+                109
+            ],
+            "id": 107,
+            "active": true
+        },
+        {
+            "lat": 40.74520121371464,
+            "lng": -73.39994369074704,
+            "name": "Pinelawn",
+            "info": "West Babylon",
+            "riders": 0,
+            "lines": [
+                109
+            ],
+            "id": 108,
+            "active": true
+        },
+        {
+            "lat": 40.754811626568916,
+            "lng": -73.3579444885254,
+            "name": "Wyandanch",
+            "info": "Wyandanch",
+            "riders": 0,
+            "lines": [
+                109
+            ],
+            "id": 109,
+            "active": true
+        },
+        {
+            "lat": 40.76965395529574,
+            "lng": -73.29291915055364,
+            "name": "Deer Park",
+            "info": "Town of Islip",
+            "riders": 0,
+            "lines": [
+                109
+            ],
+            "id": 110,
+            "active": true
+        },
+        {
+            "lat": 40.780768905045555,
+            "lng": -73.24400424957277,
+            "name": "Brentwood",
+            "info": "Brentwood",
+            "riders": 0,
+            "lines": [
+                109
+            ],
+            "id": 111,
+            "active": true
+        },
+        {
+            "lat": 40.79179946753497,
+            "lng": -73.19520874880254,
+            "name": "Central Islip",
+            "info": "Central Islip",
+            "riders": 0,
+            "lines": [
+                109
+            ],
+            "id": 112,
+            "active": true
+        },
+        {
+            "lat": 40.808073100652386,
+            "lng": -73.10644657351078,
+            "name": "Ronkonkoma",
+            "info": "Ronkonkoma",
+            "riders": 0,
+            "lines": [
+                109,
+                110
+            ],
+            "id": 113,
+            "active": true
+        },
+        {
+            "lat": 40.8137559431402,
+            "lng": -73.01996599417181,
+            "name": "Medford - Ocean Ave",
+            "info": "Medford",
+            "riders": 0,
+            "lines": [
+                110
+            ],
+            "id": 114,
+            "active": false
+        },
+        {
+            "lat": 40.81737395137823,
+            "lng": -72.99910695757718,
+            "name": "Medford",
+            "info": "Medford",
+            "riders": 0,
+            "lines": [
+                110
+            ],
+            "id": 115,
+            "active": true
+        },
+        {
+            "lat": 40.825729535943246,
+            "lng": -72.91564386337997,
+            "name": "Yaphank",
+            "info": "Town of Brookhaven",
+            "riders": 0,
+            "lines": [
+                110
+            ],
+            "id": 116,
+            "active": true
+        },
+        {
+            "lat": 40.91980390708972,
+            "lng": -72.66762971878053,
+            "name": "Riverhead",
+            "info": "Town of Riverhead",
+            "riders": 0,
+            "lines": [
+                110
+            ],
+            "id": 117,
+            "active": true
+        },
+        {
+            "lat": 40.99182296060578,
+            "lng": -72.53600772935899,
+            "name": "Mattituck",
+            "info": "Mattituck",
+            "riders": 0,
+            "lines": [
+                110
+            ],
+            "id": 118,
+            "active": true
+        },
+        {
+            "lat": 41.066256345757964,
+            "lng": -72.42796897888185,
+            "name": "Southold",
+            "info": "Southold",
+            "riders": 0,
+            "lines": [
+                110
+            ],
+            "id": 119,
+            "active": true
+        },
+        {
+            "lat": 41.09975249073483,
+            "lng": -72.36299514770509,
+            "name": "Greenport",
+            "info": "Greenport",
+            "riders": 0,
+            "lines": [
+                110
+            ],
+            "id": 120,
+            "active": true
+        },
+        {
+            "lat": 40.74101426921151,
+            "lng": -72.64434814453126,
+            "name": " - ",
+            "info": "",
+            "riders": 0,
+            "lines": [
+                0
+            ],
+            "id": 121,
+            "active": false
+        },
+        {
+            "lat": 40.80653332421558,
+            "lng": -73.91464233398439,
+            "name": "Mott Haven - Bronx - 139th St",
+            "info": "Bronx<br />Mott Haven",
+            "riders": null,
+            "lines": [
+                0
+            ],
+            "id": 122,
+            "active": false
+        },
+        {
+            "lat": 40.71319139560073,
+            "lng": -73.7282180786133,
+            "name": "",
+            "info": "Queens<br />Queens Village",
+            "riders": null,
+            "lines": [
+                111
+            ],
+            "id": 123,
+            "active": false
+        },
+        {
+            "lat": 40.725006561556555,
+            "lng": -73.25296282768251,
+            "name": "Bay Shore",
+            "info": "Town of Islip",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 124,
+            "active": true
+        },
+        {
+            "lat": 40.73586848359966,
+            "lng": -73.20921063423158,
+            "name": "Islip",
+            "info": "Islip",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 125,
+            "active": true
+        },
+        {
+            "lat": 40.74049401829621,
+            "lng": -73.17002892494203,
+            "name": "Great River",
+            "info": "East Islip",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 126,
+            "active": true
+        },
+        {
+            "lat": 40.74341224816964,
+            "lng": -73.13237071037294,
+            "name": "Oakdale",
+            "info": "Oakdale",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 127,
+            "active": true
+        },
+        {
+            "lat": 40.740339568022435,
+            "lng": -73.08615088462831,
+            "name": "Sayville",
+            "info": "Sayville",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 128,
+            "active": true
+        },
+        {
+            "lat": 40.76188597979787,
+            "lng": -73.01571607589723,
+            "name": "Patchogue",
+            "info": "Patchogue",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 129,
+            "active": true
+        },
+        {
+            "lat": 40.77385905950777,
+            "lng": -72.94337689876558,
+            "name": "Bellport",
+            "info": "Bellport",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 130,
+            "active": true
+        },
+        {
+            "lat": 40.79893206584314,
+            "lng": -72.86501192953438,
+            "name": "Mastic Shirley",
+            "info": "Shirley",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 131,
+            "active": true
+        },
+        {
+            "lat": 40.821250780333834,
+            "lng": -72.70484805107118,
+            "name": "Speonk",
+            "info": "Speonk",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 132,
+            "active": true
+        },
+        {
+            "lat": 40.83026640046767,
+            "lng": -72.65115022659303,
+            "name": "Westhampton",
+            "info": "Westhampton Beach",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 133,
+            "active": true
+        },
+        {
+            "lat": 40.876433455455015,
+            "lng": -72.52448558807374,
+            "name": "Hampton Bays",
+            "info": "Hampton Bays",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 134,
+            "active": true
+        },
+        {
+            "lat": 40.89485396279276,
+            "lng": -72.38983869552614,
+            "name": "Southampton",
+            "info": "Southampton",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 135,
+            "active": true
+        },
+        {
+            "lat": 40.93934100922805,
+            "lng": -72.30951177421957,
+            "name": "Bridgehampton",
+            "info": "Bridgehampton",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 136,
+            "active": true
+        },
+        {
+            "lat": 40.96503431223249,
+            "lng": -72.19360363204034,
+            "name": "East Hampton",
+            "info": "East Hampton",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 137,
+            "active": true
+        },
+        {
+            "lat": 40.959454361332945,
+            "lng": -72.20582054927945,
+            "name": "East Hampton - Buell Ln Extension",
+            "info": "East Hampton",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 138,
+            "active": false
+        },
+        {
+            "lat": 40.98008436071757,
+            "lng": -72.13243246078493,
+            "name": "Amagansett",
+            "info": "Amagansett",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 139,
+            "active": true
+        },
+        {
+            "lat": 41.047996914946886,
+            "lng": -71.95332527160646,
+            "name": "Montauk",
+            "info": "Montauk",
+            "riders": 0,
+            "lines": [
+                112
+            ],
+            "id": 140,
+            "active": true
+        }
+    ],
+    "transfers": [],
+    "version": 0.11
+}
