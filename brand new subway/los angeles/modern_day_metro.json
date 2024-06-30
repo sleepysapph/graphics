@@ -1,1 +1,3054 @@
-﻿{"lines":[{"name":"A","html":"A","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":0},{"name":"B","html":"B","css":"subway-line","color_bg":"#FF6319","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":1},{"name":"C","html":"C","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":2},{"name":"D","html":"D","css":"subway-line","color_bg":"#FF6319","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":3},{"name":"E","html":"E","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":4},{"name":"F","html":"F","css":"subway-line","color_bg":"#FF6319","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":5},{"name":"G","html":"G","css":"subway-line","color_bg":"#6CBE45","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":6},{"name":"J","html":"J","css":"subway-line","color_bg":"#996633","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":7},{"name":"L","html":"L","css":"subway-line","color_bg":"#A7A9AC","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":8},{"name":"M","html":"M","css":"subway-line","color_bg":"#FF6319","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":9},{"name":"N","html":"N","css":"subway-line","color_bg":"#FCCC0A","color_text":"#000000","stations":[],"draw_map":[],"id":10},{"name":"Q","html":"Q","css":"subway-line","color_bg":"#FCCC0A","color_text":"#000000","stations":[],"draw_map":[],"id":11},{"name":"R","html":"R","css":"subway-line","color_bg":"#FCCC0A","color_text":"#000000","stations":[],"draw_map":[],"id":12},{"name":"S-1","html":"S","css":"subway-line","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":13},{"name":"S-2","html":"S","css":"subway-line","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":14},{"name":"S-3","html":"S","css":"subway-line","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":15},{"name":"Z","html":"Z","css":"subway-line","color_bg":"#996633","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":16},{"name":"1","html":"1","css":"subway-line","color_bg":"#EE352E","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":17},{"name":"2","html":"2","css":"subway-line","color_bg":"#EE352E","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":18},{"name":"3","html":"3","css":"subway-line","color_bg":"#EE352E","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":19},{"name":"4","html":"4","css":"subway-line","color_bg":"#00933C","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":20},{"name":"5","html":"5","css":"subway-line","color_bg":"#00933C","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":21},{"name":"6","html":"6","css":"subway-line","color_bg":"#00933C","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":22},{"name":"7","html":"7","css":"subway-line","color_bg":"#B933AD","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":23},{"name":"SIRR","html":"SI","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":24},{"name":"AirTrain JFK","html":"&#9992;","css":"subway-line","color_bg":"#FFF200","color_text":"#000000","stations":[],"draw_map":[],"id":25},{"name":"AirTrain LGA","html":"&#9992;","css":"subway-line","color_bg":"#FFF200","color_text":"#000000","stations":[],"draw_map":[],"id":26},{"name":"T","html":"T","css":"subway-line","color_bg":"#1E9DBF","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":27},{"name":"BQX","html":"BQX","css":"subway-line-long","color_bg":"#212121","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":28},{"name":"S-4","html":"S","css":"subway-line","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":29},{"name":"W","html":"W","css":"subway-line","color_bg":"#FCCC0A","color_text":"#000000","stations":[],"draw_map":[],"id":30},{"name":"8","html":"8","css":"subway-line","color_bg":"#00933C","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":31},{"name":"9","html":"9","css":"subway-line","color_bg":"#EE352E","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":32},{"name":"10","html":"10","css":"subway-line","color_bg":"#00933C","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":33},{"name":"11","html":"11","css":"subway-line","color_bg":"#B933AD","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":34},{"name":"12","html":"12","css":"subway-line","color_bg":"#00933C","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":35},{"name":"13","html":"13","css":"subway-line","color_bg":"#EE352E","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":36},{"name":"H","html":"H","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":37},{"name":"K","html":"K","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":38},{"name":"V","html":"V","css":"subway-line","color_bg":"#FF6319","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":39},{"name":"JFK Express","html":"&#9992;","css":"subway-line","color_bg":"#1E9DBF","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":40},{"name":"MJ","html":"MJ","css":"subway-line","color_bg":"#AB3F57","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":41},{"name":"A-Euclid","html":"A","css":"subway-line","color_bg":"#0039A6","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":42},{"name":"AirTrain JFK-Howard","html":"&#9992;","css":"subway-line","color_bg":"#FFF200","color_text":"#000000","stations":[],"draw_map":[],"id":43},{"name":"AirTrain JFK-Archer","html":"&#9992;","css":"subway-line","color_bg":"#FFF200","color_text":"#000000","stations":[],"draw_map":[],"id":44},{"name":"AirTrain JFK-Connectors","html":"&#9992;","css":"subway-line","color_bg":"#FFF200","color_text":"#000000","stations":[],"draw_map":[],"id":45},{"name":"TriboroRX","html":"TriboroRX","css":"subway-line-long","color_bg":"#FCCC0A","color_text":"#000000","stations":[],"draw_map":[],"id":46},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":47},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":48},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":49},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":50},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":51},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":52},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":53},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":54},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":55},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":56},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":57},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":58},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":59},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":60},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":61},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":62},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":63},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":64},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":65},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":66},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":67},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":68},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":69},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":70},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":71},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":72},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":73},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":74},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":75},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":76},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":77},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":78},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":79},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":80},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":81},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":82},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":83},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":84},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":85},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":86},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":87},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":88},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":89},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":90},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":91},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":92},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":93},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":94},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":95},{"name":"N/A","html":"N/A","css":"subway-line-long","color_bg":"#808183","color_text":"#FFFFFF","stations":[],"draw_map":[],"id":96},{"name":"A ","html":"A ","css":"subway-line","color_bg":"#0072BC","color_text":"#FFFFFF","stations":[82,81,80,79,77,76,75,74,73,72,71,70,69,68,67,66,65,64,63,34,3,2,1,0,7,8,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109],"draw_map":[82,81,80,79,77,76,75,74,73,72,71,70,69,68,67,66,65,64,63,34,3,2,1,0,7,8,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109],"id":97},{"name":"B ","html":"B ","css":"subway-line","color_bg":"#E3131B","color_text":"#FFFFFF","stations":[7,5,4,3,10,11,14,15,17,20,21,22,23,26],"draw_map":[7,5,4,3,10,11,14,15,17,20,21,22,23,26],"id":98},{"name":"C ","html":"C ","css":"subway-line","color_bg":"#58A738","color_text":"#FFFFFF","stations":[135,136,134,133,132,131,130,129,127,128,71,137,139,140],"draw_map":[135,136,134,133,132,131,130,129,127,128,71,137,139,140],"id":99},{"name":"D ","html":"D ","css":"subway-line","color_bg":"#A05DA5","color_text":"#FFFFFF","stations":[7,5,4,3,10,11,12,13],"draw_map":[7,5,4,3,10,11,12,13],"id":100},{"name":"E ","html":"E ","css":"subway-line","color_bg":"#F7B618","color_text":"#000000","stations":[56,55,54,53,52,51,50,49,48,46,45,44,43,42,40,39,37,34,3,2,1,0,27,28,29,30,31,32,33],"draw_map":[56,55,54,53,52,51,50,49,48,46,45,44,43,42,40,39,37,34,3,2,1,0,27,28,29,30,31,32,33],"id":101},{"name":"G ","html":"G ","css":"subway-line","color_bg":"#FC4C02","color_text":"#FFFFFF","stations":[126,125,124,123,122,121,119,118,117,116,115,114,113,112,111,110,26],"draw_map":[126,125,124,123,122,121,119,118,117,116,115,114,113,112,111,110,26],"id":102},{"name":"K ","html":"K ","css":"subway-line","color_bg":"#E96BB0","color_text":"#FFFFFF","stations":[62,61,60,59,58,57,44],"draw_map":[62,61,60,59,58,57,44],"id":103},{"name":"A  ","html":"A  ","css":"subway-line-long","color_bg":"#0072BC","color_text":"#FFFFFF","stations":[82,83,79],"draw_map":[82,83,79],"id":104}],"stations":[{"lat":34.04865473946961,"lng":-118.23875288246201,"name":"Little Tokyo / Arts District","info":"Los Angeles","riders":0,"lines":[97,101],"id":0,"active":true},{"lat":34.05211697678597,"lng":-118.2462275074795,"name":"Historic Broadway","info":"Los Angeles","riders":0,"lines":[97,101],"id":1,"active":true},{"lat":34.05482812336385,"lng":-118.25194597709925,"name":"Grand Av Arts / Bunker Hill","info":"Los Angeles","riders":0,"lines":[97,101],"id":2,"active":true},{"lat":34.050177384323604,"lng":-118.25741428881885,"name":"7th St / Metro Centre","info":"Los Angeles","riders":0,"lines":[97,98,100,101],"id":3,"active":true},{"lat":34.04946869871349,"lng":-118.25113305822016,"name":"Pershing Square","info":"Los Angeles","riders":0,"lines":[98,100],"id":4,"active":true},{"lat":34.05505753210834,"lng":-118.24596251361072,"name":"Civic Centre / Grand Park","info":"Los Angeles","riders":0,"lines":[98,100],"id":5,"active":true},{"lat":34.055999084092264,"lng":-118.23468080721797,"name":"Los Angeles - ","info":"Los Angeles","riders":0,"lines":[98],"id":6,"active":false},{"lat":34.056061305251156,"lng":-118.23477736674252,"name":"Union Station","info":"Los Angeles","riders":0,"lines":[97,98,100],"id":7,"active":true},{"lat":34.06379671998821,"lng":-118.23589861392976,"name":"Chinatown","info":"Los Angeles","riders":0,"lines":[97],"id":8,"active":true},{"lat":34.06398781010614,"lng":-118.23554724454883,"name":"Los Angeles - Spring St","info":"Los Angeles","riders":0,"lines":[97],"id":9,"active":false},{"lat":34.05745939431478,"lng":-118.2746994495392,"name":"Westlake / MacArthur Park","info":"Los Angeles","riders":0,"lines":[98,100],"id":10,"active":true},{"lat":34.06249791028462,"lng":-118.29052253393459,"name":"Wilshire / Vermont","info":"Los Angeles","riders":0,"lines":[98,100],"id":11,"active":true},{"lat":34.061760198201256,"lng":-118.30098832491788,"name":"Wilshire / Normandy","info":"Los Angeles","riders":0,"lines":[100],"id":12,"active":true},{"lat":34.06171692060576,"lng":-118.30912828445436,"name":"Wilshire / Western","info":"Los Angeles","riders":0,"lines":[100],"id":13,"active":true},{"lat":34.07631887737546,"lng":-118.2916831970215,"name":"Beverly Blvd","info":"Los Angeles","riders":0,"lines":[98],"id":14,"active":true},{"lat":34.08972715328534,"lng":-118.29176357947291,"name":"Vermont / Santa Monica","info":"Los Angeles","riders":0,"lines":[98],"id":15,"active":true},{"lat":34.100038357360575,"lng":-118.29352855682373,"name":"Los Angeles - Barnsdall Park","info":"Los Angeles","riders":0,"lines":[98],"id":16,"active":false},{"lat":34.098550254252274,"lng":-118.2916831970215,"name":"Vermont / Sunset","info":"Los Angeles","riders":0,"lines":[98],"id":17,"active":true},{"lat":34.101695229436466,"lng":-118.30880641937257,"name":"Los Angeles - Hollywood Blvd   ","info":"Los Angeles","riders":0,"lines":[98],"id":18,"active":false},{"lat":34.101748533093314,"lng":-118.30945014953615,"name":"Los Angeles - Hollywood Blvd","info":"Los Angeles","riders":0,"lines":[98],"id":19,"active":false},{"lat":34.101748533093314,"lng":-118.30932140350343,"name":"Hollywood / Western","info":"Los Angeles","riders":0,"lines":[98],"id":20,"active":true},{"lat":34.101659693646596,"lng":-118.32665920257568,"name":"Hollywood / Vine","info":"Los Angeles","riders":0,"lines":[98],"id":21,"active":true},{"lat":34.10164192574605,"lng":-118.3387613296509,"name":"Hollywood / Highland","info":"Los Angeles","riders":0,"lines":[98],"id":22,"active":true},{"lat":34.13911137129435,"lng":-118.36216502822937,"name":"Universal City / Studio City   ","info":"Studio City","riders":0,"lines":[98],"id":23,"active":true},{"lat":34.174174915863496,"lng":-118.36429595947267,"name":"North Hollywood - Collins St","info":"North Hollywood","riders":0,"lines":[98],"id":24,"active":false},{"lat":34.16872467379304,"lng":-118.3771061897278,"name":"North Hollywood - Lankershim Blvd","info":"North Hollywood","riders":0,"lines":[98],"id":25,"active":false},{"lat":34.16870691998644,"lng":-118.37697744369508,"name":"North Hollywood","info":"North Hollywood","riders":0,"lines":[98,102],"id":26,"active":true},{"lat":34.047657476390775,"lng":-118.22603307198735,"name":"Pico / Aliso","info":"Los Angeles","riders":0,"lines":[101],"id":27,"active":true},{"lat":34.047192454500156,"lng":-118.21939229965211,"name":"Mariachi Plaza","info":"Los Angeles","riders":0,"lines":[101],"id":28,"active":true},{"lat":34.043725414810346,"lng":-118.20976853370667,"name":"Soto","info":"Los Angeles","riders":0,"lines":[101],"id":29,"active":true},{"lat":34.034237732017516,"lng":-118.19218233693393,"name":"Indiana","info":"Los Angeles","riders":0,"lines":[101],"id":30,"active":true},{"lat":34.03330566304798,"lng":-118.16802799701692,"name":"Maravilla","info":"Los Angeles","riders":0,"lines":[101],"id":31,"active":true},{"lat":34.033368734401634,"lng":-118.16113970708102,"name":"East LA Civic Centre","info":"Los Angeles","riders":0,"lines":[101],"id":32,"active":true},{"lat":34.033394574193764,"lng":-118.15447211265565,"name":"Atlantic","info":"Los Angeles","riders":0,"lines":[101],"id":33,"active":true},{"lat":34.04066357864805,"lng":-118.26617409009488,"name":"Pico","info":"Los Angeles","riders":0,"lines":[97,101],"id":34,"active":true},{"lat":34.029079011423626,"lng":-118.27363098738718,"name":"","info":"Los Angeles","riders":0,"lines":[101],"id":35,"active":false},{"lat":34.02919904742803,"lng":-118.27204311965033,"name":"Los Angeles - 23rd St","info":"Los Angeles","riders":0,"lines":[101],"id":36,"active":false},{"lat":34.02918126432698,"lng":-118.27357734320688,"name":"LATTC / Ortho","info":"Los Angeles","riders":0,"lines":[101],"id":37,"active":true},{"lat":34.02629500374509,"lng":-118.27610115520658,"name":"Los Angeles - Flower St","info":"Los Angeles","riders":0,"lines":[101],"id":38,"active":false},{"lat":34.022119897771226,"lng":-118.27813804149629,"name":"Jefferson / USC","info":"Los Angeles","riders":0,"lines":[101],"id":39,"active":true},{"lat":34.0182338774957,"lng":-118.28577429056169,"name":"Expo Park / USC","info":"Los Angeles","riders":0,"lines":[101],"id":40,"active":true},{"lat":34.01825610923897,"lng":-118.2925468683243,"name":"Los Angeles - Exposition Blvd","info":"Los Angeles","riders":0,"lines":[101],"id":41,"active":false},{"lat":34.01826500193462,"lng":-118.29156517982484,"name":"Expo / Vermont","info":"Los Angeles","riders":0,"lines":[101],"id":42,"active":true},{"lat":34.018346564584306,"lng":-118.30891354009512,"name":"Expo / Western","info":"Los Angeles","riders":0,"lines":[101],"id":43,"active":true},{"lat":34.02253783443552,"lng":-118.33510279655458,"name":"Expo / Crenshaw","info":"Los Angeles","riders":0,"lines":[101,103],"id":44,"active":true},{"lat":34.02400337533298,"lng":-118.34606909193099,"name":"Farmdale","info":"Los Angeles","riders":0,"lines":[101],"id":45,"active":true},{"lat":34.02479560163591,"lng":-118.35516643244775,"name":"Expo / La Brea","info":"Los Angeles","riders":0,"lines":[101],"id":46,"active":true},{"lat":34.026130226417614,"lng":-118.37148427963258,"name":"Los Angeles - La Cienega Blvd","info":"Los Angeles","riders":0,"lines":[101],"id":47,"active":false},{"lat":34.02636141475286,"lng":-118.37212800979616,"name":"La Cienega / Jefferson","info":"Los Angeles","riders":0,"lines":[101],"id":48,"active":true},{"lat":34.02788190695681,"lng":-118.3888864517212,"name":"Culver City","info":"Culver City","riders":0,"lines":[101],"id":49,"active":true},{"lat":34.02931345658664,"lng":-118.40422868728639,"name":"Palms","info":"Los Angeles","riders":0,"lines":[101],"id":50,"active":true},{"lat":34.03681869379725,"lng":-118.42461932217705,"name":"Westwood - Rancho Park","info":"Los Angeles","riders":0,"lines":[101],"id":51,"active":true},{"lat":34.035426168484285,"lng":-118.43420505523683,"name":"Expo / Sepulveda","info":"Los Angeles","riders":0,"lines":[101],"id":52,"active":true},{"lat":34.03172698846271,"lng":-118.4529348788783,"name":"Expo / Bundy","info":"Los Angeles","riders":0,"lines":[101],"id":53,"active":true},{"lat":34.02803306551159,"lng":-118.4690523147583,"name":"26th St / Bergamot","info":"Santa Monica","riders":0,"lines":[101],"id":54,"active":true},{"lat":34.02314425923784,"lng":-118.48038280382755,"name":"17th St / SMC","info":"Santa Monica","riders":0,"lines":[101],"id":55,"active":true},{"lat":34.013836324203176,"lng":-118.4914916753769,"name":"Downtown Santa Monica","info":"Santa Monica","riders":0,"lines":[101],"id":56,"active":true},{"lat":34.010365836880105,"lng":-118.33530195057395,"name":"Martin Luther King Jr.","info":"Los Angeles","riders":0,"lines":[103],"id":57,"active":true},{"lat":34.00459923386065,"lng":-118.33265695720912,"name":"Leimert Park","info":"Los Angeles","riders":0,"lines":[103],"id":58,"active":true},{"lat":33.98823091800693,"lng":-118.33085180958734,"name":"Hyde Park","info":"Los Angeles","riders":0,"lines":[103],"id":59,"active":true},{"lat":33.97524458787683,"lng":-118.33626687526703,"name":"Fairview Heights","info":"Inglewood","riders":0,"lines":[103],"id":60,"active":true},{"lat":33.96726259115918,"lng":-118.35143912583592,"name":"Downtown Inglewood","info":"Inglewood","riders":0,"lines":[103],"id":61,"active":true},{"lat":33.962049017224416,"lng":-118.37449908256531,"name":"Westchester / Veterans","info":"Inglewood","riders":0,"lines":[103],"id":62,"active":true},{"lat":34.03307181934358,"lng":-118.26912636402996,"name":"Grand / LATTC","info":"Los Angeles","riders":0,"lines":[97],"id":63,"active":true},{"lat":34.02681489773491,"lng":-118.25552165508272,"name":"San Pedro St","info":"Los Angeles","riders":0,"lines":[97],"id":64,"active":true},{"lat":34.01975896158265,"lng":-118.24306547641756,"name":"Washington","info":"Los Angeles","riders":0,"lines":[97],"id":65,"active":true},{"lat":34.00308794849157,"lng":-118.24330448638649,"name":"Vernon","info":"Los Angeles","riders":0,"lines":[97],"id":66,"active":true},{"lat":33.98880176147096,"lng":-118.24340879917146,"name":"Slauson","info":"Los Angeles","riders":0,"lines":[97],"id":67,"active":true},{"lat":33.97384326740275,"lng":-118.2432746887207,"name":"Florence","info":"Los Angeles","riders":0,"lines":[97],"id":68,"active":true},{"lat":33.95958195439026,"lng":-118.24318361934276,"name":"Firestone","info":"Los Angeles","riders":0,"lines":[97],"id":69,"active":true},{"lat":33.942302549537736,"lng":-118.24317452497782,"name":"103rd St / Watts Tower","info":"Los Angeles","riders":0,"lines":[97],"id":70,"active":true},{"lat":33.92824104614674,"lng":-118.23766887187959,"name":"Willowbrook / Rosa Parks","info":"Los Angeles","riders":0,"lines":[97,99],"id":71,"active":true},{"lat":33.89749284393869,"lng":-118.2242683041841,"name":"Compton","info":"Compton","riders":0,"lines":[97],"id":72,"active":true},{"lat":33.87619563387371,"lng":-118.22253941092642,"name":"Artesia","info":"Compton","riders":0,"lines":[97],"id":73,"active":true},{"lat":33.84801751346152,"lng":-118.21092724800111,"name":"Del Amo","info":"Compton","riders":0,"lines":[97],"id":74,"active":true},{"lat":33.819944856347774,"lng":-118.19615364074707,"name":"Wardlow","info":"Long Beach","riders":0,"lines":[97],"id":75,"active":true},{"lat":33.807016185186285,"lng":-118.18981884978713,"name":"Willow St","info":"Long Beach","riders":0,"lines":[97],"id":76,"active":true},{"lat":33.78911477045413,"lng":-118.18939361488448,"name":"Pacific Coast Highway","info":"Long Beach","riders":0,"lines":[97],"id":77,"active":true},{"lat":33.78978600545043,"lng":-118.1905471533537,"name":"Long Beach - Pacific Coast Hwy","info":"Long Beach","riders":0,"lines":[97],"id":78,"active":false},{"lat":33.781963334676576,"lng":-118.18939897930251,"name":"Anaheim St","info":"Long Beach","riders":0,"lines":[97,104],"id":79,"active":true},{"lat":33.77362518364603,"lng":-118.18937752163039,"name":"5th St","info":"Long Beach","riders":0,"lines":[97],"id":80,"active":true},{"lat":33.7688468058059,"lng":-118.18939983844759,"name":"1st St","info":"Long Beach","riders":0,"lines":[97],"id":81,"active":true},{"lat":33.76804411544664,"lng":-118.19297254085542,"name":"Downtown Long Beach","info":"Long Beach","riders":0,"lines":[97,104],"id":82,"active":true},{"lat":33.77225380126545,"lng":-118.19372381083667,"name":"Pacific Av","info":"Long Beach","riders":0,"lines":[104],"id":83,"active":true},{"lat":33.773573607621934,"lng":-118.19326758384706,"name":"Long Beach - Pine Ave","info":"Long Beach","riders":0,"lines":[97],"id":84,"active":false},{"lat":33.77415329177968,"lng":-118.19294571876527,"name":"Long Beach - 6th St","info":"Long Beach","riders":0,"lines":[97],"id":85,"active":false},{"lat":33.77416220996687,"lng":-118.19157242774965,"name":"Long Beach - 6th St","info":"Long Beach","riders":0,"lines":[97],"id":86,"active":false},{"lat":33.77416220996687,"lng":-118.19072484970094,"name":"Long Beach - Locust Ave","info":"Long Beach","riders":0,"lines":[97],"id":87,"active":false},{"lat":33.774171128153114,"lng":-118.18995237350465,"name":"Long Beach - Long Beach Blvd","info":"Long Beach","riders":0,"lines":[97],"id":88,"active":false},{"lat":33.774171128153114,"lng":-118.1902849674225,"name":"Long Beach - 6th St","info":"Long Beach","riders":0,"lines":[97],"id":89,"active":false},{"lat":33.774117619021695,"lng":-118.19312810897829,"name":"Long Beach - 6th St","info":"Long Beach","riders":0,"lines":[97],"id":90,"active":false},{"lat":33.776257958209214,"lng":-118.19250583648683,"name":"Long Beach - Pine Ave","info":"Long Beach","riders":0,"lines":[104],"id":91,"active":false},{"lat":34.17090836352573,"lng":-118.37596893310548,"name":"North Hollywood - Elmer Ave","info":"North Hollywood","riders":0,"lines":[102],"id":92,"active":false},{"lat":34.08102045725278,"lng":-118.22037482634187,"name":"Lincoln / Cypress","info":"Los Angeles","riders":0,"lines":[97],"id":93,"active":true},{"lat":34.0873584849807,"lng":-118.21305243764074,"name":"Heritage Square","info":"Los Angeles","riders":0,"lines":[97],"id":94,"active":true},{"lat":34.09838145284427,"lng":-118.20648550987245,"name":"Southwest Museum","info":"Los Angeles","riders":0,"lines":[97],"id":95,"active":true},{"lat":34.11126269790168,"lng":-118.19246292114259,"name":"Highland Park","info":"Los Angeles","riders":0,"lines":[97],"id":96,"active":true},{"lat":34.11526783791077,"lng":-118.15782935824247,"name":"South Pasadena","info":"South Pasadena","riders":0,"lines":[97],"id":97,"active":true},{"lat":34.13352929936175,"lng":-118.14813137054445,"name":"Fillmore","info":"Pasadena","riders":0,"lines":[97],"id":98,"active":true},{"lat":34.141983209702204,"lng":-118.14821720123292,"name":"Del Mar","info":"Pasadena","riders":0,"lines":[97],"id":99,"active":true},{"lat":34.14845405326931,"lng":-118.14765661954883,"name":"Memorial Park","info":"Pasadena","riders":0,"lines":[97],"id":100,"active":true},{"lat":34.15181248096862,"lng":-118.13161969184877,"name":"Lake","info":"Pasadena","riders":0,"lines":[97],"id":101,"active":true},{"lat":34.152425627938726,"lng":-118.11425155028704,"name":"Allen","info":"Pasadena","riders":0,"lines":[97],"id":102,"active":true},{"lat":34.147754826478085,"lng":-118.08122634887697,"name":"Sierra Madre Villa","info":"Pasadena","riders":0,"lines":[97],"id":103,"active":true},{"lat":34.14285341716618,"lng":-118.02913784980775,"name":"Arcadia","info":"Arcadia","riders":0,"lines":[97],"id":104,"active":true},{"lat":34.133156313250694,"lng":-118.00348520278932,"name":"Monorovia","info":"Monrovia","riders":0,"lines":[97],"id":105,"active":true},{"lat":34.13250823209216,"lng":-117.96748434193434,"name":"Duarte / City of Hope","info":"Duarte","riders":0,"lines":[97],"id":106,"active":true},{"lat":34.12910664381316,"lng":-117.9325032234192,"name":"Irwindale","info":"Irwindale","riders":0,"lines":[97],"id":107,"active":true},{"lat":34.13558957393613,"lng":-117.90689349174501,"name":"Azuza Downtown","info":"Azusa","riders":0,"lines":[97],"id":108,"active":true},{"lat":34.136834639923165,"lng":-117.89155613863844,"name":"APU / Citrus College","info":"Azusa","riders":0,"lines":[97],"id":109,"active":true},{"lat":34.16853683694304,"lng":-118.3965166239068,"name":"Laurel Canyon","info":"Valley Village","riders":0,"lines":[102],"id":110,"active":true},{"lat":34.17216440336659,"lng":-118.42253744602205,"name":"Valley College","info":"Van Nuys","riders":0,"lines":[102],"id":111,"active":true},{"lat":34.17900096976456,"lng":-118.4296053601429,"name":"Woodman","info":"Van Nuys","riders":0,"lines":[102],"id":112,"active":true},{"lat":34.18050738431541,"lng":-118.44822655431928,"name":"Van Nuys","info":"Van Nuys","riders":0,"lines":[102],"id":113,"active":true},{"lat":34.180796397597305,"lng":-118.46888065338136,"name":"Sepulveda","info":"Van Nuys","riders":0,"lines":[102],"id":114,"active":true},{"lat":34.18630781206282,"lng":-118.48367362283172,"name":"Woodley","info":"Van Nuys","riders":0,"lines":[102],"id":115,"active":true},{"lat":34.18592601058889,"lng":-118.5005204519257,"name":"Balboa","info":"Van Nuys","riders":0,"lines":[102],"id":116,"active":true},{"lat":34.180325138327056,"lng":-118.5360327945091,"name":"Reseda","info":"Reseda","riders":0,"lines":[102],"id":117,"active":true},{"lat":34.181204675709516,"lng":-118.55348825454713,"name":"Tampa","info":"Reseda","riders":0,"lines":[102],"id":118,"active":true},{"lat":34.18713460931326,"lng":-118.57104599475862,"name":"Pierce College","info":"Winnetka","riders":0,"lines":[102],"id":119,"active":true},{"lat":34.1885710934946,"lng":-118.58839988708496,"name":"Winnetka - De Soto Ave","info":"Winnetka","riders":0,"lines":[102],"id":120,"active":false},{"lat":34.188579968308765,"lng":-118.58848571777345,"name":"De Soto","info":"Woodland Hills","riders":0,"lines":[102],"id":121,"active":true},{"lat":34.19115362501287,"lng":-118.59628558158876,"name":"Canoga","info":"Canoga Park","riders":0,"lines":[102],"id":122,"active":true},{"lat":34.20051574803184,"lng":-118.59712243080139,"name":"Sherman Way","info":"Canoga Park","riders":0,"lines":[102],"id":123,"active":true},{"lat":34.21977804037869,"lng":-118.59729409217836,"name":"Roscoe","info":"Canoga Park","riders":0,"lines":[102],"id":124,"active":true},{"lat":34.23544813982568,"lng":-118.5972833633423,"name":"Nordhoff","info":"Chatsworth","riders":0,"lines":[102],"id":125,"active":true},{"lat":34.25225931706737,"lng":-118.59938353300096,"name":"Chatsworth","info":"Chatsworth","riders":0,"lines":[102],"id":126,"active":true},{"lat":33.92870840591066,"lng":-118.28101873397829,"name":"Harbour Fwy","info":"Los Angeles","riders":0,"lines":[99],"id":127,"active":true},{"lat":33.92747991189931,"lng":-118.26521515846254,"name":"Avalon","info":"Los Angeles","riders":0,"lines":[99],"id":128,"active":true},{"lat":33.92868169970753,"lng":-118.29177975654602,"name":"Vermont / Athens","info":"Los Angeles","riders":0,"lines":[99],"id":129,"active":true},{"lat":33.92521872442886,"lng":-118.32650899887086,"name":"Crenshaw","info":"Inglewood","riders":0,"lines":[99],"id":130,"active":true},{"lat":33.933426370378605,"lng":-118.35167884826662,"name":"Hawthorne / Lenox","info":"Inglewood","riders":0,"lines":[99],"id":131,"active":true},{"lat":33.92961641183505,"lng":-118.37719202041627,"name":"Aviation / LAX","info":"Los Angeles","riders":0,"lines":[99],"id":132,"active":true},{"lat":33.92318456420101,"lng":-118.38760202983394,"name":"Mariposa","info":"El Segundo","riders":0,"lines":[99],"id":133,"active":true},{"lat":33.91625840848104,"lng":-118.38677287101747,"name":"El Segundo","info":"El Segundo","riders":0,"lines":[99],"id":134,"active":true},{"lat":33.89462002731888,"lng":-118.36913466453554,"name":"Redondo Beach","info":"Lawndale","riders":0,"lines":[99],"id":135,"active":true},{"lat":33.90532391982011,"lng":-118.3831572532654,"name":"Douglas","info":"El Segundo","riders":0,"lines":[99],"id":136,"active":true},{"lat":33.92489394156498,"lng":-118.20998631650582,"name":"Long Beach Blvd","info":"Lynwood","riders":0,"lines":[99],"id":137,"active":true},{"lat":33.91266537188397,"lng":-118.16898822784425,"name":"South Gate - Garfield Ave","info":"South Gate","riders":0,"lines":[99],"id":138,"active":false},{"lat":33.91305595314155,"lng":-118.14062043093148,"name":"Lakewood Blvd","info":"Downey","riders":0,"lines":[99],"id":139,"active":true},{"lat":33.914039780442366,"lng":-118.10480844578707,"name":"Norwalk","info":"Norwalk","riders":0,"lines":[99],"id":140,"active":true}],"transfers":[],"version":0.11}
+{
+    "lines": [
+        {
+            "name": "A",
+            "html": "A",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 0
+        },
+        {
+            "name": "B",
+            "html": "B",
+            "css": "subway-line",
+            "color_bg": "#FF6319",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 1
+        },
+        {
+            "name": "C",
+            "html": "C",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 2
+        },
+        {
+            "name": "D",
+            "html": "D",
+            "css": "subway-line",
+            "color_bg": "#FF6319",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 3
+        },
+        {
+            "name": "E",
+            "html": "E",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 4
+        },
+        {
+            "name": "F",
+            "html": "F",
+            "css": "subway-line",
+            "color_bg": "#FF6319",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 5
+        },
+        {
+            "name": "G",
+            "html": "G",
+            "css": "subway-line",
+            "color_bg": "#6CBE45",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 6
+        },
+        {
+            "name": "J",
+            "html": "J",
+            "css": "subway-line",
+            "color_bg": "#996633",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 7
+        },
+        {
+            "name": "L",
+            "html": "L",
+            "css": "subway-line",
+            "color_bg": "#A7A9AC",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 8
+        },
+        {
+            "name": "M",
+            "html": "M",
+            "css": "subway-line",
+            "color_bg": "#FF6319",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 9
+        },
+        {
+            "name": "N",
+            "html": "N",
+            "css": "subway-line",
+            "color_bg": "#FCCC0A",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 10
+        },
+        {
+            "name": "Q",
+            "html": "Q",
+            "css": "subway-line",
+            "color_bg": "#FCCC0A",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 11
+        },
+        {
+            "name": "R",
+            "html": "R",
+            "css": "subway-line",
+            "color_bg": "#FCCC0A",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 12
+        },
+        {
+            "name": "S-1",
+            "html": "S",
+            "css": "subway-line",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 13
+        },
+        {
+            "name": "S-2",
+            "html": "S",
+            "css": "subway-line",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 14
+        },
+        {
+            "name": "S-3",
+            "html": "S",
+            "css": "subway-line",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 15
+        },
+        {
+            "name": "Z",
+            "html": "Z",
+            "css": "subway-line",
+            "color_bg": "#996633",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 16
+        },
+        {
+            "name": "1",
+            "html": "1",
+            "css": "subway-line",
+            "color_bg": "#EE352E",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 17
+        },
+        {
+            "name": "2",
+            "html": "2",
+            "css": "subway-line",
+            "color_bg": "#EE352E",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 18
+        },
+        {
+            "name": "3",
+            "html": "3",
+            "css": "subway-line",
+            "color_bg": "#EE352E",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 19
+        },
+        {
+            "name": "4",
+            "html": "4",
+            "css": "subway-line",
+            "color_bg": "#00933C",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 20
+        },
+        {
+            "name": "5",
+            "html": "5",
+            "css": "subway-line",
+            "color_bg": "#00933C",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 21
+        },
+        {
+            "name": "6",
+            "html": "6",
+            "css": "subway-line",
+            "color_bg": "#00933C",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 22
+        },
+        {
+            "name": "7",
+            "html": "7",
+            "css": "subway-line",
+            "color_bg": "#B933AD",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 23
+        },
+        {
+            "name": "SIRR",
+            "html": "SI",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 24
+        },
+        {
+            "name": "AirTrain JFK",
+            "html": "&#9992;",
+            "css": "subway-line",
+            "color_bg": "#FFF200",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 25
+        },
+        {
+            "name": "AirTrain LGA",
+            "html": "&#9992;",
+            "css": "subway-line",
+            "color_bg": "#FFF200",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 26
+        },
+        {
+            "name": "T",
+            "html": "T",
+            "css": "subway-line",
+            "color_bg": "#1E9DBF",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 27
+        },
+        {
+            "name": "BQX",
+            "html": "BQX",
+            "css": "subway-line-long",
+            "color_bg": "#212121",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 28
+        },
+        {
+            "name": "S-4",
+            "html": "S",
+            "css": "subway-line",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 29
+        },
+        {
+            "name": "W",
+            "html": "W",
+            "css": "subway-line",
+            "color_bg": "#FCCC0A",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 30
+        },
+        {
+            "name": "8",
+            "html": "8",
+            "css": "subway-line",
+            "color_bg": "#00933C",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 31
+        },
+        {
+            "name": "9",
+            "html": "9",
+            "css": "subway-line",
+            "color_bg": "#EE352E",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 32
+        },
+        {
+            "name": "10",
+            "html": "10",
+            "css": "subway-line",
+            "color_bg": "#00933C",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 33
+        },
+        {
+            "name": "11",
+            "html": "11",
+            "css": "subway-line",
+            "color_bg": "#B933AD",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 34
+        },
+        {
+            "name": "12",
+            "html": "12",
+            "css": "subway-line",
+            "color_bg": "#00933C",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 35
+        },
+        {
+            "name": "13",
+            "html": "13",
+            "css": "subway-line",
+            "color_bg": "#EE352E",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 36
+        },
+        {
+            "name": "H",
+            "html": "H",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 37
+        },
+        {
+            "name": "K",
+            "html": "K",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 38
+        },
+        {
+            "name": "V",
+            "html": "V",
+            "css": "subway-line",
+            "color_bg": "#FF6319",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 39
+        },
+        {
+            "name": "JFK Express",
+            "html": "&#9992;",
+            "css": "subway-line",
+            "color_bg": "#1E9DBF",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 40
+        },
+        {
+            "name": "MJ",
+            "html": "MJ",
+            "css": "subway-line",
+            "color_bg": "#AB3F57",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 41
+        },
+        {
+            "name": "A-Euclid",
+            "html": "A",
+            "css": "subway-line",
+            "color_bg": "#0039A6",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 42
+        },
+        {
+            "name": "AirTrain JFK-Howard",
+            "html": "&#9992;",
+            "css": "subway-line",
+            "color_bg": "#FFF200",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 43
+        },
+        {
+            "name": "AirTrain JFK-Archer",
+            "html": "&#9992;",
+            "css": "subway-line",
+            "color_bg": "#FFF200",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 44
+        },
+        {
+            "name": "AirTrain JFK-Connectors",
+            "html": "&#9992;",
+            "css": "subway-line",
+            "color_bg": "#FFF200",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 45
+        },
+        {
+            "name": "TriboroRX",
+            "html": "TriboroRX",
+            "css": "subway-line-long",
+            "color_bg": "#FCCC0A",
+            "color_text": "#000000",
+            "stations": [],
+            "draw_map": [],
+            "id": 46
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 47
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 48
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 49
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 50
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 51
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 52
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 53
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 54
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 55
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 56
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 57
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 58
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 59
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 60
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 61
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 62
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 63
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 64
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 65
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 66
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 67
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 68
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 69
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 70
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 71
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 72
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 73
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 74
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 75
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 76
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 77
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 78
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 79
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 80
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 81
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 82
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 83
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 84
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 85
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 86
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 87
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 88
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 89
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 90
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 91
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 92
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 93
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 94
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 95
+        },
+        {
+            "name": "N/A",
+            "html": "N/A",
+            "css": "subway-line-long",
+            "color_bg": "#808183",
+            "color_text": "#FFFFFF",
+            "stations": [],
+            "draw_map": [],
+            "id": 96
+        },
+        {
+            "name": "A ",
+            "html": "A ",
+            "css": "subway-line",
+            "color_bg": "#0072BC",
+            "color_text": "#FFFFFF",
+            "stations": [
+                82,
+                81,
+                80,
+                79,
+                77,
+                76,
+                75,
+                74,
+                73,
+                72,
+                71,
+                70,
+                69,
+                68,
+                67,
+                66,
+                65,
+                64,
+                63,
+                34,
+                3,
+                2,
+                1,
+                0,
+                7,
+                8,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109
+            ],
+            "draw_map": [
+                82,
+                81,
+                80,
+                79,
+                77,
+                76,
+                75,
+                74,
+                73,
+                72,
+                71,
+                70,
+                69,
+                68,
+                67,
+                66,
+                65,
+                64,
+                63,
+                34,
+                3,
+                2,
+                1,
+                0,
+                7,
+                8,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109
+            ],
+            "id": 97
+        },
+        {
+            "name": "B ",
+            "html": "B ",
+            "css": "subway-line",
+            "color_bg": "#E3131B",
+            "color_text": "#FFFFFF",
+            "stations": [
+                7,
+                5,
+                4,
+                3,
+                10,
+                11,
+                14,
+                15,
+                17,
+                20,
+                21,
+                22,
+                23,
+                26
+            ],
+            "draw_map": [
+                7,
+                5,
+                4,
+                3,
+                10,
+                11,
+                14,
+                15,
+                17,
+                20,
+                21,
+                22,
+                23,
+                26
+            ],
+            "id": 98
+        },
+        {
+            "name": "C ",
+            "html": "C ",
+            "css": "subway-line",
+            "color_bg": "#58A738",
+            "color_text": "#FFFFFF",
+            "stations": [
+                135,
+                136,
+                134,
+                133,
+                132,
+                131,
+                130,
+                129,
+                127,
+                128,
+                71,
+                137,
+                139,
+                140
+            ],
+            "draw_map": [
+                135,
+                136,
+                134,
+                133,
+                132,
+                131,
+                130,
+                129,
+                127,
+                128,
+                71,
+                137,
+                139,
+                140
+            ],
+            "id": 99
+        },
+        {
+            "name": "D ",
+            "html": "D ",
+            "css": "subway-line",
+            "color_bg": "#A05DA5",
+            "color_text": "#FFFFFF",
+            "stations": [
+                7,
+                5,
+                4,
+                3,
+                10,
+                11,
+                12,
+                13
+            ],
+            "draw_map": [
+                7,
+                5,
+                4,
+                3,
+                10,
+                11,
+                12,
+                13
+            ],
+            "id": 100
+        },
+        {
+            "name": "E ",
+            "html": "E ",
+            "css": "subway-line",
+            "color_bg": "#F7B618",
+            "color_text": "#000000",
+            "stations": [
+                56,
+                55,
+                54,
+                53,
+                52,
+                51,
+                50,
+                49,
+                48,
+                46,
+                45,
+                44,
+                43,
+                42,
+                40,
+                39,
+                37,
+                34,
+                3,
+                2,
+                1,
+                0,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+            ],
+            "draw_map": [
+                56,
+                55,
+                54,
+                53,
+                52,
+                51,
+                50,
+                49,
+                48,
+                46,
+                45,
+                44,
+                43,
+                42,
+                40,
+                39,
+                37,
+                34,
+                3,
+                2,
+                1,
+                0,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+            ],
+            "id": 101
+        },
+        {
+            "name": "G ",
+            "html": "G ",
+            "css": "subway-line",
+            "color_bg": "#FC4C02",
+            "color_text": "#FFFFFF",
+            "stations": [
+                126,
+                125,
+                124,
+                123,
+                122,
+                121,
+                119,
+                118,
+                117,
+                116,
+                115,
+                114,
+                113,
+                112,
+                111,
+                110,
+                26
+            ],
+            "draw_map": [
+                126,
+                125,
+                124,
+                123,
+                122,
+                121,
+                119,
+                118,
+                117,
+                116,
+                115,
+                114,
+                113,
+                112,
+                111,
+                110,
+                26
+            ],
+            "id": 102
+        },
+        {
+            "name": "K ",
+            "html": "K ",
+            "css": "subway-line",
+            "color_bg": "#E96BB0",
+            "color_text": "#FFFFFF",
+            "stations": [
+                62,
+                61,
+                60,
+                59,
+                58,
+                57,
+                44
+            ],
+            "draw_map": [
+                62,
+                61,
+                60,
+                59,
+                58,
+                57,
+                44
+            ],
+            "id": 103
+        },
+        {
+            "name": "A  ",
+            "html": "A  ",
+            "css": "subway-line-long",
+            "color_bg": "#0072BC",
+            "color_text": "#FFFFFF",
+            "stations": [
+                82,
+                83,
+                79
+            ],
+            "draw_map": [
+                82,
+                83,
+                79
+            ],
+            "id": 104
+        }
+    ],
+    "stations": [
+        {
+            "lat": 34.04865473946961,
+            "lng": -118.23875288246201,
+            "name": "Little Tokyo / Arts District",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97,
+                101
+            ],
+            "id": 0,
+            "active": true
+        },
+        {
+            "lat": 34.05211697678597,
+            "lng": -118.2462275074795,
+            "name": "Historic Broadway",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97,
+                101
+            ],
+            "id": 1,
+            "active": true
+        },
+        {
+            "lat": 34.05482812336385,
+            "lng": -118.25194597709925,
+            "name": "Grand Av Arts / Bunker Hill",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97,
+                101
+            ],
+            "id": 2,
+            "active": true
+        },
+        {
+            "lat": 34.050177384323604,
+            "lng": -118.25741428881885,
+            "name": "7th St / Metro Centre",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97,
+                98,
+                100,
+                101
+            ],
+            "id": 3,
+            "active": true
+        },
+        {
+            "lat": 34.04946869871349,
+            "lng": -118.25113305822016,
+            "name": "Pershing Square",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98,
+                100
+            ],
+            "id": 4,
+            "active": true
+        },
+        {
+            "lat": 34.05505753210834,
+            "lng": -118.24596251361072,
+            "name": "Civic Centre / Grand Park",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98,
+                100
+            ],
+            "id": 5,
+            "active": true
+        },
+        {
+            "lat": 34.055999084092264,
+            "lng": -118.23468080721797,
+            "name": "Los Angeles - ",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98
+            ],
+            "id": 6,
+            "active": false
+        },
+        {
+            "lat": 34.056061305251156,
+            "lng": -118.23477736674252,
+            "name": "Union Station",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97,
+                98,
+                100
+            ],
+            "id": 7,
+            "active": true
+        },
+        {
+            "lat": 34.06379671998821,
+            "lng": -118.23589861392976,
+            "name": "Chinatown",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 8,
+            "active": true
+        },
+        {
+            "lat": 34.06398781010614,
+            "lng": -118.23554724454883,
+            "name": "Los Angeles - Spring St",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 9,
+            "active": false
+        },
+        {
+            "lat": 34.05745939431478,
+            "lng": -118.2746994495392,
+            "name": "Westlake / MacArthur Park",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98,
+                100
+            ],
+            "id": 10,
+            "active": true
+        },
+        {
+            "lat": 34.06249791028462,
+            "lng": -118.29052253393459,
+            "name": "Wilshire / Vermont",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98,
+                100
+            ],
+            "id": 11,
+            "active": true
+        },
+        {
+            "lat": 34.061760198201256,
+            "lng": -118.30098832491788,
+            "name": "Wilshire / Normandy",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                100
+            ],
+            "id": 12,
+            "active": true
+        },
+        {
+            "lat": 34.06171692060576,
+            "lng": -118.30912828445436,
+            "name": "Wilshire / Western",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                100
+            ],
+            "id": 13,
+            "active": true
+        },
+        {
+            "lat": 34.07631887737546,
+            "lng": -118.2916831970215,
+            "name": "Beverly Blvd",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98
+            ],
+            "id": 14,
+            "active": true
+        },
+        {
+            "lat": 34.08972715328534,
+            "lng": -118.29176357947291,
+            "name": "Vermont / Santa Monica",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98
+            ],
+            "id": 15,
+            "active": true
+        },
+        {
+            "lat": 34.100038357360575,
+            "lng": -118.29352855682373,
+            "name": "Los Angeles - Barnsdall Park",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98
+            ],
+            "id": 16,
+            "active": false
+        },
+        {
+            "lat": 34.098550254252274,
+            "lng": -118.2916831970215,
+            "name": "Vermont / Sunset",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98
+            ],
+            "id": 17,
+            "active": true
+        },
+        {
+            "lat": 34.101695229436466,
+            "lng": -118.30880641937257,
+            "name": "Los Angeles - Hollywood Blvd   ",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98
+            ],
+            "id": 18,
+            "active": false
+        },
+        {
+            "lat": 34.101748533093314,
+            "lng": -118.30945014953615,
+            "name": "Los Angeles - Hollywood Blvd",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98
+            ],
+            "id": 19,
+            "active": false
+        },
+        {
+            "lat": 34.101748533093314,
+            "lng": -118.30932140350343,
+            "name": "Hollywood / Western",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98
+            ],
+            "id": 20,
+            "active": true
+        },
+        {
+            "lat": 34.101659693646596,
+            "lng": -118.32665920257568,
+            "name": "Hollywood / Vine",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98
+            ],
+            "id": 21,
+            "active": true
+        },
+        {
+            "lat": 34.10164192574605,
+            "lng": -118.3387613296509,
+            "name": "Hollywood / Highland",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                98
+            ],
+            "id": 22,
+            "active": true
+        },
+        {
+            "lat": 34.13911137129435,
+            "lng": -118.36216502822937,
+            "name": "Universal City / Studio City   ",
+            "info": "Studio City",
+            "riders": 0,
+            "lines": [
+                98
+            ],
+            "id": 23,
+            "active": true
+        },
+        {
+            "lat": 34.174174915863496,
+            "lng": -118.36429595947267,
+            "name": "North Hollywood - Collins St",
+            "info": "North Hollywood",
+            "riders": 0,
+            "lines": [
+                98
+            ],
+            "id": 24,
+            "active": false
+        },
+        {
+            "lat": 34.16872467379304,
+            "lng": -118.3771061897278,
+            "name": "North Hollywood - Lankershim Blvd",
+            "info": "North Hollywood",
+            "riders": 0,
+            "lines": [
+                98
+            ],
+            "id": 25,
+            "active": false
+        },
+        {
+            "lat": 34.16870691998644,
+            "lng": -118.37697744369508,
+            "name": "North Hollywood",
+            "info": "North Hollywood",
+            "riders": 0,
+            "lines": [
+                98,
+                102
+            ],
+            "id": 26,
+            "active": true
+        },
+        {
+            "lat": 34.047657476390775,
+            "lng": -118.22603307198735,
+            "name": "Pico / Aliso",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 27,
+            "active": true
+        },
+        {
+            "lat": 34.047192454500156,
+            "lng": -118.21939229965211,
+            "name": "Mariachi Plaza",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 28,
+            "active": true
+        },
+        {
+            "lat": 34.043725414810346,
+            "lng": -118.20976853370667,
+            "name": "Soto",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 29,
+            "active": true
+        },
+        {
+            "lat": 34.034237732017516,
+            "lng": -118.19218233693393,
+            "name": "Indiana",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 30,
+            "active": true
+        },
+        {
+            "lat": 34.03330566304798,
+            "lng": -118.16802799701692,
+            "name": "Maravilla",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 31,
+            "active": true
+        },
+        {
+            "lat": 34.033368734401634,
+            "lng": -118.16113970708102,
+            "name": "East LA Civic Centre",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 32,
+            "active": true
+        },
+        {
+            "lat": 34.033394574193764,
+            "lng": -118.15447211265565,
+            "name": "Atlantic",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 33,
+            "active": true
+        },
+        {
+            "lat": 34.04066357864805,
+            "lng": -118.26617409009488,
+            "name": "Pico",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97,
+                101
+            ],
+            "id": 34,
+            "active": true
+        },
+        {
+            "lat": 34.029079011423626,
+            "lng": -118.27363098738718,
+            "name": "",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 35,
+            "active": false
+        },
+        {
+            "lat": 34.02919904742803,
+            "lng": -118.27204311965033,
+            "name": "Los Angeles - 23rd St",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 36,
+            "active": false
+        },
+        {
+            "lat": 34.02918126432698,
+            "lng": -118.27357734320688,
+            "name": "LATTC / Ortho",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 37,
+            "active": true
+        },
+        {
+            "lat": 34.02629500374509,
+            "lng": -118.27610115520658,
+            "name": "Los Angeles - Flower St",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 38,
+            "active": false
+        },
+        {
+            "lat": 34.022119897771226,
+            "lng": -118.27813804149629,
+            "name": "Jefferson / USC",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 39,
+            "active": true
+        },
+        {
+            "lat": 34.0182338774957,
+            "lng": -118.28577429056169,
+            "name": "Expo Park / USC",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 40,
+            "active": true
+        },
+        {
+            "lat": 34.01825610923897,
+            "lng": -118.2925468683243,
+            "name": "Los Angeles - Exposition Blvd",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 41,
+            "active": false
+        },
+        {
+            "lat": 34.01826500193462,
+            "lng": -118.29156517982484,
+            "name": "Expo / Vermont",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 42,
+            "active": true
+        },
+        {
+            "lat": 34.018346564584306,
+            "lng": -118.30891354009512,
+            "name": "Expo / Western",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 43,
+            "active": true
+        },
+        {
+            "lat": 34.02253783443552,
+            "lng": -118.33510279655458,
+            "name": "Expo / Crenshaw",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101,
+                103
+            ],
+            "id": 44,
+            "active": true
+        },
+        {
+            "lat": 34.02400337533298,
+            "lng": -118.34606909193099,
+            "name": "Farmdale",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 45,
+            "active": true
+        },
+        {
+            "lat": 34.02479560163591,
+            "lng": -118.35516643244775,
+            "name": "Expo / La Brea",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 46,
+            "active": true
+        },
+        {
+            "lat": 34.026130226417614,
+            "lng": -118.37148427963258,
+            "name": "Los Angeles - La Cienega Blvd",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 47,
+            "active": false
+        },
+        {
+            "lat": 34.02636141475286,
+            "lng": -118.37212800979616,
+            "name": "La Cienega / Jefferson",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 48,
+            "active": true
+        },
+        {
+            "lat": 34.02788190695681,
+            "lng": -118.3888864517212,
+            "name": "Culver City",
+            "info": "Culver City",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 49,
+            "active": true
+        },
+        {
+            "lat": 34.02931345658664,
+            "lng": -118.40422868728639,
+            "name": "Palms",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 50,
+            "active": true
+        },
+        {
+            "lat": 34.03681869379725,
+            "lng": -118.42461932217705,
+            "name": "Westwood - Rancho Park",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 51,
+            "active": true
+        },
+        {
+            "lat": 34.035426168484285,
+            "lng": -118.43420505523683,
+            "name": "Expo / Sepulveda",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 52,
+            "active": true
+        },
+        {
+            "lat": 34.03172698846271,
+            "lng": -118.4529348788783,
+            "name": "Expo / Bundy",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 53,
+            "active": true
+        },
+        {
+            "lat": 34.02803306551159,
+            "lng": -118.4690523147583,
+            "name": "26th St / Bergamot",
+            "info": "Santa Monica",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 54,
+            "active": true
+        },
+        {
+            "lat": 34.02314425923784,
+            "lng": -118.48038280382755,
+            "name": "17th St / SMC",
+            "info": "Santa Monica",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 55,
+            "active": true
+        },
+        {
+            "lat": 34.013836324203176,
+            "lng": -118.4914916753769,
+            "name": "Downtown Santa Monica",
+            "info": "Santa Monica",
+            "riders": 0,
+            "lines": [
+                101
+            ],
+            "id": 56,
+            "active": true
+        },
+        {
+            "lat": 34.010365836880105,
+            "lng": -118.33530195057395,
+            "name": "Martin Luther King Jr.",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                103
+            ],
+            "id": 57,
+            "active": true
+        },
+        {
+            "lat": 34.00459923386065,
+            "lng": -118.33265695720912,
+            "name": "Leimert Park",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                103
+            ],
+            "id": 58,
+            "active": true
+        },
+        {
+            "lat": 33.98823091800693,
+            "lng": -118.33085180958734,
+            "name": "Hyde Park",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                103
+            ],
+            "id": 59,
+            "active": true
+        },
+        {
+            "lat": 33.97524458787683,
+            "lng": -118.33626687526703,
+            "name": "Fairview Heights",
+            "info": "Inglewood",
+            "riders": 0,
+            "lines": [
+                103
+            ],
+            "id": 60,
+            "active": true
+        },
+        {
+            "lat": 33.96726259115918,
+            "lng": -118.35143912583592,
+            "name": "Downtown Inglewood",
+            "info": "Inglewood",
+            "riders": 0,
+            "lines": [
+                103
+            ],
+            "id": 61,
+            "active": true
+        },
+        {
+            "lat": 33.962049017224416,
+            "lng": -118.37449908256531,
+            "name": "Westchester / Veterans",
+            "info": "Inglewood",
+            "riders": 0,
+            "lines": [
+                103
+            ],
+            "id": 62,
+            "active": true
+        },
+        {
+            "lat": 34.03307181934358,
+            "lng": -118.26912636402996,
+            "name": "Grand / LATTC",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 63,
+            "active": true
+        },
+        {
+            "lat": 34.02681489773491,
+            "lng": -118.25552165508272,
+            "name": "San Pedro St",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 64,
+            "active": true
+        },
+        {
+            "lat": 34.01975896158265,
+            "lng": -118.24306547641756,
+            "name": "Washington",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 65,
+            "active": true
+        },
+        {
+            "lat": 34.00308794849157,
+            "lng": -118.24330448638649,
+            "name": "Vernon",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 66,
+            "active": true
+        },
+        {
+            "lat": 33.98880176147096,
+            "lng": -118.24340879917146,
+            "name": "Slauson",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 67,
+            "active": true
+        },
+        {
+            "lat": 33.97384326740275,
+            "lng": -118.2432746887207,
+            "name": "Florence",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 68,
+            "active": true
+        },
+        {
+            "lat": 33.95958195439026,
+            "lng": -118.24318361934276,
+            "name": "Firestone",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 69,
+            "active": true
+        },
+        {
+            "lat": 33.942302549537736,
+            "lng": -118.24317452497782,
+            "name": "103rd St / Watts Tower",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 70,
+            "active": true
+        },
+        {
+            "lat": 33.92824104614674,
+            "lng": -118.23766887187959,
+            "name": "Willowbrook / Rosa Parks",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97,
+                99
+            ],
+            "id": 71,
+            "active": true
+        },
+        {
+            "lat": 33.89749284393869,
+            "lng": -118.2242683041841,
+            "name": "Compton",
+            "info": "Compton",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 72,
+            "active": true
+        },
+        {
+            "lat": 33.87619563387371,
+            "lng": -118.22253941092642,
+            "name": "Artesia",
+            "info": "Compton",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 73,
+            "active": true
+        },
+        {
+            "lat": 33.84801751346152,
+            "lng": -118.21092724800111,
+            "name": "Del Amo",
+            "info": "Compton",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 74,
+            "active": true
+        },
+        {
+            "lat": 33.819944856347774,
+            "lng": -118.19615364074707,
+            "name": "Wardlow",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 75,
+            "active": true
+        },
+        {
+            "lat": 33.807016185186285,
+            "lng": -118.18981884978713,
+            "name": "Willow St",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 76,
+            "active": true
+        },
+        {
+            "lat": 33.78911477045413,
+            "lng": -118.18939361488448,
+            "name": "Pacific Coast Highway",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 77,
+            "active": true
+        },
+        {
+            "lat": 33.78978600545043,
+            "lng": -118.1905471533537,
+            "name": "Long Beach - Pacific Coast Hwy",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 78,
+            "active": false
+        },
+        {
+            "lat": 33.781963334676576,
+            "lng": -118.18939897930251,
+            "name": "Anaheim St",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97,
+                104
+            ],
+            "id": 79,
+            "active": true
+        },
+        {
+            "lat": 33.77362518364603,
+            "lng": -118.18937752163039,
+            "name": "5th St",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 80,
+            "active": true
+        },
+        {
+            "lat": 33.7688468058059,
+            "lng": -118.18939983844759,
+            "name": "1st St",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 81,
+            "active": true
+        },
+        {
+            "lat": 33.76804411544664,
+            "lng": -118.19297254085542,
+            "name": "Downtown Long Beach",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97,
+                104
+            ],
+            "id": 82,
+            "active": true
+        },
+        {
+            "lat": 33.77225380126545,
+            "lng": -118.19372381083667,
+            "name": "Pacific Av",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                104
+            ],
+            "id": 83,
+            "active": true
+        },
+        {
+            "lat": 33.773573607621934,
+            "lng": -118.19326758384706,
+            "name": "Long Beach - Pine Ave",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 84,
+            "active": false
+        },
+        {
+            "lat": 33.77415329177968,
+            "lng": -118.19294571876527,
+            "name": "Long Beach - 6th St",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 85,
+            "active": false
+        },
+        {
+            "lat": 33.77416220996687,
+            "lng": -118.19157242774965,
+            "name": "Long Beach - 6th St",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 86,
+            "active": false
+        },
+        {
+            "lat": 33.77416220996687,
+            "lng": -118.19072484970094,
+            "name": "Long Beach - Locust Ave",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 87,
+            "active": false
+        },
+        {
+            "lat": 33.774171128153114,
+            "lng": -118.18995237350465,
+            "name": "Long Beach - Long Beach Blvd",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 88,
+            "active": false
+        },
+        {
+            "lat": 33.774171128153114,
+            "lng": -118.1902849674225,
+            "name": "Long Beach - 6th St",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 89,
+            "active": false
+        },
+        {
+            "lat": 33.774117619021695,
+            "lng": -118.19312810897829,
+            "name": "Long Beach - 6th St",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 90,
+            "active": false
+        },
+        {
+            "lat": 33.776257958209214,
+            "lng": -118.19250583648683,
+            "name": "Long Beach - Pine Ave",
+            "info": "Long Beach",
+            "riders": 0,
+            "lines": [
+                104
+            ],
+            "id": 91,
+            "active": false
+        },
+        {
+            "lat": 34.17090836352573,
+            "lng": -118.37596893310548,
+            "name": "North Hollywood - Elmer Ave",
+            "info": "North Hollywood",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 92,
+            "active": false
+        },
+        {
+            "lat": 34.08102045725278,
+            "lng": -118.22037482634187,
+            "name": "Lincoln / Cypress",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 93,
+            "active": true
+        },
+        {
+            "lat": 34.0873584849807,
+            "lng": -118.21305243764074,
+            "name": "Heritage Square",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 94,
+            "active": true
+        },
+        {
+            "lat": 34.09838145284427,
+            "lng": -118.20648550987245,
+            "name": "Southwest Museum",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 95,
+            "active": true
+        },
+        {
+            "lat": 34.11126269790168,
+            "lng": -118.19246292114259,
+            "name": "Highland Park",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 96,
+            "active": true
+        },
+        {
+            "lat": 34.11526783791077,
+            "lng": -118.15782935824247,
+            "name": "South Pasadena",
+            "info": "South Pasadena",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 97,
+            "active": true
+        },
+        {
+            "lat": 34.13352929936175,
+            "lng": -118.14813137054445,
+            "name": "Fillmore",
+            "info": "Pasadena",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 98,
+            "active": true
+        },
+        {
+            "lat": 34.141983209702204,
+            "lng": -118.14821720123292,
+            "name": "Del Mar",
+            "info": "Pasadena",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 99,
+            "active": true
+        },
+        {
+            "lat": 34.14845405326931,
+            "lng": -118.14765661954883,
+            "name": "Memorial Park",
+            "info": "Pasadena",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 100,
+            "active": true
+        },
+        {
+            "lat": 34.15181248096862,
+            "lng": -118.13161969184877,
+            "name": "Lake",
+            "info": "Pasadena",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 101,
+            "active": true
+        },
+        {
+            "lat": 34.152425627938726,
+            "lng": -118.11425155028704,
+            "name": "Allen",
+            "info": "Pasadena",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 102,
+            "active": true
+        },
+        {
+            "lat": 34.147754826478085,
+            "lng": -118.08122634887697,
+            "name": "Sierra Madre Villa",
+            "info": "Pasadena",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 103,
+            "active": true
+        },
+        {
+            "lat": 34.14285341716618,
+            "lng": -118.02913784980775,
+            "name": "Arcadia",
+            "info": "Arcadia",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 104,
+            "active": true
+        },
+        {
+            "lat": 34.133156313250694,
+            "lng": -118.00348520278932,
+            "name": "Monorovia",
+            "info": "Monrovia",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 105,
+            "active": true
+        },
+        {
+            "lat": 34.13250823209216,
+            "lng": -117.96748434193434,
+            "name": "Duarte / City of Hope",
+            "info": "Duarte",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 106,
+            "active": true
+        },
+        {
+            "lat": 34.12910664381316,
+            "lng": -117.9325032234192,
+            "name": "Irwindale",
+            "info": "Irwindale",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 107,
+            "active": true
+        },
+        {
+            "lat": 34.13558957393613,
+            "lng": -117.90689349174501,
+            "name": "Azuza Downtown",
+            "info": "Azusa",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 108,
+            "active": true
+        },
+        {
+            "lat": 34.136834639923165,
+            "lng": -117.89155613863844,
+            "name": "APU / Citrus College",
+            "info": "Azusa",
+            "riders": 0,
+            "lines": [
+                97
+            ],
+            "id": 109,
+            "active": true
+        },
+        {
+            "lat": 34.16853683694304,
+            "lng": -118.3965166239068,
+            "name": "Laurel Canyon",
+            "info": "Valley Village",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 110,
+            "active": true
+        },
+        {
+            "lat": 34.17216440336659,
+            "lng": -118.42253744602205,
+            "name": "Valley College",
+            "info": "Van Nuys",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 111,
+            "active": true
+        },
+        {
+            "lat": 34.17900096976456,
+            "lng": -118.4296053601429,
+            "name": "Woodman",
+            "info": "Van Nuys",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 112,
+            "active": true
+        },
+        {
+            "lat": 34.18050738431541,
+            "lng": -118.44822655431928,
+            "name": "Van Nuys",
+            "info": "Van Nuys",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 113,
+            "active": true
+        },
+        {
+            "lat": 34.180796397597305,
+            "lng": -118.46888065338136,
+            "name": "Sepulveda",
+            "info": "Van Nuys",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 114,
+            "active": true
+        },
+        {
+            "lat": 34.18630781206282,
+            "lng": -118.48367362283172,
+            "name": "Woodley",
+            "info": "Van Nuys",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 115,
+            "active": true
+        },
+        {
+            "lat": 34.18592601058889,
+            "lng": -118.5005204519257,
+            "name": "Balboa",
+            "info": "Van Nuys",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 116,
+            "active": true
+        },
+        {
+            "lat": 34.180325138327056,
+            "lng": -118.5360327945091,
+            "name": "Reseda",
+            "info": "Reseda",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 117,
+            "active": true
+        },
+        {
+            "lat": 34.181204675709516,
+            "lng": -118.55348825454713,
+            "name": "Tampa",
+            "info": "Reseda",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 118,
+            "active": true
+        },
+        {
+            "lat": 34.18713460931326,
+            "lng": -118.57104599475862,
+            "name": "Pierce College",
+            "info": "Winnetka",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 119,
+            "active": true
+        },
+        {
+            "lat": 34.1885710934946,
+            "lng": -118.58839988708496,
+            "name": "Winnetka - De Soto Ave",
+            "info": "Winnetka",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 120,
+            "active": false
+        },
+        {
+            "lat": 34.188579968308765,
+            "lng": -118.58848571777345,
+            "name": "De Soto",
+            "info": "Woodland Hills",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 121,
+            "active": true
+        },
+        {
+            "lat": 34.19115362501287,
+            "lng": -118.59628558158876,
+            "name": "Canoga",
+            "info": "Canoga Park",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 122,
+            "active": true
+        },
+        {
+            "lat": 34.20051574803184,
+            "lng": -118.59712243080139,
+            "name": "Sherman Way",
+            "info": "Canoga Park",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 123,
+            "active": true
+        },
+        {
+            "lat": 34.21977804037869,
+            "lng": -118.59729409217836,
+            "name": "Roscoe",
+            "info": "Canoga Park",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 124,
+            "active": true
+        },
+        {
+            "lat": 34.23544813982568,
+            "lng": -118.5972833633423,
+            "name": "Nordhoff",
+            "info": "Chatsworth",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 125,
+            "active": true
+        },
+        {
+            "lat": 34.25225931706737,
+            "lng": -118.59938353300096,
+            "name": "Chatsworth",
+            "info": "Chatsworth",
+            "riders": 0,
+            "lines": [
+                102
+            ],
+            "id": 126,
+            "active": true
+        },
+        {
+            "lat": 33.92870840591066,
+            "lng": -118.28101873397829,
+            "name": "Harbour Fwy",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 127,
+            "active": true
+        },
+        {
+            "lat": 33.92747991189931,
+            "lng": -118.26521515846254,
+            "name": "Avalon",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 128,
+            "active": true
+        },
+        {
+            "lat": 33.92868169970753,
+            "lng": -118.29177975654602,
+            "name": "Vermont / Athens",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 129,
+            "active": true
+        },
+        {
+            "lat": 33.92521872442886,
+            "lng": -118.32650899887086,
+            "name": "Crenshaw",
+            "info": "Inglewood",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 130,
+            "active": true
+        },
+        {
+            "lat": 33.933426370378605,
+            "lng": -118.35167884826662,
+            "name": "Hawthorne / Lenox",
+            "info": "Inglewood",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 131,
+            "active": true
+        },
+        {
+            "lat": 33.92961641183505,
+            "lng": -118.37719202041627,
+            "name": "Aviation / LAX",
+            "info": "Los Angeles",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 132,
+            "active": true
+        },
+        {
+            "lat": 33.92318456420101,
+            "lng": -118.38760202983394,
+            "name": "Mariposa",
+            "info": "El Segundo",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 133,
+            "active": true
+        },
+        {
+            "lat": 33.91625840848104,
+            "lng": -118.38677287101747,
+            "name": "El Segundo",
+            "info": "El Segundo",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 134,
+            "active": true
+        },
+        {
+            "lat": 33.89462002731888,
+            "lng": -118.36913466453554,
+            "name": "Redondo Beach",
+            "info": "Lawndale",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 135,
+            "active": true
+        },
+        {
+            "lat": 33.90532391982011,
+            "lng": -118.3831572532654,
+            "name": "Douglas",
+            "info": "El Segundo",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 136,
+            "active": true
+        },
+        {
+            "lat": 33.92489394156498,
+            "lng": -118.20998631650582,
+            "name": "Long Beach Blvd",
+            "info": "Lynwood",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 137,
+            "active": true
+        },
+        {
+            "lat": 33.91266537188397,
+            "lng": -118.16898822784425,
+            "name": "South Gate - Garfield Ave",
+            "info": "South Gate",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 138,
+            "active": false
+        },
+        {
+            "lat": 33.91305595314155,
+            "lng": -118.14062043093148,
+            "name": "Lakewood Blvd",
+            "info": "Downey",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 139,
+            "active": true
+        },
+        {
+            "lat": 33.914039780442366,
+            "lng": -118.10480844578707,
+            "name": "Norwalk",
+            "info": "Norwalk",
+            "riders": 0,
+            "lines": [
+                99
+            ],
+            "id": 140,
+            "active": true
+        }
+    ],
+    "transfers": [],
+    "version": 0.11
+}
